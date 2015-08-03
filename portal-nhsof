@@ -1,0 +1,2498 @@
+[
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Potential years of life lost (PYLL) from causes considered amenable to healthcare - adults (NHSOF 1a.i)",
+        "description": "The number of years of life lost by every 100,000 adults aged 20 and over dying from a condition which is usually treatable, measured in a way which allows for comparisons between populations with different age profiles and over time.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent amenable deaths. Deaths from causes considered ‘amenable’ to healthcare are premature deaths that should not occur in the presence of timely and effective healthcare.\n\nCurrent version updated: Feb-15\n\nNext version due: Nov-15",
+        "modified": "2015-02",
+        "identifier": "HSCIC-Indicator-Portal-P01726",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01726&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "death",
+            "mortality",
+            "amenable",
+            "deaths"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1a.i_I01954_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1a.i_I01954_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1a.i_I01954_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Potential years of life lost (PYLL) from causes considered amenable to healthcare - children and young people (NHSOF 1a.ii)",
+        "description": "The number of years of life lost by every 100,000 persons aged 0 to 19 dying from a condition which is usually treatable, measured in a way which allows for comparisons between populations with different age profiles and over time.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent amenable deaths. Deaths from causes considered ‘amenable’ to healthcare are premature deaths that should not occur in the presence of timely and effective healthcare.\n\nCurrent version updated: Nov-14\n\nNext version due: Nov-15",
+        "modified": "2014-11",
+        "identifier": "HSCIC-Indicator-Portal-P01727",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01727&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "death",
+            "mortality",
+            "amenable",
+            "deaths"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1a.ii_I00807_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1a.ii_I00807_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1a.ii_I00807_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Life expectancy at 75 (NHSOF 1b)",
+        "description": "The average number of additional years a man or woman aged 75 can be expected to live if they continue to live in the same place and the death rates in their area remain the same for the rest of their life.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent avoidable deaths in older people. This indicator captures all persons aged 75 and over.\n\nCurrent version updated: Feb-15\n\nNext version due: Feb-16",
+        "modified": "2015-02",
+        "identifier": "HSCIC-Indicator-Portal-P01728",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01728&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "death",
+            "mortality",
+            "life expectancy",
+            "deaths"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1b_I00655_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1b_I00655_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1b_I00655_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Neonatal mortality and stillbirths (former indicator 1.6.ii) (NHSOF 1c)",
+        "description": "The number of babies stillborn or dying before 28 days old per 1,000 live births and stillbirths.\n\nPurpose\n\nNeonatal mortality and stillbirths rates aim to reflect NHS care during pre-pregnancy, pregnancy, birth and immediately after birth.\n\nCurrent version updated: May-15\n\nNext version due: May-16",
+        "modified": "2015-05",
+        "identifier": "HSCIC-Indicator-Portal-P01729",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01729&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "death",
+            "infant health",
+            "child health",
+            "stillbirths",
+            "mortality",
+            "deaths"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1c_I00667_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1c_I00667_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1c_I00667_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Under 75 mortality rate from cardiovascular disease (NHSOF 1.1)",
+        "description": "Directly standardised mortality rate from cardiovascular disease for people aged under 75, per 100,000 population.\n\n\n\nDirect comparison with previous year’s mortality, prior to 2011, is not advisable. There was a decrease in the number of deaths with an underlying cause coded as ‘Cardiovascular Disease’. However, a large proportion of this decrease is caused by a correction to the coding of vascular dementia, which was coded as underlying cause CVD (I67.9) until 2010 and is now coded as underlying cause in ‘Mental Health’ deaths (F01). Further details can be found at: http://www.ons.gov.uk/ons/rel/subnational-health3/results-of-the-icd-10-v2010-bridge-coding-study--england-and-wales--2009/2009/index.html\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent deaths from cardiovascular disease in people under 75.\n\nCurrent version updated: Feb-15\n\nNext version due: Nov-15",
+        "modified": "2015-02",
+        "identifier": "HSCIC-Indicator-Portal-P01730",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01730&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "death",
+            "circulatory system diseases",
+            "mortality",
+            "deaths"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.1_I00656_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.1_I00656_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1.1_I00656_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Under 75 mortality rate from respiratory disease (NHSOF 1.2)",
+        "description": "Directly standardised mortality rate from respiratory disease for people aged under 75, per 100,000 population.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent deaths from respiratory disease in people under 75.\n\nCurrent version updated: Feb-15\n\nNext version due: Nov-15",
+        "modified": "2015-02",
+        "identifier": "HSCIC-Indicator-Portal-P01731",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01731&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "death",
+            "respiratory diseases",
+            "mortality",
+            "deaths"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.2_I00657_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.2_I00657_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1.2_I00657_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Under 75 mortality rate from liver disease (NHSOF 1.3)",
+        "description": "Directly standardised mortality rate from liver disease for people aged under 75, per 100,000 population.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent deaths from liver disease in people under 75.\n\nCurrent version updated: Feb-15\n\nNext version due: Nov-15",
+        "modified": "2015-02",
+        "identifier": "HSCIC-Indicator-Portal-P01732",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01732&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "death",
+            "digestive disease",
+            "liver",
+            "mortality",
+            "deaths"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.3_I00658_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.3_I00658_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1.3_I00658_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Under 75 mortality rate from cancer (NHSOF 1.4)",
+        "description": "Directly standardised mortality rate from cancer for people aged under 75, per 100,000 population.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent deaths from cancer in people under 75.\n\nCurrent version updated: Feb-15\n\nNext version due: Nov-15",
+        "modified": "2015-02",
+        "identifier": "HSCIC-Indicator-Portal-P01733",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01733&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "death",
+            "cancer",
+            "mortality",
+            "deaths"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.4_I00730_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.4_I00730_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1.4_I00730_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "One-year survival from all cancers (NHSOF 1.4.i)",
+        "description": "A measure of the number of adults diagnosed with any type of cancer in a year who are still alive one year after diagnosis.\n\n\n\nONS still publish survival percentages for individual types of cancers. These can be found at: http://www.ons.gov.uk/ons/rel/cancer-unit/cancer-survival/cancer-survival-in-england--patients-diagnosed-2007-2011-and-followed-up-to-2012/index.html\n\nPurpose\n\nThis indicator attempts to capture the success of the NHS in preventing people from dying once they have been diagnosed with any type of cancer.\n\nCurrent version updated: Feb-14\n\nNext version due: To be confirmed",
+        "modified": "2014-02",
+        "identifier": "HSCIC-Indicator-Portal-P01734",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01734&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "death",
+            "cancer",
+            "mortality",
+            "deaths"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.4.i_I01995_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.4.i_I01995_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1.4.i_I01995_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Five-year survival from all cancers (NHSOF 1.4.ii)",
+        "description": "A measure of the number of adults diagnosed with any type of cancer in a year who are still alive five years after diagnosis.\n\n\n\nONS still publish survival percentages for individual types of cancers. These can be found at: http://www.ons.gov.uk/ons/rel/cancer-unit/cancer-survival/cancer-survival-in-england--patients-diagnosed-2007-2011-and-followed-up-to-2012/index.html\n\nPurpose\n\nThis indicator attempts to capture the success of the NHS in preventing people from dying once they have been diagnosed with any type of cancer.\n\nCurrent version updated: May-14\n\nNext version due: To be confirmed",
+        "modified": "2014-05",
+        "identifier": "HSCIC-Indicator-Portal-P01735",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01735&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "death",
+            "cancer",
+            "mortality",
+            "deaths"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.4.ii_I01996_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.4.ii_I01996_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1.4.ii_I01996_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "One-year survival from breast, lung and colorectal cancer (NHSOF 1.4.iii)",
+        "description": "A measure of the number of adults diagnosed with breast, lung or colorectal cancer in a year who are still alive one year after diagnosis.\n\n\n\nONS still publish survival percentages for individual types of cancers. These can be found at: http://www.ons.gov.uk/ons/rel/cancer-unit/cancer-survival/cancer-survival-in-england--patients-diagnosed-2007-2011-and-followed-up-to-2012/index.html\n\n\n\nA time series for one-year survival figures for breast, lung and colorectal cancer individually (previous NHS Outcomes Framework indicators 1.4.i, 1.4.iii and 1.4.v) is still published and can be found under the link Indicator data - previous methodology (.xls) below.\n\nPurpose\n\nThis indicator attempts to capture the success of the NHS in preventing people from dying once they have been diagnosed with breast, lung or colorectal cancer.\n\nCurrent version updated: Feb-14\n\nNext version due: To be confirmed",
+        "modified": "2014-02",
+        "identifier": "HSCIC-Indicator-Portal-P01736",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01736&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "rectal cancer",
+            "lung cancer",
+            "death",
+            "colon cancer",
+            "cancer",
+            "colorectal cancer",
+            "breast cancer",
+            "bowel cancer",
+            "mortality",
+            "deaths"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.4.iii_I01997_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.4.iii_I01997_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/One-year cancer survival (old)_D.xls",
+                "title": "Indicator data - previous methodology (.xls)",
+                "format": "application/vnd.ms-excel"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1.4.iii_I01997_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Five-year survival from breast, lung and colorectal cancer (NHSOF 1.4.iv)",
+        "description": "A measure of the number of adults diagnosed with breast, lung or colorectal cancer in a year who are still alive five years after diagnosis.\n\n\n\nONS still publish survival percentages for individual types of cancers. These can be found at: http://www.ons.gov.uk/ons/rel/cancer-unit/cancer-survival/cancer-survival-in-england--patients-diagnosed-2007-2011-and-followed-up-to-2012/index.html\n\n\n\nA time series for five-year survival figures for breast, lung and colorectal cancer individually (previous NHS Outcomes Framework indicators 1.4.ii, 1.4.iv and 1.4.vi) is still published and can be found under the link Indicator data - previous methodology (.xls) below.\n\nPurpose\n\nThis indicator attempts to capture the success of the NHS in preventing people from dying once they have been diagnosed with breast, lung or colorectal cancer.\n\nCurrent version updated: May-14\n\nNext version due: To be confirmed",
+        "modified": "2014-05",
+        "identifier": "HSCIC-Indicator-Portal-P01737",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01737&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "rectal cancer",
+            "lung cancer",
+            "death",
+            "colon cancer",
+            "cancer",
+            "colorectal cancer",
+            "breast cancer",
+            "bowel cancer",
+            "mortality",
+            "deaths"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.4.iv_I01998_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.4.iv_I01998_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/Five-year cancer survival (old)_D.xls",
+                "title": "Indicator data - previous methodology (.xls)",
+                "format": "application/vnd.ms-excel"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1.4.iv_I01998_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Excess under 75 mortality rate in adults with serious mental illness (formerly indicator 1.5) (NHSOF 1.5.i)",
+        "description": "A measure of the extent to which adults with a serious mental illness die younger than adults in the general population.\n\nPurpose\n\nTo measure premature mortality in adults diagnosed with serious mental illness.\n\nCurrent version updated: Nov-14\n\nNext version due: Nov-15",
+        "modified": "2014-11",
+        "identifier": "HSCIC-Indicator-Portal-P01740",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01740&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "mental health",
+            "community mental health services",
+            "death",
+            "mental illness",
+            "mortality",
+            "deaths"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.5.i_I00665_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.5.i_I00665_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1.5.i_I00665_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1.5.i_I00665_LS.pdf",
+                "title": "Mental health and mortality data linkage specification",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Infant mortality (NHSOF 1.6.i)",
+        "description": "Infant mortality is defined as the number of babies dying before the age of one for every 1,000 live births.\n\nPurpose\n\nInfant mortality is a measure of the longer term consequences of perinatal events and is particularly important for monitoring outcomes for high risk groups such as very preterm babies and growth restricted babies.\n\nCurrent version updated: May-15\n\nNext version due: May-16",
+        "modified": "2015-05",
+        "identifier": "HSCIC-Indicator-Portal-P01743",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01743&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "mental health",
+            "death",
+            "infant health",
+            "child health",
+            "mortality",
+            "deaths"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.6.i_I00666_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.6.i_I00666_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1.6.i_I00666_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Five-year survival from all cancers in children (formerly indicator 1.6.iii) (NHSOF 1.6.ii)",
+        "description": "A measure of the proportion of children diagnosed with any type of cancer in a year who are still alive five years after diagnosis.\n\nPurpose\n\nThis indicator attempts to capture the success of the NHS in preventing children from dying once they have been diagnosed with any type of cancer.\n\nCurrent version updated: Feb-14\n\nNext version due: To be confirmed",
+        "modified": "2014-02",
+        "identifier": "HSCIC-Indicator-Portal-P01744",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01744&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "death",
+            "cancer",
+            "child health",
+            "mortality",
+            "deaths"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.6.ii_I01999_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1.6.ii_I01999_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1.6.ii_I01999_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Health-related quality of life for people with long-term conditions (NHSOF 2)",
+        "description": "This indicator measures the health-related quality of life for people who identify themselves as having one or more long-term conditions.\n\nPurpose\n\nThis indicators measures how successfully the NHS is supporting people with long-term conditions to live as normal a life as possible. This indicator helps people understand whether health-related quality of life is improving over time for the population with long-term conditions.\n\nCurrent version updated: Nov-14\n\nNext version due: Aug-15",
+        "modified": "2014-11",
+        "identifier": "HSCIC-Indicator-Portal-P01746",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01746&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "longterm condition",
+            "long-term condition",
+            "long-term",
+            "long-standing",
+            "longstanding condition",
+            "long-standing condition"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_2_I00705_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_2_I00705_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_2_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_2_I00705_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Proportion of people feeling supported to manage their condition (NHSOF 2.1)",
+        "description": "This indicator measures the degree to which people with health conditions that are expected to last for a significant period of time feel they have had sufficient support from relevant services and organisations to manage their condition.\n\nPurpose\n\nThis indicator measures the proportion of people who feel supported to manage their long-term condition.\n\nCurrent version updated: Nov-14\n\nNext version due: Aug-15",
+        "modified": "2014-11",
+        "identifier": "HSCIC-Indicator-Portal-P01747",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01747&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "longterm condition",
+            "long-term condition",
+            "long-term",
+            "long-standing",
+            "longstanding condition",
+            "long-standing condition"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_2.1_I00706_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_2.1_I00706_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_2_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_2.1_I00706_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Employment of people with long-term conditions (NHSOF 2.2)",
+        "description": "The percentage difference between the rate of employment in the general population of working age (16-64) and the rate of employment amongst adults of working age with a long-term condition.\n\nPurpose\n\nThis indicator measures the extent to which people with long-term conditions are able to live as normal a life as possible by looking at their levels of employment.\n\nCurrent version updated: May-15\n\nNext version due: Aug-15",
+        "modified": "2015-05",
+        "identifier": "HSCIC-Indicator-Portal-P01748",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01748&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "longterm condition",
+            "long-term condition",
+            "long-term",
+            "long-standing",
+            "longstanding condition",
+            "long-standing condition"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_2.2_I00707_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_2.2_I00707_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_2_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_2.2_I00707_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Unplanned hospitalisation for chronic ambulatory care sensitive conditions (NHSOF 2.3.i)",
+        "description": "This indicator measures how many people with specific long-term conditions, which should not normally require hospitalisation, are admitted to hospital in an emergency. These conditions include, for example, diabetes, epilepsy and high blood pressure.\n\nPurpose\n\nThis outcome is concerned with how successfully the NHS manages to reduce emergency admissions for all long-term conditions where optimum management can be achieved in the community.\n\nCurrent version updated: Feb-15\n\nNext version due: Nov-15",
+        "modified": "2015-02",
+        "identifier": "HSCIC-Indicator-Portal-P01749",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01749&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "longterm condition",
+            "long-term condition",
+            "hospital episode",
+            "hospital admission",
+            "long-term",
+            "admissions",
+            "long-standing",
+            "longstanding condition",
+            "long-standing condition"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_2.3.i_I00708_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_2.3.i_I00708_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_2_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_2.3.i_I00708_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Unplanned hospitalisation for asthma, diabetes and epilepsy in under 19s (NHSOF 2.3.ii)",
+        "description": "This indicator measures how many young people (aged 0-18 inclusive) who have asthma, diabetes or epilepsy are admitted to hospital in an emergency.\n\nPurpose\n\nThis outcome is concerned with how successfully the NHS manages to reduce avoidable emergency admissions for children with asthma, diabetes or epilepsy. These three conditions were chosen as they account for around 94 per cent of emergency admissions for children (under 19s) with long-term conditions.\n\nCurrent version updated: Feb-15\n\nNext version due: Nov-15",
+        "modified": "2015-02",
+        "identifier": "HSCIC-Indicator-Portal-P01750",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01750&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "longterm condition",
+            "long-term condition",
+            "diabetes",
+            "hospital episode",
+            "hospital admission",
+            "child health",
+            "asthma",
+            "long-term",
+            "admissions",
+            "long-standing",
+            "longstanding condition",
+            "long-standing condition",
+            "epilepsy"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_2.3.ii_I00671_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_2.3.ii_I00671_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_2_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_2.3.ii_I00671_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Health-related quality of life for carers (NHSOF 2.4)",
+        "description": "This indicator measures health-related quality of life for people who identify themselves as helping or supporting family members, friends, neighbours or others with their long-term physical or mental illness/disability or because of problems related to old age.\n\nPurpose\n\nThis indicator seeks to capture how successfully the NHS is supporting carers to live as normal a life as possible. This indicator helps people understand whether health-related quality of life for carers is improving over time.\n\nCurrent version updated: Nov-14\n\nNext version due: Aug-15",
+        "modified": "2014-11",
+        "identifier": "HSCIC-Indicator-Portal-P01751",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01751&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "longterm condition",
+            "long-term condition",
+            "long-term",
+            "long-standing",
+            "longstanding condition",
+            "long-standing condition"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_2.4_I00709_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_2.4_I00709_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_2_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_2.4_I00709_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Employment of people with mental illness (formerly indicator 2.5) (NHSOF 2.5.i)",
+        "description": "The percentage difference between the rate of employment in the general population of working age (16-64) and the rate of employment amongst adults of working age with a mental illness.\n\nPurpose\n\nThis indicator measures the extent to which people with mental illness are able to live as normal a life as possible by looking at their levels of employment. This indicator is to ensure that mental illness is not excluded due to an overriding focus on physical health.\n\nCurrent version updated: May-15\n\nNext version due: Aug-15",
+        "modified": "2015-05",
+        "identifier": "HSCIC-Indicator-Portal-P01752",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01752&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "longterm condition",
+            "long-term condition",
+            "mental health",
+            "long-term",
+            "long-standing",
+            "longstanding condition",
+            "long-standing condition"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_2.5.i_I00710_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_2.5.i_I00710_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_2_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_2.5.i_I00710_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Estimated diagnosis rate for people with dementia (NHSOF 2.6.i)",
+        "description": "This indicator measures the number of people that have been diagnosed with dementia as a proportion of the number who are estimated to have the condition.\n\nPurpose\n\nThis indicator aims to capture the quality of life of people with dementia. It measures the extent of diagnosis for people with dementia by estimating the proportion of the population that has been diagnosed with the disease.\n\nCurrent version updated: Feb-15\n\nNext version due: Feb-16",
+        "modified": "2015-02",
+        "identifier": "HSCIC-Indicator-Portal-P01754",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01754&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "longterm condition",
+            "long-term condition",
+            "mental health",
+            "dementia",
+            "long-term",
+            "long-standing",
+            "longstanding condition",
+            "long-standing condition"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_2.6.i_I00744_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_2.6.i_I00744_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_2_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_2.6.i_I00744_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Emergency admissions for acute conditions that should not usually require hospital admission (NHSOF 3a)",
+        "description": "The indicator measures the number of emergency admissions to hospital in England for acute conditions such as ear/nose/throat infections, kidney/urinary tract infections and heart failure, among others, that could potentially have been avoided if the patient had been better managed in primary care.\n\nPurpose\n\nThis indicator aims to measure the reduction in emergency admissions for conditions that should usually be managed outside hospital.  Where an individual has been admitted for one of these conditions, it may indicate that they have deteriorated more than should have been allowed by the adequate provision of healthcare in primary care or as a hospital outpatient.\n\nCurrent version updated: Feb-15\n\nNext version due: Nov-15",
+        "modified": "2015-02",
+        "identifier": "HSCIC-Indicator-Portal-P01757",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01757&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "hospital episodes",
+            "hospital admissions",
+            "acute condition",
+            "admissions"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_3a_I00711_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_3a_I00711_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_3_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_3a_I00711_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Emergency readmissions within 30 days of discharge from hospital (NHSOF 3b)",
+        "description": "This indicator measures the percentage of admissions of people who returned to hospital as an emergency within 30 days of the last time they left hospital after a stay. Admissions for cancer and obstetrics are excluded as they may be part of the patient’s care plan.\n\nPurpose\n\nThis indicator aims to measure the success of the NHS in helping people to recover effectively from illnesses or injuries. If a person does not recover well, it is more likely that they will require hospital treatment again within the 30 days following their previous admission. Thus, readmissions are widely used as an indicator of the success of healthcare in helping people to recover.\n\nCurrent version updated: Feb-14\n\nNext version due: To be confirmed",
+        "modified": "2014-02",
+        "identifier": "HSCIC-Indicator-Portal-P01758",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01758&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "hospital care",
+            "secondary care",
+            "hospital readmissions",
+            "hospital admissions"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_3b_I00712_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_3b_I00712_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_3_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_3b_I00712_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Emergency admissions for children with lower respiratory tract infections (LRTIs) (NHSOF 3.2)",
+        "description": "This indicator measures the number of emergency admissions to hospital of children with selected types of lower respiratory tract infections (bronchiolitis, bronchopneumonia and pneumonia).\n\nPurpose\n\nThis indicator is concerned with how successfully the NHS manages to reduce avoidable emergency admissions for children with lower respiratory tract infections (LRTIs).\n\nCurrent version updated: Feb-15\n\nNext version due: Nov-15",
+        "modified": "2015-02",
+        "identifier": "HSCIC-Indicator-Portal-P01762",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01762&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "hospital episodes",
+            "respiratory diseases",
+            "hospital admissions",
+            "child health",
+            "admissions"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_3.2_I00714_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_3.2_I00714_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_3_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_3.2_I00714_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": " Hip fracture: Proportion of patients recovering to their previous levels of mobility / walking ability at 30 days (NHSOF 3.5.i)",
+        "description": "The proportion of patients, expressed as a percentage, with a hip fracture recovering to their previous levels of mobility at 30 days.\n\nPurpose\n\nThis indicator aims to measure how effectively people recover their mobility following a hip fracture.\n\nCurrent version updated: Feb-15\n\nNext version due: Nov-15",
+        "modified": "2015-02",
+        "identifier": "HSCIC-Indicator-Portal-P01765",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01765&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "hip-fracture",
+            "mobility",
+            "hip fracture",
+            "recovery"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_3.5.i_I00717_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_3.5.i_I00717_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_3_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_3.5.i_I00717_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Hip fracture: Proportion of patients recovering to their previous levels of mobility / walking ability at 120 days (NHSOF 3.5.ii)",
+        "description": "The proportion of patients, expressed as a percentage, with a hip fracture recovering to their previous levels of mobility at 120 days.\n\nPurpose\n\nThis indicator aims to measure how effectively people recover their mobility following a hip fracture.\n\nCurrent version updated: Feb-15\n\nNext version due: Nov-15",
+        "modified": "2015-02",
+        "identifier": "HSCIC-Indicator-Portal-P01766",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01766&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "hip-fracture",
+            "mobility",
+            "hip fracture",
+            "recovery"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_3.5.ii_I00718_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_3.5.ii_I00718_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_3_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_3.5.ii_I00718_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Proportion of older people (65 and over) who were still at home 91 days after discharge from hospital into reablement/rehabilitation services (NHSOF 3.6.i)",
+        "description": "The proportion of older people (aged 65 and over), expressed as a percentage, who, after a period of reablement/rehabilitation, maintain their independence by remaining or returning to their home or previous residence 91 days after leaving hospital.\n\nPurpose\n\nThis indicator measures the benefit to individuals from reablement, intermediate care and rehabilitation following a hospital episode, by determining whether an individual remains living at home 91 days following discharge. This is seen as a key outcome for many people using reablement services.\n\nCurrent version updated: Feb-15\n\nNext version due: Aug-15",
+        "modified": "2015-02",
+        "identifier": "HSCIC-Indicator-Portal-P01767",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01767&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "rehabilitation",
+            "recovery",
+            "independence"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_3.6.i_I00719_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_3.6.i_I00719_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_3_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_3.6.i_I00719_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Proportion of older people (65 and over) who were offered rehabilitation following discharge from acute or community hospital (NHSOF 3.6.ii)",
+        "description": "The proportion of older people (aged 65 and over), expressed as a percentage, who are offered reablement services when they leave hospital.\n\nPurpose\n\nThis indicator measures the benefit to individuals from reablement, intermediate care and rehabilitation following a hospital episode, by determining how many individuals are offered rehabilitation services.\n\nCurrent version updated: Feb-15\n\nNext version due: Aug-15",
+        "modified": "2015-02",
+        "identifier": "HSCIC-Indicator-Portal-P01768",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01768&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "rehabilitation",
+            "recovery",
+            "independence"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_3.6.ii_I00745_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_3.6.ii_I00745_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_3_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_3.6.ii_I00745_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Patient experience of GP services (NHSOF 4a.i)",
+        "description": "This indicator measures the weighted percentage of people who report their overall experience of GP services as ‘fairly good’ or ‘very good’.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of their GP. The vast majority of the population visit their GP each year and often it is the experience people have of primary care that determines their overall view of the NHS.\n\nCurrent version updated: Nov-14\n\nNext version due: Aug-15",
+        "modified": "2014-11",
+        "identifier": "HSCIC-Indicator-Portal-P01771",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01771&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "patient experience",
+            "primary care",
+            "general practice",
+            "GP"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4a.i_I00739_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4a.i_I00739_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_4a.i_I00739_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Patient experience of GP out-of-hours services (NHSOF 4a.ii)",
+        "description": "This indicator measures the weighted percentage of people who report their overall experience of GP out-of-hours services as ‘fairly good’ or ‘very good’.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of GP out-of-hours services.\n\nCurrent version updated: Nov-14\n\nNext version due: Aug-15",
+        "modified": "2014-11",
+        "identifier": "HSCIC-Indicator-Portal-P01772",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01772&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "patient experience",
+            "out of hours",
+            "out-of-hours",
+            "primary care",
+            "general practice",
+            "GP"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4a.ii_I00740_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4a.ii_I00740_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_4a.ii_I00740_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Patient experience of dental services (NHSOF 4a.iii)",
+        "description": "This indicator measures the weighted percentage of people who report their overall experience of NHS dental services as ‘fairly good’ or ‘very good’.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of NHS dental services.\n\nCurrent version updated: Nov-14\n\nNext version due: Aug-15",
+        "modified": "2014-11",
+        "identifier": "HSCIC-Indicator-Portal-P01773",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01773&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "patient experience",
+            "dental",
+            "NHS",
+            "primary care",
+            "dentist"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4a.iii_I00741_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4a.iii_I00741_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_4a.iii_I00741_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Patient experience of hospital care (NHSOF 4b)",
+        "description": "Patient experience measured by scoring the results of a selection of questions from the National Inpatient Survey looking at a range of elements of hospital care.\n\nPurpose\n\nThis indicator aims to capture the experience of patients who have received medical treatment in hospital.\n\nCurrent version updated: Aug-14\n\nNext version due: Aug-15",
+        "modified": "2014-08",
+        "identifier": "HSCIC-Indicator-Portal-P01774",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01774&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "hospital care",
+            "patient experience",
+            "secondary care"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4b_I00683_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4b_I00683_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_4b_I00683_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Patient experience of outpatient services (NHSOF 4.1)",
+        "description": "Patient experience measured by scoring the results of a selection of questions from the National Outpatient Survey.\n\nPurpose\n\nThis indicator aims to capture the experience of patients who have recently received outpatient care.\n\nCurrent version updated: Mar-13\n\nNext version due: To be confirmed",
+        "modified": "2013-03",
+        "identifier": "HSCIC-Indicator-Portal-P01778",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01778&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "patient experience",
+            "outpatients"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4.1_I00684_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4.1_I00684_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_4.1_I00684_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Responsiveness to inpatients’ personal needs (NHSOF 4.2)",
+        "description": "Patient experience measured by scoring the results of a selection of questions from the National Inpatient Survey focussing on the responsiveness to personal needs.\n\nPurpose\n\nConsultation feedback indicated that personalisation and service responsiveness are important issues for inpatients. This indicator aims to capture inpatients’ experience of this.\n\nCurrent version updated: May-14\n\nNext version due: Aug-15",
+        "modified": "2014-05",
+        "identifier": "HSCIC-Indicator-Portal-P01779",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01779&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "patient experience",
+            "inpatients"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4.2_I00685_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4.2_I00685_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_4.2_I00685_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Patient experience of A&E services (NHSOF 4.3)",
+        "description": "Patient experience measured by scoring the results of a selection of questions from the National Accident and Emergency (A&E) Department Survey.\n\nPurpose\n\nThis indicator aims to capture the experience of patients who have used A&E services.\n\nCurrent version updated: Feb-15\n\nNext version due: To be confirmed",
+        "modified": "2015-02",
+        "identifier": "HSCIC-Indicator-Portal-P01780",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01780&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "patient experience",
+            "urgent care",
+            "A&E",
+            "emergency services",
+            "Accident and emergency"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4.3_I00686_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4.3_I00686_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_4.3_I00686_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Access to GP services (NHSOF 4.4.i)",
+        "description": "This indicator measures the weighted percentage of people who report their experience of making a GP appointment as ‘fairly good’ or ‘very good’.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of accessing GP services.\n\nCurrent version updated: Nov-14\n\nNext version due: Aug-15",
+        "modified": "2014-11",
+        "identifier": "HSCIC-Indicator-Portal-P01781",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01781&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "patient experience",
+            "access",
+            "appointment",
+            "primary care",
+            "general practice",
+            "GP"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4.4.i_I00687_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4.4.i_I00687_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_4.4.i_I00687_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Access to NHS dental services (NHSOF 4.4.ii)",
+        "description": "This indicator measures the weighted percentage of people who reported that they were successful in getting an NHS dental appointment when they tried in the last two years.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of accessing NHS dental services.\n\nCurrent version updated: Feb-15\n\nNext version due: Aug-15",
+        "modified": "2015-02",
+        "identifier": "HSCIC-Indicator-Portal-P01782",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01782&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "patient experience",
+            "access",
+            "dental",
+            "NHS",
+            "appointment",
+            "primary care",
+            "dentist"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4.4.ii_I00688_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4.4.ii_I00688_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_4.4.ii_I00688_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Women’s experience of maternity services (NHSOF 4.5)",
+        "description": "Patient experience of maternity services measured by scoring the results of a selection of questions from the National Maternity Services Survey.\n\nPurpose\n\nThis indicator aims to capture the experience of patients who have used maternity services.\n\nCurrent version updated: Feb-14\n\nNext version due: To be confirmed",
+        "modified": "2014-02",
+        "identifier": "HSCIC-Indicator-Portal-P01783",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01783&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "patient experience",
+            "antenatal care",
+            "postnatal care",
+            "maternity services"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4.5_I00689_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4.5_I00689_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_4.5_I00689_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Bereaved carers view on the quality of care in the last 3 months of life (NHSOF 4.6)",
+        "description": "This indicator measures the experience of care for people at the end of their lives, based on the views of bereaved carers, from the National Bereavement Survey (VOICES).\n\nPurpose\n\nThis indicator aims to measure the quality of care experienced by bereaved relatives of people in the final three months of life.\n\nCurrent version updated: Aug-14\n\nNext version due: Aug-15",
+        "modified": "2014-08",
+        "identifier": "HSCIC-Indicator-Portal-P01784",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01784&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "end of life",
+            "carers",
+            "experience",
+            "death",
+            "bereaved carers",
+            "bereavement",
+            "end-of-life",
+            "deaths"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4.6_I00690_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4.6_I00690_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_4.6_I00690_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Patient experience of community mental health services (NHSOF 4.7)",
+        "description": "This indicator measures patient experience of community mental health services based on selected questions from the National Community Mental Health Survey.\n\nPurpose\n\nThis indicator aims to capture the experience of patients who have used community mental health services.\n\nCurrent version updated: Dec-13\n\nNext version due: To be confirmed",
+        "modified": "2013-12",
+        "identifier": "HSCIC-Indicator-Portal-P01785",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01785&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "patient experience",
+            "healthcare",
+            "community mental health services",
+            "mental illness"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4.7_I00691_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_4.7_I00691_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_4.7_I00691_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Deaths from venous thromboembolism (VTE) related events within 90 days post discharge from hospital (NHSOF 5.1)",
+        "description": "The indicator measures the number of patients who have been admitted to hospital with any cause and die within 90 days of their last discharge from a VTE related event, expressed as a rate per 100,000 adult hospital admissions.\n\nPurpose\n\nThis indicator aims to measure the reduction in deaths from VTE related events by driving efforts to improve the prevention, detection and treatment of VTE before it causes death.\n\nCurrent version updated: May-15\n\nNext version due: Nov-15",
+        "modified": "2015-05",
+        "identifier": "HSCIC-Indicator-Portal-P01790",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01790&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "patient safety",
+            "venous thromboembolism"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_5.1_I00675_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_5.1_I00675_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_5_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_5.1_I00675_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Incidence of healthcare-associated infection - MRSA (NHSOF 5.2.i)",
+        "description": "The number of Methicillin-resistant Staphylococcus aureus (MRSA) bloodstream infections reported to Public Health England (PHE).\n\nPurpose\n\nThis indicator aims to measure the progress in reducing the incidence of avoidable harm, specifically healthcare-associated MRSA infections.\n\nCurrent version updated: Aug-14\n\nNext version due: Aug-15",
+        "modified": "2014-08",
+        "identifier": "HSCIC-Indicator-Portal-P01791",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01791&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "patient safety",
+            "Methicillin-resistant Staphylococcus aureus",
+            "MRSA"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_5.2.i_I00676_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_5.2.i_I00676_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_5_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_5.2.i_I00676_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Incidence of healthcare-associated infection - C. difficile (NHSOF 5.2.ii)",
+        "description": "The number of Clostridium difficile infections reported to Public Health England (PHE), in patients aged two years or older.\n\nPurpose\n\nThis indicator aims to measure the progress in reducing the incidence of avoidable harm, specifically healthcare-associated C. difficile infections.\n\nCurrent version updated: Aug-14\n\nNext version due: Aug-15",
+        "modified": "2014-08",
+        "identifier": "HSCIC-Indicator-Portal-P01792",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01792&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "patient safety",
+            "Clostridium difficile"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_5.2.ii_I00677_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_5.2.ii_I00677_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_5_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_5.2.ii_I00677_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Admission of full-term babies to neonatal care (NHSOF 5.5)",
+        "description": "The number of full-term babies (gestation greater than 36 weeks) admitted within 28 days of birth to a neonatal unit, expressed as a percentage of all full-term births.\n\nPurpose\n\nThis indicator aims to reduce the number of avoidable admissions of full-term babies to neonatal care and overall improve the safety of maternity services.\n\nCurrent version updated: Nov-14\n\nNext version due: To be confirmed",
+        "modified": "2014-11",
+        "identifier": "HSCIC-Indicator-Portal-P01795",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01795&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "patient safety",
+            "hospital episodes",
+            "hospital admissions",
+            "infant health",
+            "neonatal care",
+            "admissions"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_5.5_I00680_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_5.5_I00680_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_5_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_5.5_I00680_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Patient safety incidents reported (formerly indicators 5a, 5b and 5.4) (NHSOF 5.6)",
+        "description": "The number of patient safety incidents reported to the National Reporting and Learning System (NRLS) by provider organisations, per 100,000 population.\n\nA patient safety incident is defined as ‘any unintended or unexpected incident(s) that could have, or did, lead to harm for one or more person(s) receiving NHS funded healthcare’.\n\nPurpose\n\nThis indicator aims to measure the number of reported patient safety incidents across NHS care settings. The aim is for incidence reporting to increase as the culture of reporting all incidents spreads more widely across the NHS. The ultimate goal is that the number of reported incidents remains steady or decreases, as the habit of reporting incidents becomes routine and these are learnt from.\n\nCurrent version updated: May-15\n\nNext version due: Nov-15",
+        "modified": "2015-05",
+        "identifier": "HSCIC-Indicator-Portal-P01796",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01796&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "patient safety"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_5.6_I00672_D.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_5.6_I00672_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_Domain_5_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016",
+                "title": "DH Guidance for the NHS Outcomes Framework 2015/16",
+                "format": "text/html"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_5.6_I00672_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Potential years of life lost (PYLL) from causes considered amenable to healthcare (retired as of May-15) (NHSOF 1a)",
+        "description": "The number of years of life lost by every 100,000 persons dying from a condition which is usually treatable, measured in a way which allows for comparisons between populations with different age profiles and over time.\n\n\n\nPlease note that this indicator has been retired as of May 2015. This is because the PYLL from causes considered amenable to healthcare for all ages does not appear in the 2015/16 NHS Outcomes Framework. For Potential years of life lost (PYLL) from causes considered amenable to healthcare for adults or children and young people please see indicators 1a.i and 1a.ii.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent amenable deaths. Deaths from causes considered ‘amenable’ to healthcare are premature deaths that should not occur in the presence of timely and effective healthcare.\n\nCurrent version updated: May-15\n\nNext version due: Will not be updated",
+        "modified": "2015-05",
+        "identifier": "HSCIC-Indicator-Portal-P01797",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01797&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "death",
+            "mortality",
+            "amenable",
+            "deaths"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1a_I00654_D_Retired.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_1a_I00654_D_Retired.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1a_I00654_S_Retired.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_1a_I00654_Q_Retired.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Total health gain as assessed by patients for elective procedures (retired as of May-15) (NHSOF 3.1)",
+        "description": "Total health gain from patients who reported an improvement in health status following an elective procedure. The four indicators cover groin hernia, hip replacements, knee replacements and varicose veins.\n\n\n\nPlease note that these indicators have been retired as of May 2015. This is because the four indicators reporting the total health gain on seperate procedures have been combined into one indicator (Total health gain as assessed by patients for physical health-related procedures) in the 2015/16 NHS Outcomes Framework. This newly combined indicator is currently a placeholder and has yet to be developed.\n\nPurpose\n\nIndicators 3.1.i to 3.1.iv measure how effectively people are recovering from elective procedures.\n\nCurrent version updated: Nov-14\n\nNext version due: Will not be updated",
+        "modified": "2014-11",
+        "identifier": "HSCIC-Indicator-Portal-P01798",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01798&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "patient experience",
+            "PROMS"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_3.1_I00713_D_Retired.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_3.1_I00713_D_Retired.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_3.1_I00713_S_Retired.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_3.1_I00713_Q_Retired.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Incidence of harm to children due to ‘failure to monitor’ (retired as of May-15) (NHSOF 5.6)",
+        "description": "The total number of safety incidents, causing harm to children due to failure to monitor, reported to the National Reporting and Learning System (NRLS) by provider organisations.\n\n\n\nPlease note that this indicator has been retired as of May 2015. This is because it has been removed form the 2015/16 NHS Outcomes Framework due to the unsuitable data source and the unavailability of alternative data sources on which the indicator could be based. There were also some technical issues with the calculation methodology.\n\nPurpose\n\nThis indicator aims to measure the incidence of harm because of a ‘failure to monitor’. This includes  (but is not limited to) failures of care such as ‘not taking observations’ for prolonged periods, no recognition of the early signs of deterioration and delays in patients receiving medical attention.\n\nCurrent version updated: Nov-14\n\nNext version due: Will not be updated",
+        "modified": "2014-11",
+        "identifier": "HSCIC-Indicator-Portal-P01799",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01799&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "patient safety",
+            "Children"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_5.6_I00681_D_Retired.xls",
+                "title": "Indicator data (.xls)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Data/NHSOF_5.6_I00681_D_Retired.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_5.6_I00681_S_Retired.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Outcomes Framework/Specification/NHSOF_5.6_I00681_Q_Retired.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    }
+]
