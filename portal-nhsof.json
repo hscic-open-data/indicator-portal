@@ -13,6 +13,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "death",
             "mortality",
             "amenable",
@@ -62,6 +64,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "death",
             "mortality",
             "amenable",
@@ -111,6 +115,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "death",
             "mortality",
             "life expectancy",
@@ -160,6 +166,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "death",
             "infant health",
             "child health",
@@ -211,6 +219,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "death",
             "circulatory system diseases",
             "mortality",
@@ -260,6 +270,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "death",
             "respiratory diseases",
             "mortality",
@@ -309,6 +321,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "death",
             "digestive disease",
             "liver",
@@ -359,6 +373,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "death",
             "cancer",
             "mortality",
@@ -408,6 +424,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "death",
             "cancer",
             "mortality",
@@ -457,6 +475,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "death",
             "cancer",
             "mortality",
@@ -506,6 +526,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "rectal cancer",
             "lung cancer",
             "death",
@@ -566,6 +588,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "rectal cancer",
             "lung cancer",
             "death",
@@ -626,6 +650,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "mental health",
             "community mental health services",
             "death",
@@ -682,6 +708,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "mental health",
             "death",
             "infant health",
@@ -733,6 +761,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "death",
             "cancer",
             "child health",
@@ -783,6 +813,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "longterm condition",
             "long-term condition",
             "long-term",
@@ -834,6 +866,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "longterm condition",
             "long-term condition",
             "long-term",
@@ -885,6 +919,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "longterm condition",
             "long-term condition",
             "long-term",
@@ -936,6 +972,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "longterm condition",
             "long-term condition",
             "hospital episode",
@@ -990,6 +1028,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "longterm condition",
             "long-term condition",
             "diabetes",
@@ -1048,6 +1088,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "longterm condition",
             "long-term condition",
             "long-term",
@@ -1099,6 +1141,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "longterm condition",
             "long-term condition",
             "mental health",
@@ -1151,6 +1195,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "longterm condition",
             "long-term condition",
             "mental health",
@@ -1204,6 +1250,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "hospital episodes",
             "hospital admissions",
             "acute condition",
@@ -1253,6 +1301,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "hospital care",
             "secondary care",
             "hospital readmissions",
@@ -1302,6 +1352,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "hospital episodes",
             "respiratory diseases",
             "hospital admissions",
@@ -1352,6 +1404,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "hip-fracture",
             "mobility",
             "hip fracture",
@@ -1401,6 +1455,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "hip-fracture",
             "mobility",
             "hip fracture",
@@ -1450,6 +1506,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "rehabilitation",
             "recovery",
             "independence"
@@ -1498,6 +1556,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "rehabilitation",
             "recovery",
             "independence"
@@ -1546,6 +1606,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "patient experience",
             "primary care",
             "general practice",
@@ -1595,6 +1657,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "patient experience",
             "out of hours",
             "out-of-hours",
@@ -1646,6 +1710,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "patient experience",
             "dental",
             "NHS",
@@ -1696,6 +1762,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "hospital care",
             "patient experience",
             "secondary care"
@@ -1744,6 +1812,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "patient experience",
             "outpatients"
         ],
@@ -1791,6 +1861,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "patient experience",
             "inpatients"
         ],
@@ -1838,6 +1910,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "patient experience",
             "urgent care",
             "A&E",
@@ -1888,6 +1962,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "patient experience",
             "access",
             "appointment",
@@ -1939,6 +2015,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "patient experience",
             "access",
             "dental",
@@ -1991,6 +2069,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "patient experience",
             "antenatal care",
             "postnatal care",
@@ -2040,6 +2120,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "end of life",
             "carers",
             "experience",
@@ -2093,6 +2175,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "patient experience",
             "healthcare",
             "community mental health services",
@@ -2142,6 +2226,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "patient safety",
             "venous thromboembolism"
         ],
@@ -2189,6 +2275,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "patient safety",
             "Methicillin-resistant Staphylococcus aureus",
             "MRSA"
@@ -2237,6 +2325,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "patient safety",
             "Clostridium difficile"
         ],
@@ -2284,6 +2374,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "patient safety",
             "hospital episodes",
             "hospital admissions",
@@ -2335,6 +2427,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "patient safety"
         ],
         "distribution": [
@@ -2381,6 +2475,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "death",
             "mortality",
             "amenable",
@@ -2425,6 +2521,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "patient experience",
             "PROMS"
         ],
@@ -2467,6 +2565,8 @@
         "keyword": [
             "health",
             "NHS",
+            "healthcare",
+            "patients",
             "patient safety",
             "Children"
         ],
