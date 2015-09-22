@@ -5,8 +5,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Potential years of life lost (PYLL) from causes considered amenable to healthcare (CCGOIS 1.1)",
-        "description": "Potential years of life lost (PYLL) rate from causes considered amenable to healthcare.\n\n\n\nThe following indicator includes a change of methodology for the pooled years directly standardised rate and for the confidence intervals for all breakdowns.\n\nFull details of these changes can be found here: http://www.hscic.gov.uk/pubs/methchanges\n\nCurrent version updated: Jun-15\n\nNext version due: Sep-15",
-        "modified": "2015-06",
+        "description": "Potential years of life lost (PYLL) rate from causes considered amenable to healthcare.\n\n\n\nThe following indicator includes a change of methodology for the pooled years directly standardised rate and for the confidence intervals for all breakdowns.\n\nFull details of these changes can be found here: http://www.hscic.gov.uk/pubs/methchanges\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-16",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01800",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01800&mode=documentation&top=yes",
@@ -55,9 +55,9 @@
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
         },
-        "title": "Under 75 mortality rates from cardiovascular disease (CCGOIS 1.2)",
-        "description": "Directly age and sex standardised mortality rate from cardiovascular disease for people aged under 75 in the respective calendar year per 100,000 registered patients.\n\nCurrent version updated: Sep-14\n\nNext version due: Sep-15",
-        "modified": "2014-09",
+        "title": "Under 75 mortality from cardiovascular disease (CCGOIS 1.2)",
+        "description": "Directly age and sex standardised mortality rate from cardiovascular disease for people aged under 75 in the respective calendar year per 100,000 registered patients.\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-16",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01801",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01801&mode=documentation&top=yes",
@@ -74,24 +74,29 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.2_I00754_D_V5.xls",
-                "title": "Indicator data (.xls)",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.2_I00754_D.xlsx",
+                "title": "Indicator data (.xlsx)",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.2_I00754_D_V5.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.2_I00754_D.csv",
                 "title": "Indicator data (.csv)",
                 "format": "text/csv"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.2_I00754_D_AT.xls",
+                "title": "Archived Area Team File (Sep-14).xls",
+                "format": "application/vnd.ms-excel"
             }
         ],
         "references": [
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.2_I00754_S_V5.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.2_I00754_S.pdf",
                 "title": "Indicator specification",
                 "format": "application/pdf"
             },
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.2_I00754_Q_V5.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.2_I00754_Q.pdf",
                 "title": "Indicator quality statement",
                 "format": "application/pdf"
             }
@@ -193,9 +198,9 @@
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
         },
-        "title": "Under 75 mortality rates from respiratory disease (CCGOIS 1.6)",
-        "description": "Directly age and sex standardised mortality rate from respiratory disease for people aged under 75 in the respective calendar year per 100,000 registered patients.\n\nCurrent version updated: Sep-14\n\nNext version due: Sep-15",
-        "modified": "2014-09",
+        "title": "Under 75 mortality from respiratory disease (CCGOIS 1.6)",
+        "description": "Directly age and sex standardised mortality rate from respiratory disease for people aged under 75 in the respective calendar year per 100,000 registered patients.\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-16",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01805",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01805&mode=documentation&top=yes",
@@ -211,24 +216,29 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.6_I00755_D_V5.xls",
-                "title": "Indicator data (.xls)",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.6_I00755_D.xlsx",
+                "title": "Indicator data (.xlsx)",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.6_I00755_D_V5.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.6_I00755_D.csv",
                 "title": "Indicator data (.csv)",
                 "format": "text/csv"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.6_I00755_D_AT.xls",
+                "title": "Archived Area Team File (Sep-14).xls",
+                "format": "application/vnd.ms-excel"
             }
         ],
         "references": [
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.6_I00755_S_V5.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.6_I00755_S.pdf",
                 "title": "Indicator specification",
                 "format": "application/pdf"
             },
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.6_I00755_Q_V5.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.6_I00755_Q.pdf",
                 "title": "Indicator quality statement",
                 "format": "application/pdf"
             }
@@ -239,9 +249,9 @@
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
         },
-        "title": "Under 75 mortality rates from liver disease (CCGOIS 1.7)",
-        "description": "Directly age and sex standardised mortality rate from liver disease for people aged under 75 in the respective calendar year per 100,000 registered patients.\n\nCurrent version updated: Sep-14\n\nNext version due: Sep-15",
-        "modified": "2014-09",
+        "title": "Under 75 mortality from liver disease (CCGOIS 1.7)",
+        "description": "Directly age and sex standardised mortality rate from liver disease for people aged under 75 in the respective calendar year per 100,000 registered patients.\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-16",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01806",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01806&mode=documentation&top=yes",
@@ -257,24 +267,29 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.7_I00768_D_V4.xls",
-                "title": "Indicator data (.xls)",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.7_I00768_D.xlsx",
+                "title": "Indicator data (.xlsx)",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.7_I00768_D_V4.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.7_I00768_D.csv",
                 "title": "Indicator data (.csv)",
                 "format": "text/csv"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.7_I00768_D_AT.xls",
+                "title": "Archived Area Team File (Sep-14).xls",
+                "format": "application/vnd.ms-excel"
             }
         ],
         "references": [
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.7_I00768_S_V4.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.7_I00768_S.pdf",
                 "title": "Indicator specification",
                 "format": "application/pdf"
             },
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.7_I00768_Q_V4.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.7_I00768_Q.pdf",
                 "title": "Indicator quality statement",
                 "format": "application/pdf"
             }
@@ -286,8 +301,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Emergency admissions for alcohol related liver disease (CCGOIS 1.8)",
-        "description": "Directly age and sex standardised emergency admission rate for alcohol related liver disease in adults per 100,000 registered patients.\n\nCurrent version updated: Jun-15\n\nNext version due: Sep-15",
-        "modified": "2015-06",
+        "description": "Directly age and sex standardised emergency admission rate for alcohol related liver disease in adults per 100,000 registered patients.\n\nCurrent version updated: Sep-15\n\nNext version due: Dec-15",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01807",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01807&mode=documentation&top=yes",
@@ -336,9 +351,9 @@
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
         },
-        "title": "Under 75 mortality rates from cancer (CCGOIS 1.9)",
-        "description": "Directly age and sex standardised mortality rate from cancer for people aged under 75 in the respective calendar year per 100,000 registered patients.\n\nCurrent version updated: Sep-14\n\nNext version due: Sep-15",
-        "modified": "2014-09",
+        "title": "Under 75 mortality from cancer (CCGOIS 1.9)",
+        "description": "Directly age and sex standardised mortality rate from cancer for people aged under 75 in the respective calendar year per 100,000 registered patients.\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-16",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01808",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01808&mode=documentation&top=yes",
@@ -354,24 +369,29 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.9_I00756_D_V5.xls",
-                "title": "Indicator data (.xls)",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.9_I00756_D.xlsx",
+                "title": "Indicator data (.xlsx)",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.9_I00756_D_V5.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.9_I00756_D.csv",
                 "title": "Indicator data (.csv)",
                 "format": "text/csv"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.9_I00756_D_AT.xls",
+                "title": "Archived Area Team File (Sep-14).xls",
+                "format": "application/vnd.ms-excel"
             }
         ],
         "references": [
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.9_I00756_S_V5.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.9_I00756_S.pdf",
                 "title": "Indicator specification",
                 "format": "application/pdf"
             },
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.9_I00756_Q_V5.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.9_I00756_Q.pdf",
                 "title": "Indicator quality statement",
                 "format": "application/pdf"
             }
@@ -383,7 +403,7 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "One-year survival from all cancers (CCGOIS 1.10)",
-        "description": "One-year net survival for adults diagnosed with cancer.\n\nCurrent version updated: Jun-14\n\nNext version due: Sep-15",
+        "description": "One-year net survival for adults diagnosed with cancer.\n\nCurrent version updated: Jun-14\n\nNext version due: Dec-15",
         "modified": "2014-06",
         "identifier": "HSCIC-Indicator-Portal-P01809",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -429,7 +449,7 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "One-year survival from breast, lung and colorectal cancers (CCGOIS 1.11)",
-        "description": "One-year net survival for adults diagnosed with breast, lung or colorectal cancer.\n\nCurrent version updated: Jun-14\n\nNext version due: Sep-15",
+        "description": "One-year net survival for adults diagnosed with breast, lung or colorectal cancer.\n\nCurrent version updated: Jun-14\n\nNext version due: Dec-15",
         "modified": "2014-06",
         "identifier": "HSCIC-Indicator-Portal-P01810",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -480,8 +500,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Antenatal assessments within 13 weeks (CCGOIS 1.13)",
-        "description": "The percentage of women who have seen a midwife or a maternity healthcare professional by 12 weeks and 6 days of pregnancy.\n\nCurrent version updated: Jun-15\n\nNext version due: Sep-15",
-        "modified": "2015-06",
+        "description": "The percentage of women who have seen a midwife or a maternity healthcare professional by 12 weeks and 6 days of pregnancy.\n\nCurrent version updated: Sep-15\n\nNext version due: Dec-15",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01812",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01812&mode=documentation&top=yes",
@@ -490,7 +510,7 @@
             "NHS",
             "Clinical Commissioning Group",
             "Clinical Indicator",
-            "antenatal",
+            "Antenatal",
             "ante-natal"
         ],
         "distribution": [
@@ -524,8 +544,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Maternal smoking at delivery (CCGOIS 1.14)",
-        "description": "The percentage of women who were smokers at the time of delivery, out of the number of maternities.\n\nCurrent version updated: Jun-15\n\nNext version due: Sep-15",
-        "modified": "2015-06",
+        "description": "The percentage of women who were smokers at the time of delivery, out of the number of maternities.\n\nCurrent version updated: Sep-15\n\nNext version due: Dec-15",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01813",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01813&mode=documentation&top=yes",
@@ -568,8 +588,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Breast feeding prevalence at 6 - 8 weeks (CCGOIS 1.15)",
-        "description": "The percentage of infants who are breastfed at 6-8 weeks of age, out of the number of infants due a 6-8 week check with 95% confidence intervals.\n\nCurrent version updated: Jun-15\n\nNext version due: Sep-15",
-        "modified": "2015-06",
+        "description": "The percentage of infants who are breastfed at 6-8 weeks of age, out of the number of infants due a 6-8 week check with 95% confidence intervals.\n\nCurrent version updated: Sep-15\n\nNext version due: Dec-15",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01814",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01814&mode=documentation&top=yes",
@@ -578,7 +598,8 @@
             "NHS",
             "Clinical Commissioning Group",
             "Clinical Indicator",
-            "breast feeding"
+            "breast feeding",
+            "breastfed"
         ],
         "distribution": [
             {
@@ -745,8 +766,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Mortality from breast cancer in females (CCGOIS 1.20)",
-        "description": "Directly age standardised mortality rate from breast cancer for females in the respective time period per 100,000 registered female patients.\n\nCurrent version updated: Sep-14\n\nNext version due: Sep-15",
-        "modified": "2014-09",
+        "description": "Directly age standardised mortality rate from breast cancer for females in the respective time period per 100,000 registered female patients.\nThe following indicator includes a change of methodology for the pooled years directly standardised rate.\nFull details of these changes can be found here: http://www.hscic.gov.uk/pubs/methchanges\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-16",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01819",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01819&mode=documentation&top=yes",
@@ -762,24 +783,29 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.20_I01971_D_V1.xls",
-                "title": "Indicator data (.xls)",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.20_I01971_D.xlsx",
+                "title": "Indicator data (.xlsx)",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.20_I01971_D_V1.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.20_I01971_D.csv",
                 "title": "Indicator data (.csv)",
                 "format": "text/csv"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.20_I01971_D_AT.xls",
+                "title": "Archived Area Team File (Sep-14).xls",
+                "format": "application/vnd.ms-excel"
             }
         ],
         "references": [
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.20_I01971_S_V1.1.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.20_I01971_S.pdf",
                 "title": "Indicator specification",
                 "format": "application/pdf"
             },
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.20_I01971_Q_V1.0.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.20_I01971_Q.pdf",
                 "title": "Indicator quality statement",
                 "format": "application/pdf"
             }
@@ -801,7 +827,7 @@
             "NHS",
             "Clinical Commissioning Group",
             "Clinical Indicator",
-            "emergency",
+            "Emergency",
             "death",
             "mortality",
             "admission",
@@ -839,8 +865,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Hip fracture: incidence (CCGOIS 1.22)",
-        "description": "Directly age and sex standardised emergency admission rate for hip fracture in those aged 60 years and over, per 100,000 registered patients.\n\nCurrent version updated: Jun-15\n\nNext version due: Sep-15",
-        "modified": "2015-06",
+        "description": "Directly age and sex standardised emergency admission rate for hip fracture in those aged 60 years and over, per 100,000 registered patients.\n\nCurrent version updated: Sep-15\n\nNext version due: Dec-15",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01821",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01821&mode=documentation&top=yes",
@@ -886,8 +912,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Health-related quality of life for people with long-term conditions (CCGOIS 2.1)",
-        "description": "Average adjusted health status (EQ-5D™) score for individuals reporting that they have a long-term condition, based on responses to a question from the GP Patient Survey.\n\nCurrent version updated: Dec-14\n\nNext version due: Sep-15",
-        "modified": "2014-12",
+        "description": "Average adjusted health status (EQ-5D™) score for individuals reporting that they have a long-term condition, based on responses to a question from the GP Patient Survey.\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-16",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01827",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01827&mode=documentation&top=yes",
@@ -902,24 +928,29 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.1_I00781_D_V3.xls",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.1_I00781_D.xls",
                 "title": "Indicator data (.xls)",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.1_I00781_D_V3.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.1_I00781_D.csv",
                 "title": "Indicator data (.csv)",
                 "format": "text/csv"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.1_I00781_D_AT.xls",
+                "title": "Archived Area Team File (Sep-14).xls",
+                "format": "application/vnd.ms-excel"
             }
         ],
         "references": [
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.1_I00781_S_V3.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.1_I00781_S.pdf",
                 "title": "Indicator specification",
                 "format": "application/pdf"
             },
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.1_I00781_Q_V3.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.1_I00781_Q.pdf",
                 "title": "Indicator quality statement",
                 "format": "application/pdf"
             }
@@ -931,8 +962,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Proportion of people who are feeling supported to manage their condition (CCGOIS 2.2)",
-        "description": "Proportion of people feeling supported to manage their long-term conditions, based on responses to one question from the GP Patient Survey.\n\nCurrent version updated: Dec-14\n\nNext version due: Sep-15",
-        "modified": "2014-12",
+        "description": "Proportion of people feeling supported to manage their long-term conditions, based on responses to one question from the GP Patient Survey.\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-16",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01828",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01828&mode=documentation&top=yes",
@@ -948,24 +979,29 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.2_I00782_D_V4.xls",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.2_I00782_D.xls",
                 "title": "Indicator data (.xls)",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.2_I00782_D_V4.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.2_I00782_D.csv",
                 "title": "Indicator data (.csv)",
                 "format": "text/csv"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.2_I00782_D_AT.xls",
+                "title": "Archived Area Team File (Sep-14).xls",
+                "format": "application/vnd.ms-excel"
             }
         ],
         "references": [
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.2_I00782_S_V4.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.2_I00782_S.pdf",
                 "title": "Indicator specification",
                 "format": "application/pdf"
             },
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.2_I00782_Q_V4.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.2_I00782_Q.pdf",
                 "title": "Indicator quality statement",
                 "format": "application/pdf"
             }
@@ -976,9 +1012,9 @@
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
         },
-        "title": "People with diabetes diagnosed less than a year referred to structured education (CCGOIS 2.5)",
-        "description": "The percentage of people with diabetes diagnosed less than a year who are referred to structured education.\n\nCurrent version updated: Mar-14\n\nNext version due: Sep-15",
-        "modified": "2014-03",
+        "title": "People with diabetes diagnosed less than a year who are referred to structured education (CCGOIS 2.5)",
+        "description": "The percentage of people with diabetes diagnosed less than a year who are referred to structured education.\n\nCurrent version updated: Sep-15\n\nNext version due: Mar-16",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01831",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01831&mode=documentation&top=yes",
@@ -993,24 +1029,24 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.5_I00785_D_V1.xls",
-                "title": "Indicator data (.xls)",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.5_I00785_D.xlsx",
+                "title": "Indicator data (.xlsx)",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.5_I00785_D_V1.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.5_I00785_D.csv",
                 "title": "Indicator data (.csv)",
                 "format": "text/csv"
             }
         ],
         "references": [
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.5_I00785_S_V1.0.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.5_I00785_S.pdf",
                 "title": "Indicator specification",
                 "format": "application/pdf"
             },
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.5_I00785_Q_V1.0.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.5_I00785_Q.pdf",
                 "title": "Indicator quality statement",
                 "format": "application/pdf"
             }
@@ -1022,8 +1058,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Unplanned hospitalisation for chronic ambulatory care sensitive conditions (CCGOIS 2.6)",
-        "description": "Directly age and sex standardised rate of unplanned hospital admissions for chronic ambulatory care sensitive conditions for persons of all ages.\n\nCurrent version updated: Jun-15\n\nNext version due: Sep-15",
-        "modified": "2015-06",
+        "description": "Directly age and sex standardised rate of unplanned hospital admissions for chronic ambulatory care sensitive conditions for persons of all ages.\n\nCurrent version updated: Sep-15\n\nNext version due: Dec-15",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01832",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01832&mode=documentation&top=yes",
@@ -1073,8 +1109,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Unplanned hospitalisation for asthma, diabetes and epilepsy in under 19s (CCGOIS 2.7)",
-        "description": "Directly age and sex standardised rate of unplanned hospital admissions for asthma, diabetes and epilepsy in under 19s.\n\nCurrent version updated: Jun-15\n\nNext version due: Sep-15",
-        "modified": "2015-06",
+        "description": "Directly age and sex standardised rate of unplanned hospital admissions for asthma, diabetes and epilepsy in under 19s.\n\nCurrent version updated: Sep-15\n\nNext version due: Dec-15",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01833",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01833&mode=documentation&top=yes",
@@ -1170,8 +1206,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Access to community mental health services by people from Black and Minority Ethnic (BME) groups (CCGOIS 2.9)",
-        "description": "Access to community mental health services by BME groups, crude rates per 100,000 population.\n\nCurrent version updated: Sep-14\n\nNext version due: Sep-15",
-        "modified": "2014-09",
+        "description": "Access to community mental health services by BME groups, crude rates per 100,000 population.\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-16",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01835",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01835&mode=documentation&top=yes",
@@ -1186,24 +1222,24 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.9_I00787_D_V2.xls",
-                "title": "Indicator data (.xls)",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.9_I00787_D.xlsx",
+                "title": "Indicator data (.xlsx)",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.9_I00787_D_V2.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.9_I00787_D.csv",
                 "title": "Indicator data (.csv)",
                 "format": "text/csv"
             }
         ],
         "references": [
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.9_I00787_S_V1.1.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.9_I00787_S.pdf",
                 "title": "Indicator specification",
                 "format": "application/pdf"
             },
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.9_I00787_Q_V1.1.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.9_I00787_Q.pdf",
                 "title": "Indicator quality statement",
                 "format": "application/pdf"
             }
@@ -1261,8 +1297,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Health-related quality of life for carers, aged 18 and above (CCGOIS 2.15)",
-        "description": "Average adjusted health status (EQ-5D™) score for individuals reporting that they are carers, aged 18 and above, based on responses to a question from the GP Patient Survey.\n\nCurrent version updated: Dec-14\n\nNext version due: Sep-15",
-        "modified": "2014-12",
+        "description": "Average adjusted health status (EQ-5D™) score for individuals reporting that they are carers, aged 18 and above, based on responses to a question from the GP Patient Survey.\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-16",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01842",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01842&mode=documentation&top=yes",
@@ -1277,24 +1313,29 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.15_I01961_D_V3.xls",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.15_I01961_D.xls",
                 "title": "Indicator data (.xls)",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.15_I01961_D_V3.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.15_I01961_D.csv",
                 "title": "Indicator data (.csv)",
                 "format": "text/csv"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.15_I01961_D_AT.xls",
+                "title": "Archived Area Team File (Sep-14).xls",
+                "format": "application/vnd.ms-excel"
             }
         ],
         "references": [
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.15_I01961_S_V3.pdf",
-                "title": "Indicator Specification",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.15_I01961_S.pdf",
+                "title": "Indicator specification",
                 "format": "application/pdf"
             },
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.15_I01961_Q_V4.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.15_I01961_Q.pdf",
                 "title": "Indicator quality statement",
                 "format": "application/pdf"
             }
@@ -1306,8 +1347,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Health-related quality of life for people with a long-term mental health condition (CCGOIS 2.16)",
-        "description": "Average adjusted health status (EQ-5D™) score for individuals reporting that they have a long-term mental health condition, based on responses to a question from the GP Patient Survey.\n\nCurrent version updated: Sep-14\n\nNext version due: Sep-15",
-        "modified": "2014-09",
+        "description": "Average adjusted health status (EQ-5D™) score for individuals reporting that they have a long-term mental health condition, based on responses to a question from the GP Patient Survey.\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-16",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01843",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01843&mode=documentation&top=yes",
@@ -1323,24 +1364,29 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.16_I01976_D_V1.xls",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.16_I01976_D.xls",
                 "title": "Indicator data (.xls)",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.16_I01976_D_V1.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.16_I01976_D.csv",
                 "title": "Indicator data (.csv)",
                 "format": "text/csv"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.16_I01976_D_AT.xls",
+                "title": "Archived Area Team File (Sep-14).xls",
+                "format": "application/vnd.ms-excel"
             }
         ],
         "references": [
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.16_I01976_S_V1.0.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.16_I01976_S.pdf",
                 "title": "Indicator specification",
                 "format": "application/pdf"
             },
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.16_I01976_Q_V1.0.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.16_I01976_Q.pdf",
                 "title": "Indicator quality statement",
                 "format": "application/pdf"
             }
@@ -1352,8 +1398,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Emergency admissions for acute conditions that should not usually require hospital admission (CCGOIS 3.1)",
-        "description": "Directly age and sex standardised rate of unplanned hospital admissions for acute conditions for persons of all ages.\n\nCurrent version updated: Jun-15\n\nNext version due: Sep-15",
-        "modified": "2015-06",
+        "description": "Directly age and sex standardised rate of unplanned hospital admissions for acute conditions for persons of all ages.\n\nCurrent version updated: Sep-15\n\nNext version due: Dec-15",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01844",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01844&mode=documentation&top=yes",
@@ -1449,9 +1495,9 @@
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
         },
-        "title": "Patient reported outcomes measures (PROMS) for elective procedures (CCGOIS 3.3)",
-        "description": "Patients reported improvement in health status following elective procedures, currently covering groin hernia, hip replacement, knee replacement and varicose veins. The PROMs indicators is reported separately for the four conditions.\n\nCurrent version updated: Sep-14\n\nNext version due: Sep-15",
-        "modified": "2014-09",
+        "title": "Patient reported outcome measures (PROMs) for elective procedures (CCGOIS 3.3)",
+        "description": "Patients' reported improvement in health status following elective procedures, currently covering groin hernia, hip replacement, knee replacement and varicose veins. The PROMs indicator is reported separately for the four conditions.\nAs of September 2015 the data file now includes both primary and revision figures for hip and knee replacements from 2012/13 onwards. The ordering of the columns has also been updated, in order to be consistent with other indicators, this will affect those automatically linking to data in the CSV file. For 2013/14 NHS Gateshead CCG (00F), NHS Newcastle North and East CCG (00G) and NHS Newcastle West CCG (00H) have merged to form NHS Newcastle Gateshead CCG (13T).\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-16",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01846",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01846&mode=documentation&top=yes",
@@ -1461,28 +1507,32 @@
             "Clinical Commissioning Group",
             "Clinical Indicator",
             "patient experience",
-            "PROMS"
+            "varicose veins",
+            "PROMs",
+            "knee replacement",
+            "hip replacement",
+            "groin hernia"
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.3_I00761_D_V5.xls",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.3_I00761_D.xls",
                 "title": "Indicator data (.xls)",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.3_I00761_D_V5.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.3_I00761_D.csv",
                 "title": "Indicator data (.csv)",
                 "format": "text/csv"
             }
         ],
         "references": [
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.3_I00761_S_V4.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.3_I00761_S.pdf",
                 "title": "Indicator specification",
                 "format": "application/pdf"
             },
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.3_I00761_Q_V5.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.3_I00761_Q.pdf",
                 "title": "Indicator quality statement",
                 "format": "application/pdf"
             }
@@ -1494,8 +1544,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Emergency admissions for children with lower respiratory tract infections (CCGOIS 3.4)",
-        "description": "Directly age and sex standardised rate of children under 19 (0 to 18 years) admitted to hospital with lower respiratory tract infections as an emergency admission.\n\nCurrent version updated: Jun-15\n\nNext version due: Sep-15",
-        "modified": "2015-06",
+        "description": "Directly age and sex standardised rate of children under 19 (0 to 18 years) admitted to hospital with lower respiratory tract infections as an emergency admission.\n\nCurrent version updated: Sep-15\n\nNext version due: Dec-15",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01850",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01850&mode=documentation&top=yes",
@@ -1993,8 +2043,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Alcohol-specific hospital admissions (CCGOIS 3.14)",
-        "description": "Directly age and sex standardised admission rate for alcohol-specific conditions per 100,000 registered patients.\n\nCurrent version updated: Jun-15\n\nNext version due: Sep-15",
-        "modified": "2015-06",
+        "description": "Directly age and sex standardised admission rate for alcohol-specific conditions per 100,000 registered patients.\n\nCurrent version updated: Sep-15\n\nNext version due: Dec-15",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01861",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01861&mode=documentation&top=yes",
@@ -2023,7 +2073,7 @@
         ],
         "references": [
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.14_I01983_S_V1.0.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.14_I01983_S.pdf",
                 "title": "Indicator specification",
                 "format": "application/pdf"
             },
@@ -2040,8 +2090,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Emergency alcohol-specific readmission to any hospital within 30 days of discharge following an alcohol-specific admission (CCGOIS 3.15)",
-        "description": "Indirectly age and sex standardised ratio of emergency readmissions with a primary diagnosis or an external cause code of an alcohol-specific condition within 30 days of a previous discharge following an alcohol-specific admission.\n\nCurrent version updated: Jun-15\n\nNext version due: Sep-15",
-        "modified": "2015-06",
+        "description": "Indirectly age and sex standardised ratio of emergency readmissions with a primary diagnosis or an external cause code of an alcohol-specific condition within 30 days of a previous discharge following an alcohol-specific admission.\n\nCurrent version updated: Sep-15\n\nNext version due: Dec-15",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01862",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01862&mode=documentation&top=yes",
@@ -2052,8 +2102,8 @@
             "Clinical Indicator",
             "readmissions",
             "episodes",
-            "alcohol-specific",
             "readmission",
+            "alcohol-specific",
             "alcohol"
         ],
         "distribution": [
@@ -2087,8 +2137,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Unplanned readmissions to mental health services within 30 days of a mental health inpatient discharge in people aged 17 and over (CCGOIS 3.16)",
-        "description": "Indirectly age and sex standardised ratio of unplanned readmissions to a mental health service within 30 days of a discharge from a mental health inpatient service in people aged 17 and over.\n\nCurrent version updated: Jun-15\n\nNext version due: Sep-15",
-        "modified": "2015-06",
+        "description": "Indirectly age and sex standardised ratio of unplanned readmissions to a mental health service within 30 days of a discharge from a mental health inpatient service in people aged 17 and over.\n\nCurrent version updated: Sep-15\n\nNext version due: Dec-15",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01863",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01863&mode=documentation&top=yes",
@@ -2134,8 +2184,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Percentage of adults in contact with secondary mental health services in employment (CCGOIS 3.17)",
-        "description": "The percentage of working age adults aged 18 to 69, who have an open spell at the end of March for the relevant financial year, whose record of employment associated with their most recent assessment, formal review, or other multi-disciplinary care planning meeting in the previous 12 months indicated that they were employed\n\nCurrent version updated: Jun-15\n\nNext version due: Sep-15",
-        "modified": "2015-06",
+        "description": "The percentage of working age adults aged 18 to 69, who have an open spell at the end of March for the relevant financial year, whose record of employment associated with their most recent assessment, formal review, or other multi-disciplinary care planning meeting in the previous 12 months indicated that they were employed\n\nCurrent version updated: Sep-15\n\nNext version due: Dec-15",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01864",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01864&mode=documentation&top=yes",
@@ -2178,8 +2228,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Patient experience of GP out-of-hours services (CCGOIS 4.1)",
-        "description": "Patient experience of GP out-of-hours services, measured by scoring the results of one question from the GP Patient Survey.\n\nCurrent version updated: Dec-14\n\nNext version due: Sep-15",
-        "modified": "2014-12",
+        "description": "Patient experience of GP out-of-hours services, measured by scoring the results of one question from the GP Patient Survey.\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-16",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01866",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01866&mode=documentation&top=yes",
@@ -2197,24 +2247,29 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_4.1_I00763_D_V7.xls",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_4.1_I00763_D.xls",
                 "title": "Indicator data (.xls)",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_4.1_I00763_D_V7.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_4.1_I00763_D.csv",
                 "title": "Indicator data (.csv)",
                 "format": "text/csv"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_4.1_I00763_D_AT.xls",
+                "title": "Archived Area Team File (Dec-14).xls",
+                "format": "application/vnd.ms-excel"
             }
         ],
         "references": [
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_4.1_I00763_S_V4.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_4.1_I00763_S.pdf",
                 "title": "Indicator specification",
                 "format": "application/pdf"
             },
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_4.1_I00763_Q_V7.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_4.1_I00763_Q.pdf",
                 "title": "Indicator quality statement",
                 "format": "application/pdf"
             }
@@ -2314,8 +2369,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Patient safety incidents (CCGOIS 5.1)",
-        "description": "For each of a CCG’s five main providers, this indicator shows the rate of Patient Safety incidents per 1,000 total provider bed days.\n\nCurrent version updated: Mar-15\n\nNext version due: Dec-15",
-        "modified": "2015-03",
+        "description": "For each of a CCG’s five main providers, this indicator shows the rate of Patient Safety incidents per 1,000 total provider bed days.\n\nCurrent version updated: Sep-15\n\nNext version due: Mar-16",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01875",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01875&mode=documentation&top=yes",
@@ -2329,24 +2384,24 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_5.1_I00803_D_V2.xls",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_5.1_I00803_D.xls",
                 "title": "Indicator data (.xls)",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_5.1_I00803_D_V2.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_5.1_I00803_D.csv",
                 "title": "Indicator data (.csv)",
                 "format": "text/csv"
             }
         ],
         "references": [
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.1_I00803_S_V1.1.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.1_I00803_S.pdf",
                 "title": "Indicator specification",
                 "format": "application/pdf"
             },
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.1_I00803_Q_V1.1.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.1_I00803_Q.pdf",
                 "title": "Indicator quality statement",
                 "format": "application/pdf"
             }
@@ -2358,8 +2413,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Incidence of Healthcare Associated Infection (HCAI) – Methicillin-resistant Staphylococcus aureus (MRSA) (CCGOIS 5.3)",
-        "description": "The count of MRSA bloodstream infections reported per CCG.\n\nCurrent version updated: Jun-15\n\nNext version due: Sep-15",
-        "modified": "2015-06",
+        "description": "The count of MRSA bloodstream infections reported per CCG.\n\nCurrent version updated: Sep-15\n\nNext version due: Dec-15",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01877",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01877&mode=documentation&top=yes",
@@ -2386,12 +2441,12 @@
         ],
         "references": [
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.3_I00805_S_V1.2.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.3_I00805_S.pdf",
                 "title": "Indicator specification",
                 "format": "application/pdf"
             },
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.3_I00805_Q_V1.3.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.3_I00805_Q.pdf",
                 "title": "Indicator quality statement",
                 "format": "application/pdf"
             }
@@ -2403,8 +2458,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Incidence of Healthcare Associated Infection (HCAI) – C. difficile (CCGOIS 5.4)",
-        "description": "The count of C. difficile infections reported, in people aged 2 and over, per CCG.\n\nCurrent version updated: Jun-15\n\nNext version due: Sep-15",
-        "modified": "2015-06",
+        "description": "The count of C. difficile infections reported, in people aged 2 and over, per CCG.\n\nCurrent version updated: Sep-15\n\nNext version due: Dec-15",
+        "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01878",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01878&mode=documentation&top=yes",
@@ -2431,12 +2486,12 @@
         ],
         "references": [
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.4_I00806_S_V1.2.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.4_I00806_S.pdf",
                 "title": "Indicator specification",
                 "format": "application/pdf"
             },
             {
-                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.4_I00806_Q_V1.3.pdf",
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.4_I00806_Q.pdf",
                 "title": "Indicator quality statement",
                 "format": "application/pdf"
             }
