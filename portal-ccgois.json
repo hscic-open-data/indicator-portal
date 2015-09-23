@@ -1296,6 +1296,150 @@
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
         },
+        "title": "Percentage of referrals to Improving Access to Psychological Therapies (IAPT) services which indicated a reliable recovery following completion of treatment (CCGOIS 2.11a)",
+        "description": null,
+        "modified": "2015-09",
+        "identifier": "HSCIC-Indicator-Portal-P01837",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01837&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "Clinical Commissioning Group",
+            "Clinical Indicator",
+            "psychological therapies",
+            "mental health",
+            "referrals",
+            "referral",
+            "IAPT",
+            "recovery"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.11a_I02025_D.xlsx",
+                "title": "Indicator data (.xlsx)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.11a_I02025_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.11a_I02025_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.11a_I02025_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Percentage of referrals to Improving Access to Psychological Therapies (IAPT) services which indicated a reliable improvement following completion of treatment (CCGOIS 2.11b)",
+        "description": null,
+        "modified": "2015-09",
+        "identifier": "HSCIC-Indicator-Portal-P01838",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01838&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "Clinical Commissioning Group",
+            "Clinical Indicator",
+            "psychological therapies",
+            "mental health",
+            "referrals",
+            "referral",
+            "improvement",
+            "IAPT"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.11b_I02026_D.xlsx",
+                "title": "Indicator data (.xlsx)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.11b_I02026_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.11b_I02026_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.11b_I02026_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
+        "title": "Percentage of referrals to Improving Access to Psychological Therapies (IAPT) services which indicator a reliable deterioration following completion of treatment (CCGOIS 2.11c)",
+        "description": null,
+        "modified": "2015-09",
+        "identifier": "HSCIC-Indicator-Portal-P01839",
+        "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+        "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01839&mode=documentation&top=yes",
+        "keyword": [
+            "health",
+            "NHS",
+            "Clinical Commissioning Group",
+            "Clinical Indicator",
+            "psychological therapies",
+            "mental health",
+            "referrals",
+            "referral",
+            "IAPT",
+            "deterioration"
+        ],
+        "distribution": [
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.11c_I02027_D.xlsx",
+                "title": "Indicator data (.xlsx)",
+                "format": "application/vnd.ms-excel"
+            },
+            {
+                "downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.11c_I02027_D.csv",
+                "title": "Indicator data (.csv)",
+                "format": "text/csv"
+            }
+        ],
+        "references": [
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.11c_I02027_S.pdf",
+                "title": "Indicator specification",
+                "format": "application/pdf"
+            },
+            {
+                "url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.11c_I02027_Q.pdf",
+                "title": "Indicator quality statement",
+                "format": "application/pdf"
+            }
+        ]
+    },
+    {
+        "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+        },
         "title": "Health-related quality of life for carers, aged 18 and above (CCGOIS 2.15)",
         "description": "Average adjusted health status (EQ-5D™) score for individuals reporting that they are carers, aged 18 and above, based on responses to a question from the GP Patient Survey.\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-16",
         "modified": "2015-09",
