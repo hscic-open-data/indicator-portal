@@ -820,7 +820,7 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Health-related quality of life for people with long-term conditions (NHSOF 2)",
-        "description": "This indicator measures the health-related quality of life for people who identify themselves as having one or more long-term conditions.\n\nPurpose\n\nThis indicator measures how successfully the NHS is supporting people with long-term conditions to live as normal a life as possible. This indicator helps people understand whether health-related quality of life is improving over time for the population with long-term conditions.\n\nCurrent version updated: Sep-15\n\nNext version due: Aug-16",
+        "description": "This indicator measures the health-related quality of life for people who identify themselves as having one or more long-term conditions.\n\nPurpose\n\nThis indicators measures how successfully the NHS is supporting people with long-term conditions to live as normal a life as possible. This indicator helps people understand whether health-related quality of life is improving over time for the population with long-term conditions.\n\nCurrent version updated: Sep-15\n\nNext version due: Aug-16",
         "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01746",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -2152,7 +2152,7 @@
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
         },
-        "title": "Bereaved carers' views on the quality of care in the last 3 months of life (NHSOF 4.6)",
+        "title": "Bereaved carers views on the quality of care in the last 3 months of life (NHSOF 4.6)",
         "description": "This indicator measures the experience of care for people at the end of their lives, based on the views of bereaved carers, from the National Bereavement Survey (VOICES).\n\nPurpose\n\nThis indicator aims to measure the quality of care experienced by bereaved relatives of people in the final three months of life.\n\nCurrent version updated: Aug-15\n\nNext version due: Aug-16",
         "modified": "2015-08",
         "identifier": "HSCIC-Indicator-Portal-P01784",
@@ -2574,7 +2574,7 @@
             "patients",
             "clinical indicator",
             "patient experience",
-            "PROMS"
+            "PROMs"
         ],
         "distribution": [
             {
