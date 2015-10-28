@@ -510,7 +510,7 @@
             "NHS",
             "Clinical Commissioning Group",
             "Clinical Indicator",
-            "Antenatal",
+            "antenatal",
             "ante-natal"
         ],
         "distribution": [
@@ -598,8 +598,8 @@
             "NHS",
             "Clinical Commissioning Group",
             "Clinical Indicator",
-            "breast feeding",
-            "breastfed"
+            "breast fed",
+            "breast feeding"
         ],
         "distribution": [
             {
@@ -766,7 +766,7 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Mortality from breast cancer in females (CCGOIS 1.20)",
-        "description": "Directly age standardised mortality rate from breast cancer for females in the respective time period per 100,000 registered female patients.\nThe following indicator includes a change of methodology for the pooled years directly standardised rate.\nFull details of these changes can be found here: http://www.hscic.gov.uk/pubs/methchanges\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-16",
+        "description": "Directly age standardised mortality rate from breast cancer for females in the respective time period per 100,000 registered female patients.\n\nThe following indicator includes a change of methodology for the pooled years directly standardised rate.\n\nFull details of these changes can be found here: http://www.hscic.gov.uk/pubs/methchanges\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-16",
         "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01819",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -827,7 +827,7 @@
             "NHS",
             "Clinical Commissioning Group",
             "Clinical Indicator",
-            "Emergency",
+            "emergency",
             "death",
             "mortality",
             "admission",
@@ -1640,7 +1640,7 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Patient reported outcome measures (PROMs) for elective procedures (CCGOIS 3.3)",
-        "description": "Patients' reported improvement in health status following elective procedures, currently covering groin hernia, hip replacement, knee replacement and varicose veins. The PROMs indicator is reported separately for the four conditions.\nAs of September 2015 the data file now includes both primary and revision figures for hip and knee replacements from 2012/13 onwards. The ordering of the columns has also been updated, in order to be consistent with other indicators, this will affect those automatically linking to data in the CSV file. For 2013/14 NHS Gateshead CCG (00F), NHS Newcastle North and East CCG (00G) and NHS Newcastle West CCG (00H) have merged to form NHS Newcastle Gateshead CCG (13T).\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-16",
+        "description": "Patients reported improvement in health status following elective procedures, currently covering groin hernia, hip replacement, knee replacement and varicose veins. The PROMs indicator is reported separately for the four conditions.\n\nAs of September 2015 the data file now includes both primary and revision figures for hip and knee replacements from 2012/13 onwards. The ordering of the columns has also been updated, in order to be consistent with other indicators, this will affect those automatically linking to data in the CSV file. For 2013/14 NHS Gateshead CCG (00F), NHS Newcastle North and East CCG (00G) and NHS Newcastle West CCG (00H) have merged to form NHS Newcastle Gateshead CCG (13T).\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-16",
         "modified": "2015-09",
         "identifier": "HSCIC-Indicator-Portal-P01846",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -2246,8 +2246,8 @@
             "Clinical Indicator",
             "readmissions",
             "episodes",
-            "readmission",
             "alcohol-specific",
+            "readmission",
             "alcohol"
         ],
         "distribution": [
