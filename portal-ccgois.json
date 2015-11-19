@@ -510,7 +510,7 @@
             "NHS",
             "Clinical Commissioning Group",
             "Clinical Indicator",
-            "antenatal",
+            "Antenatal",
             "ante-natal"
         ],
         "distribution": [
@@ -827,7 +827,7 @@
             "NHS",
             "Clinical Commissioning Group",
             "Clinical Indicator",
-            "emergency",
+            "Emergency",
             "death",
             "mortality",
             "admission",
@@ -1652,7 +1652,7 @@
             "Clinical Indicator",
             "patient experience",
             "varicose veins",
-            "PROMs",
+            "PROMS",
             "knee replacement",
             "hip replacement",
             "groin hernia"
@@ -2246,8 +2246,8 @@
             "Clinical Indicator",
             "readmissions",
             "episodes",
-            "alcohol-specific",
             "readmission",
+            "alcohol-specific",
             "alcohol"
         ],
         "distribution": [
