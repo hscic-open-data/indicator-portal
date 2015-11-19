@@ -5,8 +5,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Whether GP Practices Provide Functionality For Patients To Book Or Cancel Appointments Electronically",
-        "description": "Supplies details of whether GP Practices provide patient access to electronically book and/or cancel appointments online.\n\nPurpose\n\nTo represent the number of GP Practices that provide systemic capability for patients to use systemic functionality to book and cancel appointments.\n\nCurrent version updated: Oct-15\n\nNext version due: Nov-15",
-        "modified": "2015-10",
+        "description": "Supplies details of whether GP Practices provide patient access to electronically book and/or cancel appointments online.\n\nPurpose\n\nTo represent the number of GP Practices that provide systemic capability for patients to use systemic functionality to book and cancel appointments.\n\nCurrent version updated: Nov-15\n\nNext version due: Dec-15",
+        "modified": "2015-11",
         "identifier": "HSCIC-Indicator-Portal-P02154",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP02154&mode=documentation&top=yes",
@@ -28,12 +28,12 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/BOOK_CANCEL_APPOINTMENTS.xls",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/BOOK_CANCEL_APPOINTMENTS_POMI.xls",
                 "title": "System Functionality data.xls",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/BOOK_CANCEL_APPOINTMENTS.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/BOOK_CANCEL_APPOINTMENTS_POMI.csv",
                 "title": "System Functionality data.csv",
                 "format": "text/csv"
             }
@@ -46,8 +46,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Whether GP Practices Provide Functionality For Patients To Order Repeat Prescriptions Electronically",
-        "description": "Supplies details of whether GP Practices provide patient access to electronically order repeat prescriptions online.\n\nPurpose\n\nTo represent the number of GP Practices that provide systemic capability for patients to order repeat prescriptions.\n\nCurrent version updated: Oct-15\n\nNext version due: Nov-15",
-        "modified": "2015-10",
+        "description": "Supplies details of whether GP Practices provide patient access to electronically order repeat prescriptions online.\n\nPurpose\n\nTo represent the number of GP Practices that provide systemic capability for patients to order repeat prescriptions.\n\nCurrent version updated: Nov-15\n\nNext version due: Dec-15",
+        "modified": "2015-11",
         "identifier": "HSCIC-Indicator-Portal-P02155",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP02155&mode=documentation&top=yes",
@@ -65,7 +65,7 @@
             "GP System Functionality",
             "System Function",
             "Order Prescriptions",
-            "Prescription",
+            "prescription",
             "information technology",
             "GP Prescription",
             "Repeat Prescriptions",
@@ -73,12 +73,12 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/ORDER_REPEAT_PRESCRIPTIONS.xls",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/ORDER_REPEAT_PRESCRIPTIONS_POMI.xls",
                 "title": "System Functionality data.xls",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/ORDER_REPEAT_PRESCRIPTIONS.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/ORDER_REPEAT_PRESCRIPTIONS_POMI.csv",
                 "title": "System Functionality data.csv",
                 "format": "text/csv"
             }
@@ -91,8 +91,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Whether GP Practices Provide Functionality For Patients To View Letters Electronically",
-        "description": "Supplies details of whether GP Practices provide patients to electronically view their letters online.\n\nPurpose\n\nTo represent the number of GP Practices that provide systemic capability for patients to view their letters.\n\nCurrent version updated: Oct-15\n\nNext version due: Nov-15",
-        "modified": "2015-10",
+        "description": "Supplies details of whether GP Practices provide patients to electronically view their letters online.\n\nPurpose\n\nTo represent the number of GP Practices that provide systemic capability for patients to view their letters.\n\nCurrent version updated: Nov-15\n\nNext version due: Dec-15",
+        "modified": "2015-11",
         "identifier": "HSCIC-Indicator-Portal-P02156",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP02156&mode=documentation&top=yes",
@@ -110,12 +110,12 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/VIEW_LETTERS.xls",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/VIEW_LETTERS_POMI.xls",
                 "title": "System Functionality data.xls",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/VIEW_LETTERS.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/VIEW_LETTERS_POMI.csv",
                 "title": "System Functionality data.csv",
                 "format": "text/csv"
             }
@@ -128,8 +128,8 @@
             "mbox": "enquiries@hscic.gov.uk"
         },
         "title": "Whether GP Practices Provide Functionality For Patients To View Test Results Electronically",
-        "description": "Supplies details of all GP Practices that provide patients the functionality to electronically view their test results online.\n\nPurpose\n\nTo represent the number of GP Practices that provide systemic capability for patients to view test results.\n\nCurrent version updated: Oct-15\n\nNext version due: Nov-15",
-        "modified": "2015-10",
+        "description": "Supplies details of all GP Practices that provide patients the functionality to electronically view their test results online.\n\nPurpose\n\nTo represent the number of GP Practices that provide systemic capability for patients to view test results.\n\nCurrent version updated: Nov-15\n\nNext version due: Dec-15",
+        "modified": "2015-11",
         "identifier": "HSCIC-Indicator-Portal-P02157",
         "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
         "landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP02157&mode=documentation&top=yes",
@@ -150,12 +150,12 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/VIEW_TEST_RESULTS.xls",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/VIEW_TEST_RESULTS_POMI.xls",
                 "title": "System Functionality data.xls",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/VIEW_TEST_RESULTS.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/VIEW_TEST_RESULTS_POMI.csv",
                 "title": "System Functionality data.csv",
                 "format": "text/csv"
             }
