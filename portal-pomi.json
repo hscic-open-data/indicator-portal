@@ -28,12 +28,12 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/BOOK_CANCEL_APPOINTMENTS_POMI.xls",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/PHF10/Data/BOOK_CANCEL_APPOINTMENTS_POMI.xls",
                 "title": "System Functionality data.xls",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/BOOK_CANCEL_APPOINTMENTS_POMI.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/PHF10/Data/BOOK_CANCEL_APPOINTMENTS_POMI.csv",
                 "title": "System Functionality data.csv",
                 "format": "text/csv"
             }
@@ -73,12 +73,12 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/ORDER_REPEAT_PRESCRIPTIONS_POMI.xls",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/PHF10/Data/ORDER_REPEAT_PRESCRIPTIONS_POMI.xls",
                 "title": "System Functionality data.xls",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/ORDER_REPEAT_PRESCRIPTIONS_POMI.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/PHF10/Data/ORDER_REPEAT_PRESCRIPTIONS_POMI.csv",
                 "title": "System Functionality data.csv",
                 "format": "text/csv"
             }
@@ -110,12 +110,12 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/VIEW_LETTERS_POMI.xls",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/PHF10/Data/VIEW_LETTERS_POMI.xls",
                 "title": "System Functionality data.xls",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/VIEW_LETTERS_POMI.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/PHF10/Data/VIEW_LETTERS_POMI.csv",
                 "title": "System Functionality data.csv",
                 "format": "text/csv"
             }
@@ -150,12 +150,12 @@
         ],
         "distribution": [
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/VIEW_TEST_RESULTS_POMI.xls",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/PHF10/Data/VIEW_TEST_RESULTS_POMI.xls",
                 "title": "System Functionality data.xls",
                 "format": "application/vnd.ms-excel"
             },
             {
-                "downloadURL": "https://indicators.ic.nhs.uk/download/POMI/Data/VIEW_TEST_RESULTS_POMI.csv",
+                "downloadURL": "https://indicators.ic.nhs.uk/download/PHF10/Data/VIEW_TEST_RESULTS_POMI.csv",
                 "title": "System Functionality data.csv",
                 "format": "text/csv"
             }
