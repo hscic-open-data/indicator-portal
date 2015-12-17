@@ -1317,6 +1317,74 @@
 		"name": "Health and Social Care Information Centre",
 		"mbox": "enquiries@hscic.gov.uk"
 	},
+	"title": "Neonatal mortality and stillbirths (CCGOIS 1.25)",
+	"description": "The rate of stillbirths and deaths within 28 days of birth per 1,000 live births and still births.\n\nCurrent version updated: Dec-15\n\nNext version due: Dec-16",
+	"modified": "2015-12",
+	"identifier": "HSCIC-Indicator-Portal-P01824",
+	"license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+	"landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP01824&mode=documentation&top=yes",
+	"keyword": ["health", "NHS", "Clinical Commissioning Group", "Clinical Indicator",
+		"neonatal", "neonatal deaths", "stillbirths", "still births"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	],
+	"distribution": [{
+			"downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.25_I02023_D.xlsx",
+			"title": "Indicator data (.xlsx)",
+			"format": "application/vnd.ms-excel"
+		}, {
+			"downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.25_I02023_D.csv",
+			"title": "Indicator data (.csv)",
+			"format": "text/csv"
+		}
+
+
+
+
+
+
+
+
+	],
+	"references": [{
+			"url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.25_I02023_S.pdf",
+			"title": "Indicator specification",
+			"format": "application/pdf"
+		}, {
+			"url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.25_I02023_Q.pdf",
+			"title": "Indicator quality statement",
+			"format": "application/pdf"
+		}
+
+
+
+
+
+
+
+
+
+	]
+}, {
+	"publisher": {
+		"name": "Health and Social Care Information Centre",
+		"mbox": "enquiries@hscic.gov.uk"
+	},
 	"title": "Health-related quality of life for people with long-term conditions (CCGOIS 2.1)",
 	"description": "Average adjusted health status (EQ-5D™) score for individuals reporting that they have a long-term condition, based on responses to a question from the GP Patient Survey.\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-16",
 	"modified": "2015-09",
@@ -3848,6 +3916,142 @@
 			"format": "application/pdf"
 		}, {
 			"url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.4_I00806_Q.pdf",
+			"title": "Indicator quality statement",
+			"format": "application/pdf"
+		}
+
+
+
+
+
+
+
+
+
+	]
+}, {
+	"publisher": {
+		"name": "Health and Social Care Information Centre",
+		"mbox": "enquiries@hscic.gov.uk"
+	},
+	"title": "Low birth weight full-term babies (CCGOIS 1.26)",
+	"description": "The percentage of full-term live babies that were born weighing less than 2,500g.\n\nCurrent version updated: Dec-15\n\nNext version due: Dec-16",
+	"modified": "2015-12",
+	"identifier": "HSCIC-Indicator-Portal-P02170",
+	"license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+	"landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP02170&mode=documentation&top=yes",
+	"keyword": ["health", "NHS", "Clinical Commissioning Group", "Clinical Indicator",
+		"birthweight", "low birth weight", "babies", "birth"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	],
+	"distribution": [{
+			"downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.26_I02024_D.xls",
+			"title": "Indicator data (.xls)",
+			"format": "application/vnd.ms-excel"
+		}, {
+			"downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.26_I02024_D.csv",
+			"title": "Indicator data (.csv)",
+			"format": "text/csv"
+		}
+
+
+
+
+
+
+
+
+	],
+	"references": [{
+			"url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.26_I02024_S.pdf",
+			"title": "Indicator specification",
+			"format": "application/pdf"
+		}, {
+			"url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.26_I02024_Q.pdf",
+			"title": "Indicator quality statement",
+			"format": "application/pdf"
+		}
+
+
+
+
+
+
+
+
+
+	]
+}, {
+	"publisher": {
+		"name": "Health and Social Care Information Centre",
+		"mbox": "enquiries@hscic.gov.uk"
+	},
+	"title": "Hip Fracture Care Process Composite Indicator (CCGOIS 3.18)",
+	"description": "The percentage of cases of hip fracture in people aged between 60 and 110 at admission who received all nine of the agreed best practice standards.\n\nCurrent version updated: Dec-15\n\nNext version due: Dec-16",
+	"modified": "2015-12",
+	"identifier": "HSCIC-Indicator-Portal-P02171",
+	"license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+	"landingPage": "https://indicators.ic.nhs.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2Fhg-l-app-472.ic.green.net%3A80%2Fobj%2FfStudy%2FP02171&mode=documentation&top=yes",
+	"keyword": ["health", "NHS", "Clinical Commissioning Group", "Clinical Indicator",
+		"hip-fracture", "hip fracture", "best practice tariff", "best practice"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	],
+	"distribution": [{
+			"downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.18_I02028_D.xls",
+			"title": "Indicator data (.xls)",
+			"format": "application/vnd.ms-excel"
+		}, {
+			"downloadURL": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.18_I02028_D.csv",
+			"title": "Indicator data (.csv)",
+			"format": "text/csv"
+		}
+
+
+
+
+
+
+
+
+	],
+	"references": [{
+			"url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.18_I02028_S.pdf",
+			"title": "Indicator specification",
+			"format": "application/pdf"
+		}, {
+			"url": "https://indicators.ic.nhs.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.18_I02028_Q.pdf",
 			"title": "Indicator quality statement",
 			"format": "application/pdf"
 		}
