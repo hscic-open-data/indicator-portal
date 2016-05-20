@@ -1,5 +1,5 @@
 [
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -55,8 +55,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1a.i_I01954_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -67,7 +67,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -123,8 +123,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1a.ii_I00807_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -135,7 +135,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -191,8 +191,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1b_I00655_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -203,14 +203,14 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Neonatal mortality and stillbirths (formerly indicator 1.6.ii) (NHSOF 1c)",
-      "description" : "The number of babies stillborn or dying before 28 days old per 1,000 live births and stillbirths.\n\nPurpose\n\nNeonatal mortality and stillbirths rates aim to reflect NHS care during pre-pregnancy, pregnancy, birth and immediately after birth.\n\nCurrent version updated: May-15\n\nNext version due: May-16",
-      "modified" : "2015-05",
+      "description" : "The number of babies stillborn or dying before 28 days old per 1,000 live births and stillbirths.\n\nPurpose\n\nNeonatal mortality and stillbirths rates aim to reflect NHS care during pre-pregnancy, pregnancy, birth and immediately after birth.\n\nCurrent version updated: May-16\n\nNext version due: May-17",
+      "modified" : "2016-05",
       "identifier" : "HSCIC-Indicator-Portal-P01729",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01729&mode=documentation&top=yes",
@@ -259,8 +259,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1c_I00667_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -271,7 +271,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -327,8 +327,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.1_I00656_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -339,7 +339,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -395,8 +395,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.2_I00657_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -407,7 +407,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -463,8 +463,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.3_I00658_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -475,7 +475,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -531,8 +531,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.4_I00730_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -543,14 +543,14 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "One-year survival from all cancers (NHSOF 1.4.i)",
-      "description" : "A measure of the number of adults diagnosed with any type of cancer in a year who are still alive one year after diagnosis.\n\n\n\nONS still publish survival percentages for individual types of cancers. These can be found at: http://www.ons.gov.uk/ons/rel/cancer-unit/cancer-survival/cancer-survival-in-england--patients-diagnosed-2007-2011-and-followed-up-to-2012/index.html\n\nPurpose\n\nThis indicator attempts to capture the success of the NHS in preventing people from dying once they have been diagnosed with any type of cancer.\n\nCurrent version updated: Nov-15\n\nNext version due: May-16",
-      "modified" : "2015-11",
+      "description" : "A measure of the number of adults diagnosed with any type of cancer in a year who are still alive one year after diagnosis.\n\nPurpose\n\nThis indicator attempts to capture the success of the NHS in preventing people from dying once they have been diagnosed with any type of cancer.\n\nCurrent version updated: May-16\n\nNext version due: May-17",
+      "modified" : "2016-05",
       "identifier" : "HSCIC-Indicator-Portal-P01734",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01734&mode=documentation&top=yes",
@@ -599,8 +599,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.4.i_I01995_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -611,14 +611,14 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Five-year survival from all cancers (NHSOF 1.4.ii)",
-      "description" : "A measure of the number of adults diagnosed with any type of cancer in a year who are still alive five years after diagnosis.\n\n\n\nONS still publish survival percentages for individual types of cancers. These can be found at: http://www.ons.gov.uk/ons/rel/cancer-unit/cancer-survival/cancer-survival-in-england--patients-diagnosed-2007-2011-and-followed-up-to-2012/index.html\n\nPurpose\n\nThis indicator attempts to capture the success of the NHS in preventing people from dying once they have been diagnosed with any type of cancer.\n\nCurrent version updated: Nov-15\n\nNext version due: May-16",
-      "modified" : "2015-11",
+      "description" : "A measure of the number of adults diagnosed with any type of cancer in a year who are still alive five years after diagnosis.\n\nPurpose\n\nThis indicator attempts to capture the success of the NHS in preventing people from dying once they have been diagnosed with any type of cancer.\n\nCurrent version updated: May-16\n\nNext version due: May-17",
+      "modified" : "2016-05",
       "identifier" : "HSCIC-Indicator-Portal-P01735",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01735&mode=documentation&top=yes",
@@ -667,8 +667,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.4.ii_I01996_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -679,7 +679,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -735,8 +735,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.4.iii_I01997_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -747,7 +747,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -803,8 +803,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.4.iv_I01998_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -815,7 +815,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -871,9 +871,9 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.5.i_I00665_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.5.i_I00665_LS.pdf", "title" : "Mental health and mortality data linkage specification", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -883,14 +883,14 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Infant mortality (NHSOF 1.6.i)",
-      "description" : "Infant mortality is defined as the number of babies dying before the age of one for every 1,000 live births.\n\nPurpose\n\nInfant mortality is a measure of the longer term consequences of perinatal events and is particularly important for monitoring outcomes for high risk groups such as very preterm babies and growth restricted babies.\n\nCurrent version updated: May-15\n\nNext version due: May-16",
-      "modified" : "2015-05",
+      "description" : "Infant mortality is defined as the number of babies dying before the age of one for every 1,000 live births.\n\nPurpose\n\nInfant mortality is a measure of the longer term consequences of perinatal events and is particularly important for monitoring outcomes for high risk groups such as very preterm babies and growth restricted babies.\n\nCurrent version updated: May-16\n\nNext version due: May-17",
+      "modified" : "2016-05",
       "identifier" : "HSCIC-Indicator-Portal-P01743",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01743&mode=documentation&top=yes",
@@ -939,8 +939,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.6.i_I00666_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -951,7 +951,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -1007,8 +1007,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.6.ii_I01999_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -1019,7 +1019,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -1075,8 +1075,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_2_I00705_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -1087,7 +1087,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -1143,8 +1143,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_2.1_I00706_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -1155,14 +1155,14 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Employment of people with long-term conditions (NHSOF 2.2)",
-      "description" : "The percentage difference between the rate of employment in the general population of working age (16-64) and the rate of employment amongst adults of working age with a long-term condition.\n\nPurpose\n\nThis indicator measures the extent to which people with long-term conditions are able to live as normal a life as possible by looking at their levels of employment.\n\nCurrent version updated: Feb-16\n\nNext version due: May-16",
-      "modified" : "2016-02",
+      "description" : "The percentage difference between the rate of employment in the general population of working age (16-64) and the rate of employment amongst adults of working age with a long-term condition.\n\nPurpose\n\nThis indicator measures the extent to which people with long-term conditions are able to live as normal a life as possible by looking at their levels of employment.\n\nCurrent version updated: May-16\n\nNext version due: Aug-16",
+      "modified" : "2016-05",
       "identifier" : "HSCIC-Indicator-Portal-P01748",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01748&mode=documentation&top=yes",
@@ -1211,8 +1211,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_2.2_I00707_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -1223,7 +1223,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -1279,8 +1279,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_2.3.i_I00708_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -1291,7 +1291,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -1347,8 +1347,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_2.3.ii_I00671_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -1359,7 +1359,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -1415,8 +1415,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_2.4_I00709_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -1427,14 +1427,14 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Employment of people with mental illness (formerly indicator 2.5) (NHSOF 2.5.i)",
-      "description" : "The percentage difference between the rate of employment in the general population of working age (16-64) and the rate of employment amongst adults of working age with a mental illness.\n\nPurpose\n\nThis indicator measures the extent to which people with mental illness are able to live as normal a life as possible by looking at their levels of employment. This indicator is to ensure that mental illness is not excluded due to an overriding focus on physical health.\n\nCurrent version updated: Feb-16\n\nNext version due: May-16",
-      "modified" : "2016-02",
+      "description" : "The percentage difference between the rate of employment in the general population of working age (16-64) and the rate of employment amongst adults of working age with a mental illness.\n\nPurpose\n\nThis indicator measures the extent to which people with mental illness are able to live as normal a life as possible by looking at their levels of employment. This indicator is to ensure that mental illness is not excluded due to an overriding focus on physical health.\n\nCurrent version updated: May-16\n\nNext version due: Aug-16",
+      "modified" : "2016-05",
       "identifier" : "HSCIC-Indicator-Portal-P01752",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01752&mode=documentation&top=yes",
@@ -1483,8 +1483,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_2.5.i_I00710_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -1495,13 +1495,13 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Estimated diagnosis rate for people with dementia (NHSOF 2.6.i)",
-      "description" : "This indicator measures the number of people that have been diagnosed with dementia as a proportion of the number who are estimated to have the condition.\n\nPurpose\n\nThis indicator aims to capture the quality of life of people with dementia. It measures the extent of diagnosis for people with dementia by estimating the proportion of the population that has been diagnosed with the disease.\n\nCurrent version updated: Feb-16\n\nNext version due: To be confirmed",
+      "description" : "This indicator measures the number of people that have been diagnosed with dementia as a proportion of the number who are estimated to have the condition.\n\nPurpose\n\nThis indicator aims to capture the quality of life of people with dementia. It measures the extent of diagnosis for people with dementia by estimating the proportion of the population that has been diagnosed with the disease.\n\nCurrent version updated: Feb-16\n\nNext version due: Feb-17",
       "modified" : "2016-02",
       "identifier" : "HSCIC-Indicator-Portal-P01754",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -1551,8 +1551,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_2.6.i_I00744_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -1563,13 +1563,13 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Emergency admissions for acute conditions that should not usually require hospital admission (NHSOF 3a)",
-      "description" : "The indicator measures the number of emergency admissions to hospital in England for acute conditions such as ear/nose/throat infections, kidney/urinary tract infections and heart failure, among others, that could potentially have been avoided if the patient had been better managed in primary care.\n\nPurpose\n\nThis indicator aims to measure the reduction in emergency admissions for conditions that should usually be managed outside hospital.  Where an individual has been admitted for one of these conditions, it may indicate that they have deteriorated more than should have been allowed by the adequate provision of healthcare in primary care or as a hospital outpatient.\n\nCurrent version updated: Feb-16\n\nNext version due: Feb-17",
+      "description" : "The indicator measures the number of emergency admissions to hospital in England for acute conditions such as ear/nose/throat infections, kidney/urinary tract infections and angina, among others, that could potentially have been avoided if the patient had been better managed in primary care.\n\nPurpose\n\nThis indicator aims to measure the reduction in emergency admissions for conditions that should usually be managed outside hospital.  Where an individual has been admitted for one of these conditions, it may indicate that they have deteriorated more than should have been allowed by the adequate provision of healthcare in primary care or as a hospital outpatient.\n\nCurrent version updated: Feb-16\n\nNext version due: Feb-17",
       "modified" : "2016-02",
       "identifier" : "HSCIC-Indicator-Portal-P01757",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -1619,8 +1619,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_3a_I00711_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -1631,7 +1631,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -1687,8 +1687,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_3b_I00712_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -1699,7 +1699,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -1755,8 +1755,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_3.2_I00714_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -1767,7 +1767,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -1823,8 +1823,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_3.5.i_I00717_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -1835,7 +1835,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -1891,8 +1891,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_3.5.ii_I00718_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -1903,7 +1903,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -1959,8 +1959,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_3.6.i_I00719_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -1971,7 +1971,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -2027,8 +2027,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_3.6.ii_I00745_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -2039,7 +2039,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -2095,8 +2095,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_3.7.ii_I02014_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -2107,7 +2107,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -2163,8 +2163,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4a.i_I00739_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -2175,7 +2175,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -2231,8 +2231,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4a.ii_I00740_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -2243,7 +2243,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -2299,8 +2299,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4a.iii_I00741_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -2311,13 +2311,13 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Patient experience of hospital care (NHSOF 4b)",
-      "description" : "Patient experience measured by scoring the results of a selection of questions from the National Inpatient Survey looking at a range of elements of hospital care.\n\nPurpose\n\nThis indicator aims to capture the experience of patients who have received medical treatment in hospital.\n\nCurrent version updated: Aug-15\n\nNext version due: May-16",
+      "description" : "Patient experience measured by scoring the results of a selection of questions from the National Inpatient Survey looking at a range of elements of hospital care.\n\nPurpose\n\nThis indicator aims to capture the experience of patients who have received medical treatment in hospital.\n\nCurrent version updated: Aug-15\n\nNext version due: Aug-16",
       "modified" : "2015-08",
       "identifier" : "HSCIC-Indicator-Portal-P01774",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -2367,8 +2367,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4b_I00683_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -2379,7 +2379,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -2435,8 +2435,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4.1_I00684_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -2447,13 +2447,13 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Responsiveness to inpatients\u2019 personal needs (NHSOF 4.2)",
-      "description" : "Patient experience measured by scoring the results of a selection of questions from the National Inpatient Survey focussing on the responsiveness to personal needs.\n\nPurpose\n\nConsultation feedback indicated that personalisation and service responsiveness are important issues for inpatients. This indicator aims to capture inpatients\u2019 experience of this.\n\nCurrent version updated: Aug-15\n\nNext version due: May-16",
+      "description" : "Patient experience measured by scoring the results of a selection of questions from the National Inpatient Survey focussing on the responsiveness to personal needs.\n\nPurpose\n\nConsultation feedback indicated that personalisation and service responsiveness are important issues for inpatients. This indicator aims to capture inpatients\u2019 experience of this.\n\nCurrent version updated: Aug-15\n\nNext version due: Aug-16",
       "modified" : "2015-08",
       "identifier" : "HSCIC-Indicator-Portal-P01779",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -2503,8 +2503,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4.2_I00685_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -2515,13 +2515,13 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Patient experience of A&E services (NHSOF 4.3)",
-      "description" : "Patient experience measured by scoring the results of a selection of questions from the National Accident and Emergency (A&E) Department Survey.\n\nPurpose\n\nThis indicator aims to capture the experience of patients who have used A&E services.\n\nCurrent version updated: Feb-15\n\nNext version due: To be confirmed",
+      "description" : "Patient experience measured by scoring the results of a selection of questions from the National Accident and Emergency (A&amp;E) Department Survey.\n\nPurpose\n\nThis indicator aims to capture the experience of patients who have used A&amp;E services.\n\nCurrent version updated: Feb-15\n\nNext version due: To be confirmed",
       "modified" : "2015-02",
       "identifier" : "HSCIC-Indicator-Portal-P01780",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -2571,8 +2571,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4.3_I00686_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -2583,7 +2583,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -2639,8 +2639,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4.4.i_I00687_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -2651,7 +2651,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -2707,8 +2707,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4.4.ii_I00688_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -2719,7 +2719,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -2775,8 +2775,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4.5_I00689_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -2787,14 +2787,14 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Bereaved carers' views on the quality of care in the last 3 months of life (NHSOF 4.6)",
-      "description" : "This indicator measures the experience of care for people at the end of their lives, based on the views of bereaved carers, from the National Bereavement Survey (VOICES).\n\nPurpose\n\nThis indicator aims to measure the quality of care experienced by bereaved relatives of people in the final three months of life.\n\nCurrent version updated: Aug-15\n\nNext version due: Aug-16",
-      "modified" : "2015-08",
+      "description" : "This indicator measures the experience of care for people at the end of their lives, based on the views of bereaved carers, from the National Bereavement Survey (VOICES).\n\nPurpose\n\nThis indicator aims to measure the quality of care experienced by bereaved relatives of people in the final three months of life.\n\nCurrent version updated: May-16\n\nNext version due: May-17",
+      "modified" : "2016-05",
       "identifier" : "HSCIC-Indicator-Portal-P01784",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01784&mode=documentation&top=yes",
@@ -2843,8 +2843,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4.6_I00690_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -2855,7 +2855,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -2911,8 +2911,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4.7_I00691_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -2923,7 +2923,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -2979,8 +2979,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_5.1_I00675_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -2991,7 +2991,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -3047,8 +3047,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_5.2.i_I00676_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -3059,7 +3059,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -3115,8 +3115,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_5.2.ii_I00677_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -3127,7 +3127,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -3183,8 +3183,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_5.5_I00680_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -3195,14 +3195,14 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Patient safety incidents reported (formerly indicators 5a, 5b and 5.4) (NHSOF 5.6)",
-      "description" : "The number of patient safety incidents reported to the National Reporting and Learning System (NRLS) by provider organisations, per 100,000 population.\n\nA patient safety incident is defined as \u2018any unintended or unexpected incident(s) that could have, or did, lead to harm for one or more person(s) receiving NHS funded healthcare\u2019.\n\nPurpose\n\nThis indicator aims to measure the number of reported patient safety incidents across NHS care settings. The aim is for incidence reporting to increase as the culture of reporting all incidents spreads more widely across the NHS. The ultimate goal is that the number of reported incidents remains steady or decreases, as the habit of reporting incidents becomes routine and these are learnt from.\n\nCurrent version updated: Nov-15\n\nNext version due: May-16",
-      "modified" : "2015-11",
+      "description" : "The number of patient safety incidents reported to the National Reporting and Learning System (NRLS) by provider organisations, per 100,000 population.\n\nA patient safety incident is defined as \u2018any unintended or unexpected incident(s) that could have, or did, lead to harm for one or more person(s) receiving NHS funded healthcare\u2019.\n\nPurpose\n\nThis indicator aims to measure the number of reported patient safety incidents across NHS care settings. The aim is for incidence reporting to increase as the culture of reporting all incidents spreads more widely across the NHS. The ultimate goal is that the number of reported incidents remains steady or decreases, as the habit of reporting incidents becomes routine and these are learnt from.\n\nCurrent version updated: May-16\n\nNext version due: Nov-16",
+      "modified" : "2016-05",
       "identifier" : "HSCIC-Indicator-Portal-P01796",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01796&mode=documentation&top=yes",
@@ -3251,8 +3251,8 @@
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://www.gov.uk/government/publications/nhs-outcomes-framework-2015-to-2016", "title" : "DH Guidance for the NHS Outcomes Framework 2015/16", "format" : "text/html"}
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_5.6_I00672_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
                   
                   
                   
@@ -3263,7 +3263,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -3331,7 +3331,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -3399,7 +3399,7 @@
 
                   ]
     },
-    {  
+   {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
@@ -3456,6 +3456,74 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_5.6_I00681_Q_Retired.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+
+                  ]
+    },
+   {  
+      "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+      },
+      "title" : "Health-related quality of life for people with three or more long-term conditions (NHSOF 2.7)",
+      "description" : "This indicator measures the health-related quality of life for people who identify themselves as having three or more long-term conditions.\n\nPurpose\n\nThis indicator measures how successfully the NHS is supporting people with multiple long-term conditions to live as normal a life as possible. This indicator helps people understand whether health-related quality of life is improving over time for the population with multiple long-term conditions.\n\nCurrent version updated: May-16\n\nNext version due: Aug-16",
+      "modified" : "2016-05",
+      "identifier" : "HSCIC-Indicator-Portal-P01756",
+      "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01756&mode=documentation&top=yes",
+      "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
+                  "long-standing"
+                  ,"longstanding condition"
+                  ,"long-standing condition"
+                  ,"long-term"
+                  ,"longterm condition"
+                  ,"long-term condition"
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  ],
+      "distribution" : [
+                  {
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.7_I02010_D.xls",
+                  "title" : "Indicator data (.xls)",
+                  "format" :"application/vnd.ms-excel" 
+                  }
+                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.7_I02010_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  ],
+      "references" : [
+                  {
+                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_2_S.pdf",
+                  "title" : "Indicator specification",
+                  "format" :"application/pdf" 
+                  }
+                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_2.7_I02010_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
