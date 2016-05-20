@@ -141,7 +141,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Myocardial infarction, stroke and stage 5 chronic kidney disease in people with diabetes (CCGOIS 1.4)",
-      "description" : "Indirectly age and sex standardised ratio for myocardial infarction, stroke and stage 5 chronic kidney disease in people with diabetes.\n\nCurrent version updated: Mar-15\n\nNext version due: Jun-16",
+      "description" : "Indirectly age and sex standardised ratio for myocardial infarction, stroke and stage 5 chronic kidney disease in people with diabetes.\n\nCurrent version updated: Mar-15\n\nNext version due: Dec-16",
       "modified" : "2015-03",
       "identifier" : "HSCIC-Indicator-Portal-P01803",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -209,7 +209,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Mortality within 30 days of hospital admission for stroke (CCGOIS 1.5)",
-      "description" : "The casemix adjusted standardised mortality ratio of people with known stroke type who die within 30 days of hospital admission.\n\nCurrent version updated: Jan-15\n\nNext version due: Jun-16",
+      "description" : "The casemix adjusted standardised mortality ratio of people with known stroke type who die within 30 days of hospital admission.\n\nCurrent version updated: Jan-15\n\nNext version due: Sep-16",
       "modified" : "2015-01",
       "identifier" : "HSCIC-Indicator-Portal-P01804",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -464,7 +464,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.8_I00764_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  
+                  ,{"url" : "https://indicators.hscic.gov.ukData file updated xlsx & csv, Quality Statement updated.", "title" : "Data file updated xlsx & csv, Quality Statement updated.", "format" : "text/html"}
                   
                   
                   
@@ -600,7 +600,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.10_I00773_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  
+                  ,{"url" : "https://indicators.hscic.gov.ukData file updated xlsx & csv, Spec updated, QS updated", "title" : "Data file updated xlsx & csv, Spec updated, QS updated", "format" : "text/html"}
                   
                   
                   
@@ -872,7 +872,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.14_I00779_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  
+                  ,{"url" : "https://indicators.hscic.gov.ukData file updated xlsx & csv, Specification updated, Quality Statement updated", "title" : "Data file updated xlsx & csv, Specification updated, Quality Statement updated", "format" : "text/html"}
                   
                   
                   
@@ -1348,7 +1348,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.22_I01973_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  
+                  ,{"url" : "https://indicators.hscic.gov.ukData file updated xlsx & csv, Specification updated, Quality Statement updated", "title" : "Data file updated xlsx & csv, Specification updated, Quality Statement updated", "format" : "text/html"}
                   
                   
                   
@@ -1484,7 +1484,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.25_I02023_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  
+                  ,{"url" : "https://indicators.hscic.gov.ukSpecification updated", "title" : "Specification updated", "format" : "text/html"}
                   
                   
                   
@@ -1824,7 +1824,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.6_I00757_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  
+                  ,{"url" : "https://indicators.hscic.gov.ukData file updated xlsx & csv, Specification updated, Quality Statement updated", "title" : "Data file updated xlsx & csv, Specification updated, Quality Statement updated", "format" : "text/html"}
                   
                   
                   
@@ -1892,7 +1892,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.7_I00758_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  
+                  ,{"url" : "https://indicators.hscic.gov.ukData file updated xlsx & csv, Quality Statement updated", "title" : "Data file updated xlsx & csv, Quality Statement updated", "format" : "text/html"}
                   
                   
                   
@@ -1909,7 +1909,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Complications associated with diabetes (CCGOIS 2.8)",
-      "description" : "Indirectly age and sex standardised ratio of complications associated with diabetes including emergency admissions for diabetic ketoacidosis and lower limb amputation, in people with diabetes.\n\nCurrent version updated: Mar-15\n\nNext version due: Jun-16",
+      "description" : "Indirectly age and sex standardised ratio of complications associated with diabetes including emergency admissions for diabetic ketoacidosis and lower limb amputation, in people with diabetes.\n\nCurrent version updated: Mar-15\n\nNext version due: Dec-16",
       "modified" : "2015-03",
       "identifier" : "HSCIC-Indicator-Portal-P01834",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -2504,7 +2504,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.1_I00759_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  
+                  ,{"url" : "https://indicators.hscic.gov.ukData file updated xlsx & csv, Quality Statement updated", "title" : "Data file updated xlsx & csv, Quality Statement updated", "format" : "text/html"}
                   
                   
                   
@@ -2708,7 +2708,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.4_I00762_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  
+                  ,{"url" : "https://indicators.hscic.gov.ukData file updated xlsx & csv, Quality Statement updated", "title" : "Data file updated xlsx & csv, Quality Statement updated", "format" : "text/html"}
                   
                   
                   
@@ -4000,7 +4000,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.3_I00805_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  
+                  ,{"url" : "https://indicators.hscic.gov.ukData file updated xlsx & csv, Specification updated, Quality Statement updated", "title" : "Data file updated xlsx & csv, Specification updated, Quality Statement updated", "format" : "text/html"}
                   
                   
                   
@@ -4068,7 +4068,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.4_I00806_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  
+                  ,{"url" : "https://indicators.hscic.gov.ukData file updated xlsx & csv, Specification updated, Quality Statement updated", "title" : "Data file updated xlsx & csv, Specification updated, Quality Statement updated", "format" : "text/html"}
                   
                   
                   
