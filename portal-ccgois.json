@@ -5,7 +5,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Potential years of life lost (PYLL) from causes considered amenable to healthcare (CCGOIS 1.1)",
-      "description" : "Potential years of life lost (PYLL) rate from causes considered amenable to healthcare.\n\n\n\nThe following indicator includes a change of methodology for the pooled years directly standardised rate and for the confidence intervals for all breakdowns.\n\nFull details of these changes can be found here: http://www.hscic.gov.uk/pubs/methchanges\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-16",
+      "description" : "Potential years of life lost (PYLL) rate from causes considered amenable to healthcare.\n\n\n\nThe following indicator includes a change of methodology for the pooled years directly standardised rate and for the confidence intervals for all breakdowns.\n\nFull details of these changes can be found here: http://www.hscic.gov.uk/pubs/methchanges\n\nCurrent version updated: Sep-15\n\nNext version due: Dec-16",
       "modified" : "2015-09",
       "identifier" : "HSCIC-Indicator-Portal-P01800",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -413,8 +413,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Emergency admissions for alcohol related liver disease (CCGOIS 1.8)",
-      "description" : "Directly age and sex standardised emergency admission rate for alcohol related liver disease in adults per 100,000 registered patients.\n\nCurrent version updated: Mar-16\n\nNext version due: Jun-16",
-      "modified" : "2016-03",
+      "description" : "Directly age and sex standardised emergency admission rate for alcohol related liver disease in adults per 100,000 registered patients.\n\nCurrent version updated: Jun-16\n\nNext version due: Sep-16",
+      "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01807",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01807&mode=documentation&top=yes",
@@ -464,7 +464,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.8_I00764_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  ,{"url" : "https://indicators.hscic.gov.ukData file updated xlsx & csv, Quality Statement updated.", "title" : "Data file updated xlsx & csv, Quality Statement updated.", "format" : "text/html"}
+                  
                   
                   
                   
@@ -600,7 +600,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.10_I00773_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  ,{"url" : "https://indicators.hscic.gov.ukData file updated xlsx & csv, Spec updated, QS updated", "title" : "Data file updated xlsx & csv, Spec updated, QS updated", "format" : "text/html"}
+                  
                   
                   
                   
@@ -821,8 +821,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Maternal smoking at delivery (CCGOIS 1.14)",
-      "description" : "The percentage of women who were smokers at the time of delivery, out of the number of maternities.\n\nCurrent version updated: Mar-16\n\nNext version due: Jun-16",
-      "modified" : "2016-03",
+      "description" : "The percentage of women who were smokers at the time of delivery, out of the number of maternities.\n\nCurrent version updated: Jun-16\n\nNext version due: Sep-16",
+      "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01813",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01813&mode=documentation&top=yes",
@@ -872,7 +872,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.14_I00779_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  ,{"url" : "https://indicators.hscic.gov.ukData file updated xlsx & csv, Specification updated, Quality Statement updated", "title" : "Data file updated xlsx & csv, Specification updated, Quality Statement updated", "format" : "text/html"}
+                  
                   
                   
                   
@@ -957,8 +957,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Record of stage of cancer at diagnosis (CCGOIS 1.17)",
-      "description" : "The percentage of new cases of cancer for which a valid stage is recorded at the time of diagnosis.\n\nCurrent version updated: Jun-15\n\nNext version due: Jun-16",
-      "modified" : "2015-06",
+      "description" : "The percentage of new cases of cancer for which a valid stage is recorded at the time of diagnosis.\n\nCurrent version updated: Jun-16\n\nNext version due: Jun-17",
+      "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01816",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01816&mode=documentation&top=yes",
@@ -987,8 +987,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.17_I01968_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.17_I01968_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.17_I01968_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -1025,8 +1025,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Percentage of cancers detected at stage 1 and 2 (CCGOIS 1.18)",
-      "description" : "The percentage of new cases of cancer which were diagnosed at stage 1 or 2 for the specific cancer sites, morphologies and behaviour: invasive malignancies of breast, prostate, colorectal, lung, bladder, kidney, ovary, uterus, non-Hodgkin lymphoma and invasive melanomas of skin.\n\n\n\nThis indicator relates to a subset of the cancers covered by CCG indicator 1.17 Record of stage of cancer at diagnosis.\n\nCurrent version updated: Jun-15\n\nNext version due: Jun-16",
-      "modified" : "2015-06",
+      "description" : "The percentage of new cases of cancer which were diagnosed at stage 1 or 2 for the specific cancer sites, morphologies and behaviour: invasive malignancies of breast, prostate, colorectal, lung, bladder, kidney, ovary, uterus, non-Hodgkin lymphoma and invasive melanomas of skin.\n\n\n\nThis indicator relates to a subset of the cancers covered by CCG indicator 1.17 Record of stage of cancer at diagnosis.\n\nCurrent version updated: Jun-16\n\nNext version due: Jun-17",
+      "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01817",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01817&mode=documentation&top=yes",
@@ -1055,8 +1055,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.18_I01969_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.18_I01969_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.18_I01969_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -1093,8 +1093,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Record of lung cancer stage at decision to treat (CCGOIS 1.19)",
-      "description" : "The percentage of cases of lung cancer for which a valid stage at the time of decision to treat is recorded.\n\nCurrent version updated: Mar-15\n\nNext version due: Jun-16",
-      "modified" : "2015-03",
+      "description" : "The percentage of cases of lung cancer for which a valid stage at the time of decision to treat is recorded.\n\n2013 National Lung Cancer Audit (NCLA) based data available in archived file below.\n\nCurrent version updated: Jun-16\n\nNext version due: Jun-17",
+      "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01818",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01818&mode=documentation&top=yes",
@@ -1123,12 +1123,12 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.19_I01970_D_V1.xlsx",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.19_I01970_D.xlsx",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.19_I01970_D_V1.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  
+                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.19_I01970_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/Archive_CCG_1.19_I01970_D_NLCA.xlsx", "title" : "Archive National Lung Cancer Audit file", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -1139,11 +1139,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.19_I01970_S_V1.0.pdf",
+                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.19_I01970_S.pdf",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.19_I01970_Q_V1.0.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.19_I01970_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1297,8 +1297,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Hip fracture: incidence (CCGOIS 1.22)",
-      "description" : "Directly age and sex standardised emergency admission rate for hip fracture in those aged 60 years and over, per 100,000 registered patients.\n\nCurrent version updated: Mar-16\n\nNext version due: Jun-16",
-      "modified" : "2016-03",
+      "description" : "Directly age and sex standardised emergency admission rate for hip fracture in those aged 60 years and over, per 100,000 registered patients.\n\nCurrent version updated: Jun-16\n\nNext version due: Sep-16",
+      "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01821",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01821&mode=documentation&top=yes",
@@ -1348,7 +1348,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.22_I01973_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  ,{"url" : "https://indicators.hscic.gov.ukData file updated xlsx & csv, Specification updated, Quality Statement updated", "title" : "Data file updated xlsx & csv, Specification updated, Quality Statement updated", "format" : "text/html"}
+                  
                   
                   
                   
@@ -1484,7 +1484,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.25_I02023_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  ,{"url" : "https://indicators.hscic.gov.ukSpecification updated", "title" : "Specification updated", "format" : "text/html"}
+                  
                   
                   
                   
@@ -1705,8 +1705,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "People with diabetes diagnosed less than a year who are referred to structured education (CCGOIS 2.5)",
-      "description" : "The percentage of people with diabetes diagnosed less than a year who are referred to structured education.\n\nCurrent version updated: Sep-15\n\nNext version due: Jun-16",
-      "modified" : "2015-09",
+      "description" : "The percentage of people with diabetes diagnosed less than a year who are referred to structured education.\n\nCurrent version updated: Jun-16\n\nNext version due: Jun-17",
+      "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01831",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01831&mode=documentation&top=yes",
@@ -1773,8 +1773,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Unplanned hospitalisation for chronic ambulatory care sensitive conditions (CCGOIS 2.6)",
-      "description" : "Directly age and sex standardised rate of unplanned hospital admissions for chronic ambulatory care sensitive conditions for persons of all ages.\n\nCurrent version updated: Mar-16\n\nNext version due: Jun-16",
-      "modified" : "2016-03",
+      "description" : "Directly age and sex standardised rate of unplanned hospital admissions for chronic ambulatory care sensitive conditions for persons of all ages.\n\nCurrent version updated: Jun-16\n\nNext version due: Sep-16",
+      "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01832",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01832&mode=documentation&top=yes",
@@ -1824,7 +1824,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.6_I00757_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  ,{"url" : "https://indicators.hscic.gov.ukData file updated xlsx & csv, Specification updated, Quality Statement updated", "title" : "Data file updated xlsx & csv, Specification updated, Quality Statement updated", "format" : "text/html"}
+                  
                   
                   
                   
@@ -1841,8 +1841,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Unplanned hospitalisation for asthma, diabetes and epilepsy in under 19s (CCGOIS 2.7)",
-      "description" : "Directly age and sex standardised rate of unplanned hospital admissions for asthma, diabetes and epilepsy in under 19s.\n\nCurrent version updated: Mar-16\n\nNext version due: Jun-16",
-      "modified" : "2016-03",
+      "description" : "Directly age and sex standardised rate of unplanned hospital admissions for asthma, diabetes and epilepsy in under 19s.\n\nCurrent version updated: Jun-16\n\nNext version due: Sep-16",
+      "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01833",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01833&mode=documentation&top=yes",
@@ -1892,7 +1892,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.7_I00758_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  ,{"url" : "https://indicators.hscic.gov.ukData file updated xlsx & csv, Quality Statement updated", "title" : "Data file updated xlsx & csv, Quality Statement updated", "format" : "text/html"}
+                  
                   
                   
                   
@@ -2113,20 +2113,20 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Percentage of referrals to Improving Access to Psychological Therapies (IAPT) services which indicated a reliable recovery following completion of treatment (CCGOIS 2.11a)",
-      "description" : "Percentage of referrals with a finished course of treatment that were initially at caseness to IAPT services which indicated a reliable recovery following completion of treatment\n\nCurrent version updated: Mar-16\n\nNext version due: Jun-16",
-      "modified" : "2016-03",
+      "description" : "Percentage of referrals with a finished course of treatment that were initially at caseness to IAPT services which indicated a reliable recovery following completion of treatment\n\nCurrent version updated: Jun-16\n\nNext version due: Sep-16",
+      "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01837",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01837&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
-                  "IAPT"
+                  "change"
+                  ,"IAPT"
                   ,"mental health"
                   ,"psychological therapies"
                   ,"recovery"
                   ,"referral"
                   ,"referrals"
-                  
-                  
+                  ,"reliable"
                   
                   
                   
@@ -2181,20 +2181,20 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Percentage of referrals to Improving Access to Psychological Therapies (IAPT) services which indicated a reliable improvement following completion of treatment (CCGOIS 2.11b)",
-      "description" : "Percentage of referrals with a finished course of treatment to IAPT services which indicated a reliable improvement following completion of treatment\n\nCurrent version updated: Mar-16\n\nNext version due: Jun-16",
-      "modified" : "2016-03",
+      "description" : "Percentage of referrals with a finished course of treatment to IAPT services which indicated a reliable improvement following completion of treatment\n\nCurrent version updated: Jun-16\n\nNext version due: Sep-16",
+      "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01838",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01838&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
-                  "IAPT"
+                  "change"
+                  ,"IAPT"
                   ,"improvement"
                   ,"mental health"
                   ,"psychological therapies"
                   ,"referral"
                   ,"referrals"
-                  
-                  
+                  ,"reliable"
                   
                   
                   
@@ -2249,20 +2249,20 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Percentage of referrals to Improving Access to Psychological Therapies (IAPT) services which indicated a reliable deterioration following completion of treatment (CCGOIS 2.11c)",
-      "description" : "Percentage of referrals with a finished course of treatment to IAPT services which indicated a reliable deterioration following completion of treatment\n\nCurrent version updated: Mar-16\n\nNext version due: Jun-16",
-      "modified" : "2016-03",
+      "description" : "Percentage of referrals with a finished course of treatment to IAPT services which indicated a reliable deterioration following completion of treatment\n\nCurrent version updated: Jun-16\n\nNext version due: Sep-16",
+      "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01839",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01839&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
-                  "deterioration"
+                  "change"
+                  ,"deterioration"
                   ,"IAPT"
                   ,"mental health"
                   ,"psychological therapies"
                   ,"referral"
                   ,"referrals"
-                  
-                  
+                  ,"reliable"
                   
                   
                   
@@ -2453,8 +2453,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Emergency admissions for acute conditions that should not usually require hospital admission (CCGOIS 3.1)",
-      "description" : "Directly age and sex standardised rate of unplanned hospital admissions for acute conditions for persons of all ages.\n\nCurrent version updated: Mar-16\n\nNext version due: Jun-16",
-      "modified" : "2016-03",
+      "description" : "Directly age and sex standardised rate of unplanned hospital admissions for acute conditions for persons of all ages.\n\nCurrent version updated: Jun-16\n\nNext version due: Sep-16",
+      "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01844",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01844&mode=documentation&top=yes",
@@ -2504,7 +2504,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.1_I00759_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  ,{"url" : "https://indicators.hscic.gov.ukData file updated xlsx & csv, Quality Statement updated", "title" : "Data file updated xlsx & csv, Quality Statement updated", "format" : "text/html"}
+                  
                   
                   
                   
@@ -2657,8 +2657,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Emergency admissions for children with lower respiratory tract infections (CCGOIS 3.4)",
-      "description" : "Directly age and sex standardised rate of children under 19 (0 to 18 years) admitted to hospital with lower respiratory tract infections as an emergency admission.\n\nCurrent version updated: Mar-16\n\nNext version due: Jun-16",
-      "modified" : "2016-03",
+      "description" : "Directly age and sex standardised rate of children under 19 (0 to 18 years) admitted to hospital with lower respiratory tract infections as an emergency admission.\n\nCurrent version updated: Jun-16\n\nNext version due: Sep-16",
+      "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01850",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01850&mode=documentation&top=yes",
@@ -2708,7 +2708,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.4_I00762_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  ,{"url" : "https://indicators.hscic.gov.ukData file updated xlsx & csv, Quality Statement updated", "title" : "Data file updated xlsx & csv, Quality Statement updated", "format" : "text/html"}
+                  
                   
                   
                   
@@ -3405,8 +3405,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Alcohol-specific hospital admissions (CCGOIS 3.14)",
-      "description" : "Directly age and sex standardised admission rate for alcohol-specific conditions per 100,000 registered patients.\n\nCurrent version updated: Mar-16\n\nNext version due: Jun-16",
-      "modified" : "2016-03",
+      "description" : "Directly age and sex standardised admission rate for alcohol-specific conditions per 100,000 registered patients.\n\nCurrent version updated: Jun-16\n\nNext version due: Sep-16",
+      "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01861",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01861&mode=documentation&top=yes",
@@ -3473,8 +3473,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Emergency alcohol-specific readmission to any hospital within 30 days of discharge following an alcohol-specific admission (CCGOIS 3.15)",
-      "description" : "Indirectly age and sex standardised ratio of emergency readmissions with a primary diagnosis or an external cause code of an alcohol-specific condition within 30 days of a previous discharge following an alcohol-specific admission.\n\nCurrent version updated: Mar-16\n\nNext version due: Jun-16",
-      "modified" : "2016-03",
+      "description" : "Indirectly age and sex standardised ratio of emergency readmissions with a primary diagnosis or an external cause code of an alcohol-specific condition within 30 days of a previous discharge following an alcohol-specific admission.\n\nCurrent version updated: Jun-16\n\nNext version due: Sep-16",
+      "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01862",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01862&mode=documentation&top=yes",
@@ -3949,8 +3949,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Incidence of Healthcare Associated Infection (HCAI) \u2013 Methicillin-resistant Staphylococcus aureus (MRSA) (CCGOIS 5.3)",
-      "description" : "The count of MRSA bloodstream infections reported per CCG.\n\nCurrent version updated: Mar-16\n\nNext version due: Jun-16",
-      "modified" : "2016-03",
+      "description" : "The count of MRSA bloodstream infections reported per CCG.\n\nCurrent version updated: Jun-16\n\nNext version due: Sep-16",
+      "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01877",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01877&mode=documentation&top=yes",
@@ -4000,7 +4000,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.3_I00805_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  ,{"url" : "https://indicators.hscic.gov.ukData file updated xlsx & csv, Specification updated, Quality Statement updated", "title" : "Data file updated xlsx & csv, Specification updated, Quality Statement updated", "format" : "text/html"}
+                  
                   
                   
                   
@@ -4017,8 +4017,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Incidence of Healthcare Associated Infection (HCAI) \u2013 C. difficile (CCGOIS 5.4)",
-      "description" : "The count of C. difficile infections reported, in people aged 2 and over, per CCG.\n\nCurrent version updated: Mar-16\n\nNext version due: Jun-16",
-      "modified" : "2016-03",
+      "description" : "The count of C. difficile infections reported, in people aged 2 and over, per CCG.\n\nCurrent version updated: Jun-16\n\nNext version due: Sep-16",
+      "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01878",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01878&mode=documentation&top=yes",
@@ -4068,7 +4068,7 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.4_I00806_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  ,{"url" : "https://indicators.hscic.gov.ukData file updated xlsx & csv, Specification updated, Quality Statement updated", "title" : "Data file updated xlsx & csv, Specification updated, Quality Statement updated", "format" : "text/html"}
+                  
                   
                   
                   
