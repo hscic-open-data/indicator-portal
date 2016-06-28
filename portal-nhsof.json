@@ -1568,6 +1568,74 @@
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
       },
+      "title" : "Health-related quality of life for people with three or more long-term conditions (NHSOF 2.7)",
+      "description" : "This indicator measures the health-related quality of life for people who identify themselves as having three or more long-term conditions.\n\nPurpose\n\nThis indicator measures how successfully the NHS is supporting people with multiple long-term conditions to live as normal a life as possible. This indicator helps people understand whether health-related quality of life is improving over time for the population with multiple long-term conditions.\n\nCurrent version updated: May-16\n\nNext version due: Aug-16",
+      "modified" : "2016-05",
+      "identifier" : "HSCIC-Indicator-Portal-P01756",
+      "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01756&mode=documentation&top=yes",
+      "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
+                  "long-standing"
+                  ,"longstanding condition"
+                  ,"long-standing condition"
+                  ,"long-term"
+                  ,"longterm condition"
+                  ,"long-term condition"
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  ],
+      "distribution" : [
+                  {
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.7_I02010_D.xls",
+                  "title" : "Indicator data (.xls)",
+                  "format" :"application/vnd.ms-excel" 
+                  }
+                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.7_I02010_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  ],
+      "references" : [
+                  {
+                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_2_S.pdf",
+                  "title" : "Indicator specification",
+                  "format" :"application/pdf" 
+                  }
+                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_2.7_I02010_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+
+                  ]
+    },
+   {  
+      "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+      },
       "title" : "Emergency admissions for acute conditions that should not usually require hospital admission (NHSOF 3a)",
       "description" : "The indicator measures the number of emergency admissions to hospital in England for acute conditions such as ear/nose/throat infections, kidney/urinary tract infections and angina, among others, that could potentially have been avoided if the patient had been better managed in primary care.\n\nPurpose\n\nThis indicator aims to measure the reduction in emergency admissions for conditions that should usually be managed outside hospital.  Where an individual has been admitted for one of these conditions, it may indicate that they have deteriorated more than should have been allowed by the adequate provision of healthcare in primary care or as a hospital outpatient.\n\nCurrent version updated: Feb-16\n\nNext version due: Feb-17",
       "modified" : "2016-02",
@@ -3456,74 +3524,6 @@
                   "format" :"application/pdf" 
                   }
                   ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_5.6_I00681_Q_Retired.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-
-                  ]
-    },
-   {  
-      "publisher": {
-            "name": "Health and Social Care Information Centre",
-            "mbox": "enquiries@hscic.gov.uk"
-      },
-      "title" : "Health-related quality of life for people with three or more long-term conditions (NHSOF 2.7)",
-      "description" : "This indicator measures the health-related quality of life for people who identify themselves as having three or more long-term conditions.\n\nPurpose\n\nThis indicator measures how successfully the NHS is supporting people with multiple long-term conditions to live as normal a life as possible. This indicator helps people understand whether health-related quality of life is improving over time for the population with multiple long-term conditions.\n\nCurrent version updated: May-16\n\nNext version due: Aug-16",
-      "modified" : "2016-05",
-      "identifier" : "HSCIC-Indicator-Portal-P01756",
-      "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01756&mode=documentation&top=yes",
-      "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
-                  "long-standing"
-                  ,"longstanding condition"
-                  ,"long-standing condition"
-                  ,"long-term"
-                  ,"longterm condition"
-                  ,"long-term condition"
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  ],
-      "distribution" : [
-                  {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.7_I02010_D.xls",
-                  "title" : "Indicator data (.xls)",
-                  "format" :"application/vnd.ms-excel" 
-                  }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.7_I02010_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  ],
-      "references" : [
-                  {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_2_S.pdf",
-                  "title" : "Indicator specification",
-                  "format" :"application/pdf" 
-                  }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_2.7_I02010_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
