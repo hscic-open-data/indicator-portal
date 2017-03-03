@@ -1,12 +1,12 @@
-[
+ [
    {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Whether GP Practices Provide Functionality For Patients To Book Or Cancel Appointments Electronically",
-      "description" : "Supplies details of whether GP Practices provide patient access to electronically book and/or cancel appointments online.\n\nPurpose\n\nTo represent the number of GP Practices that provide systemic capability for patients to use systemic functionality to book and cancel appointments.\n\nCurrent version updated: Jun-16\n\nNext version due: Jul-16",
-      "modified" : "2016-06",
+      "description" : "Supplies details of whether GP Practices provide patient access to electronically book and/or cancel appointments online.\n\nPurpose\n\nTo represent the number of GP Practices that provide systemic capability for patients to use systemic functionality to book and cancel appointments.\n\nCurrent version updated: Feb-17\n\nNext version due: Mar-17",
+      "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P02154",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP02154&mode=documentation&top=yes",
@@ -40,7 +40,7 @@
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/PHF10/Data/BOOK_CANCEL_APPOINTMENTS_POMI.csv", "title" : "System Functionality data.csv", "format" : "text/csv"}
-                  
+                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/PHF10/Data/POMI_DEFINITION_SHEET.xlsx", "title" : "POMI Reporting Definitions.xlsx", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -69,8 +69,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Whether GP Practices Provide Functionality For Patients To Order Repeat Prescriptions Electronically",
-      "description" : "Supplies details of whether GP Practices provide patient access to electronically order repeat prescriptions online.\n\nPurpose\n\nTo represent the number of GP Practices that provide systemic capability for patients to order repeat prescriptions.\n\nCurrent version updated: Jun-16\n\nNext version due: Jul-16",
-      "modified" : "2016-06",
+      "description" : "Supplies details of whether GP Practices provide patient access to electronically order repeat prescriptions online.\n\nPurpose\n\nTo represent the number of GP Practices that provide systemic capability for patients to order repeat prescriptions.\n\nCurrent version updated: Feb-17\n\nNext version due: Mar-17",
+      "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P02155",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP02155&mode=documentation&top=yes",
@@ -104,7 +104,7 @@
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/PHF10/Data/ORDER_REPEAT_PRESCRIPTIONS_POMI.csv", "title" : "System Functionality data.csv", "format" : "text/csv"}
-                  
+                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/PHF10/Data/POMI_DEFINITION_SHEET.xlsx", "title" : "POMI Reporting Definitions.xlsx", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -133,7 +133,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Whether GP Practices Provide Functionality For Patients To View Letters Electronically",
-      "description" : "Supplies details of whether GP Practices provide patients to electronically view their letters online.\n\nPurpose\n\nTo represent the number of GP Practices that provide systemic capability for patients to view their letters.\n\nCurrent version updated: Apr-16\n\nNext version due: Jul-16",
+      "description" : "Supplies details of whether GP Practices provide patients to electronically view their letters online.\n\nPurpose\n\nTo represent the number of GP Practices that provide systemic capability for patients to view their letters.\n\nCurrent version updated: Apr-16\n\nNext version due: Decommissioned",
       "modified" : "2016-04",
       "identifier" : "HSCIC-Indicator-Portal-P02156",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -168,7 +168,7 @@
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/PHF10/Data/VIEW_LETTERS_POMI.csv", "title" : "System Functionality data.csv", "format" : "text/csv"}
-                  
+                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/PHF10/Data/POMI_DEFINITION_SHEET.xlsx", "title" : "POMI Reporting Definitions.xlsx", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -197,7 +197,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Whether GP Practices Provide Functionality For Patients To View Test Results Electronically",
-      "description" : "Supplies details of all GP Practices that provide patients the functionality to electronically view their test results online.\n\nPurpose\n\nTo represent the number of GP Practices that provide systemic capability for patients to view test results.\n\nCurrent version updated: Apr-16\n\nNext version due: Jul-16",
+      "description" : "Supplies details of all GP Practices that provide patients the functionality to electronically view their test results online.\n\nPurpose\n\nTo represent the number of GP Practices that provide systemic capability for patients to view test results.\n\nCurrent version updated: Apr-16\n\nNext version due: Decommissioned",
       "modified" : "2016-04",
       "identifier" : "HSCIC-Indicator-Portal-P02157",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -232,7 +232,7 @@
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/PHF10/Data/VIEW_TEST_RESULTS_POMI.csv", "title" : "System Functionality data.csv", "format" : "text/csv"}
-                  
+                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/PHF10/Data/POMI_DEFINITION_SHEET.xlsx", "title" : "POMI Reporting Definitions.xlsx", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -261,8 +261,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Whether GP Practices Provide Functionality For Patients To View Detailed Coded Records Electronically",
-      "description" : "Supplies details of all GP Practices that provide patients the functionality to electronically view their detailed coded records online.\n\nPurpose\n\nTo represent the number of GP Practices that provide systemic capability for patients to view detailed coded records.\n\nCurrent version updated: Jun-16\n\nNext version due: Jul-16",
-      "modified" : "2016-06",
+      "description" : "Supplies details of all GP Practices that provide patients the functionality to electronically view their detailed coded records online.\n\nPurpose\n\nTo represent the number of GP Practices that provide systemic capability for patients to view detailed coded records.\n\nCurrent version updated: Aug-16\n\nNext version due: Mar-17",
+      "modified" : "2016-08",
       "identifier" : "HSCIC-Indicator-Portal-P02172",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP02172&mode=documentation&top=yes",
@@ -296,7 +296,7 @@
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/PHF10/Data/DETAILED_CODED_RECORDS_POMI.csv", "title" : "System Functionality data.csv", "format" : "text/csv"}
-                  
+                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/PHF10/Data/POMI_DEFINITION_SHEET.xlsx", "title" : "POMI Reporting Definitions.xlsx", "format" : "application/vnd.ms-excel"}
                   
                   
                   
