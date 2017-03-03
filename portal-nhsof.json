@@ -1,11 +1,11 @@
-[
+ [
    {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Potential years of life lost (PYLL) from causes considered amenable to healthcare - adults (NHSOF 1a.i)",
-      "description" : "The number of years of life lost by every 100,000 adults aged 20 and over dying from a condition which is usually treatable, measured in a way which allows for comparisons between populations with different age profiles and over time.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent amenable deaths. Deaths from causes considered \u2018amenable\u2019 to healthcare are premature deaths that should not occur in the presence of timely and effective healthcare.\n\nCurrent version updated: Feb-16\n\nNext version due: Nov-16",
+      "description" : "The number of years of life lost by every 100,000 adults aged 20 and over dying from a condition which is usually treatable, measured in a way which allows for comparisons between populations with different age profiles and over time.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent amenable deaths. Deaths from causes considered \u2018amenable\u2019 to healthcare are premature deaths that should not occur in the presence of timely and effective healthcare.\n\nCurrent version updated: Feb-16\n\nNext version due: To be confirmed",
       "modified" : "2016-02",
       "identifier" : "HSCIC-Indicator-Portal-P01726",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -73,7 +73,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Potential years of life lost (PYLL) from causes considered amenable to healthcare - children and young people (NHSOF 1a.ii)",
-      "description" : "The number of years of life lost by every 100,000 persons aged 0 to 19 dying from a condition which is usually treatable, measured in a way which allows for comparisons between populations with different age profiles and over time.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent amenable deaths. Deaths from causes considered \u2018amenable\u2019 to healthcare are premature deaths that should not occur in the presence of timely and effective healthcare.\n\nCurrent version updated: Nov-15\n\nNext version due: Nov-16",
+      "description" : "The number of years of life lost by every 100,000 persons aged 0 to 19 dying from a condition which is usually treatable, measured in a way which allows for comparisons between populations with different age profiles and over time.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent amenable deaths. Deaths from causes considered \u2018amenable\u2019 to healthcare are premature deaths that should not occur in the presence of timely and effective healthcare.\n\nCurrent version updated: Nov-15\n\nNext version due: To be confirmed",
       "modified" : "2015-11",
       "identifier" : "HSCIC-Indicator-Portal-P01727",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -141,8 +141,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Life expectancy at 75 (NHSOF 1b)",
-      "description" : "The average number of additional years a man or woman aged 75 can be expected to live if they continue to live in the same place and the death rates in their area remain the same for the rest of their life.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent avoidable deaths in older people. This indicator captures all persons aged 75 and over.\n\nCurrent version updated: Feb-16\n\nNext version due: Feb-17",
-      "modified" : "2016-02",
+      "description" : "The average number of additional years a man or woman aged 75 can be expected to live if they continue to live in the same place and the death rates in their area remain the same for the rest of their life.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent avoidable deaths in older people. This indicator captures all persons aged 75 and over.\n\nCurrent version updated: Feb-17\n\nNext version due: May-17",
+      "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01728",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01728&mode=documentation&top=yes",
@@ -171,8 +171,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1b_I00655_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1b_I00655_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1b_I00655_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -277,8 +277,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Under 75 mortality rate from cardiovascular disease (NHSOF 1.1)",
-      "description" : "Directly standardised mortality rate from cardiovascular disease for people aged under 75, per 100,000 population.\n\n\n\nDirect comparison with previous year\u2019s mortality, prior to 2011, is not advisable. There was a decrease in the number of deaths with an underlying cause coded as \u2018Cardiovascular Disease\u2019. However, a large proportion of this decrease is caused by a correction to the coding of vascular dementia, which was coded as underlying cause CVD (I67.9) until 2010 and is now coded as underlying cause in \u2018Mental Health\u2019 deaths (F01). Further details can be found at: http://www.ons.gov.uk/ons/rel/subnational-health3/results-of-the-icd-10-v2010-bridge-coding-study--england-and-wales--2009/2009/index.html\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent deaths from cardiovascular disease in people under 75.\n\nCurrent version updated: Feb-16\n\nNext version due: Nov-16",
-      "modified" : "2016-02",
+      "description" : "Directly standardised mortality rate from cardiovascular disease for people aged under 75, per 100,000 population.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent deaths from cardiovascular disease in people under 75.\n\nCurrent version updated: Feb-17\n\nNext version due: Nov-17",
+      "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01730",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01730&mode=documentation&top=yes",
@@ -307,8 +307,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.1_I00656_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.1_I00656_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.1_I00656_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -345,8 +345,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Under 75 mortality rate from respiratory disease (NHSOF 1.2)",
-      "description" : "Directly standardised mortality rate from respiratory disease for people aged under 75, per 100,000 population.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent deaths from respiratory disease in people under 75.\n\nCurrent version updated: Feb-16\n\nNext version due: Nov-16",
-      "modified" : "2016-02",
+      "description" : "Directly standardised mortality rate from respiratory disease for people aged under 75, per 100,000 population.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent deaths from respiratory disease in people under 75.\n\nCurrent version updated: Feb-17\n\nNext version due: Nov-17",
+      "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01731",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01731&mode=documentation&top=yes",
@@ -375,8 +375,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.2_I00657_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.2_I00657_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.2_I00657_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -413,8 +413,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Under 75 mortality rate from liver disease (NHSOF 1.3)",
-      "description" : "Directly standardised mortality rate from liver disease for people aged under 75, per 100,000 population.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent deaths from liver disease in people under 75.\n\nCurrent version updated: Feb-16\n\nNext version due: Nov-16",
-      "modified" : "2016-02",
+      "description" : "Directly standardised mortality rate from liver disease for people aged under 75, per 100,000 population.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent deaths from liver disease in people under 75.\n\nCurrent version updated: Feb-17\n\nNext version due: Nov-17",
+      "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01732",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01732&mode=documentation&top=yes",
@@ -443,8 +443,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.3_I00658_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.3_I00658_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.3_I00658_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -481,8 +481,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Under 75 mortality rate from cancer (NHSOF 1.4)",
-      "description" : "Directly standardised mortality rate from cancer for people aged under 75, per 100,000 population.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent deaths from cancer in people under 75.\n\nCurrent version updated: Feb-16\n\nNext version due: Nov-16",
-      "modified" : "2016-02",
+      "description" : "Directly standardised mortality rate from cancer for people aged under 75, per 100,000 population.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent deaths from cancer in people under 75.\n\nCurrent version updated: Feb-17\n\nNext version due: Nov-17",
+      "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01733",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01733&mode=documentation&top=yes",
@@ -511,8 +511,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.4_I00730_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.4_I00730_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.4_I00730_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -549,8 +549,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "One-year survival from all cancers (NHSOF 1.4.i)",
-      "description" : "A measure of the number of adults diagnosed with any type of cancer in a year who are still alive one year after diagnosis.\n\nPurpose\n\nThis indicator attempts to capture the success of the NHS in preventing people from dying once they have been diagnosed with any type of cancer.\n\nCurrent version updated: May-16\n\nNext version due: May-17",
-      "modified" : "2016-05",
+      "description" : "A measure of the number of adults diagnosed with any type of cancer in a year who are still alive one year after diagnosis.\n\nPurpose\n\nThis indicator attempts to capture the success of the NHS in preventing people from dying once they have been diagnosed with any type of cancer.\n\nCurrent version updated: Feb-17\n\nNext version due: Feb-18",
+      "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01734",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01734&mode=documentation&top=yes",
@@ -579,8 +579,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.4.i_I01995_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.4.i_I01995_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.4.i_I01995_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -617,8 +617,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Five-year survival from all cancers (NHSOF 1.4.ii)",
-      "description" : "A measure of the number of adults diagnosed with any type of cancer in a year who are still alive five years after diagnosis.\n\nPurpose\n\nThis indicator attempts to capture the success of the NHS in preventing people from dying once they have been diagnosed with any type of cancer.\n\nCurrent version updated: May-16\n\nNext version due: May-17",
-      "modified" : "2016-05",
+      "description" : "A measure of the number of adults diagnosed with any type of cancer in a year who are still alive five years after diagnosis.\n\nPurpose\n\nThis indicator attempts to capture the success of the NHS in preventing people from dying once they have been diagnosed with any type of cancer.\n\nCurrent version updated: Feb-17\n\nNext version due: Feb-18",
+      "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01735",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01735&mode=documentation&top=yes",
@@ -647,8 +647,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.4.ii_I01996_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.4.ii_I01996_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.4.ii_I01996_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -821,8 +821,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Excess under 75 mortality rate in adults with serious mental illness (formerly indicator 1.5) (NHSOF 1.5.i)",
-      "description" : "A measure of the extent to which adults with a serious mental illness die younger than adults in the general population.\n\nPurpose\n\nTo measure premature mortality in adults diagnosed with serious mental illness.\n\nCurrent version updated: Nov-15\n\nNext version due: Nov-16",
-      "modified" : "2015-11",
+      "description" : "A measure of the extent to which adults with a serious mental illness die younger than adults in the general population.\n\nPurpose\n\nTo measure premature mortality in adults diagnosed with serious mental illness.\n\nCurrent version updated: Nov-16\n\nNext version due: Nov-17",
+      "modified" : "2016-11",
       "identifier" : "HSCIC-Indicator-Portal-P01740",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01740&mode=documentation&top=yes",
@@ -851,8 +851,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.5.i_I00665_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.5.i_I00665_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.5.i_I00665_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -957,7 +957,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Five-year survival from all cancers in children (formerly indicator 1.6.iii) (NHSOF 1.6.ii)",
-      "description" : "A measure of the proportion of children diagnosed with any type of cancer in a year who are still alive five years after diagnosis.\n\nPurpose\n\nThis indicator attempts to capture the success of the NHS in preventing children from dying once they have been diagnosed with any type of cancer.\n\nCurrent version updated: Feb-16\n\nNext version due: Feb-17",
+      "description" : "A measure of the proportion of children diagnosed with any type of cancer in a year who are still alive five years after diagnosis.\n\nPurpose\n\nThis indicator attempts to capture the success of the NHS in preventing children from dying once they have been diagnosed with any type of cancer.\n\nCurrent version updated: Feb-16\n\nNext version due: May-17",
       "modified" : "2016-02",
       "identifier" : "HSCIC-Indicator-Portal-P01744",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -1025,8 +1025,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Health-related quality of life for people with long-term conditions (NHSOF 2)",
-      "description" : "This indicator measures the health-related quality of life for people who identify themselves as having one or more long-term conditions.\n\nPurpose\n\nThis indicator measures how successfully the NHS is supporting people with long-term conditions to live as normal a life as possible. This indicator helps people understand whether health-related quality of life is improving over time for the population with long-term conditions.\n\nCurrent version updated: Feb-16\n\nNext version due: Aug-16",
-      "modified" : "2016-02",
+      "description" : "This indicator measures the health-related quality of life for people who identify themselves as having one or more long-term conditions.\n\nPurpose\n\nThis indicator measures how successfully the NHS is supporting people with long-term conditions to live as normal a life as possible. This indicator helps people understand whether health-related quality of life is improving over time for the population with long-term conditions.\n\nCurrent version updated: Sep-16\n\nNext version due: Aug-17",
+      "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01746",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01746&mode=documentation&top=yes",
@@ -1055,8 +1055,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2_I00705_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2_I00705_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2_I00705_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -1093,8 +1093,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Proportion of people feeling supported to manage their condition (NHSOF 2.1)",
-      "description" : "This indicator measures the degree to which people with health conditions that are expected to last for a significant period of time feel they have had sufficient support from relevant services and organisations to manage their condition.\n\nPurpose\n\nThis indicator measures the proportion of people who feel supported to manage their long-term condition.\n\nCurrent version updated: Sep-15\n\nNext version due: Aug-16",
-      "modified" : "2015-09",
+      "description" : "This indicator measures the degree to which people with health conditions that are expected to last for a significant period of time feel they have had sufficient support from relevant services and organisations to manage their condition.\n\nPurpose\n\nThis indicator measures the proportion of people who feel supported to manage their long-term condition.\n\nCurrent version updated: Sep-16\n\nNext version due: Aug-17",
+      "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01747",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01747&mode=documentation&top=yes",
@@ -1123,8 +1123,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.1_I00706_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.1_I00706_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.1_I00706_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -1161,8 +1161,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Employment of people with long-term conditions (NHSOF 2.2)",
-      "description" : "The percentage difference between the rate of employment in the general population of working age (16-64) and the rate of employment amongst adults of working age with a long-term condition.\n\nPurpose\n\nThis indicator measures the extent to which people with long-term conditions are able to live as normal a life as possible by looking at their levels of employment.\n\nCurrent version updated: May-16\n\nNext version due: Aug-16",
-      "modified" : "2016-05",
+      "description" : "The percentage difference between the rate of employment in the general population of working age (16-64) and the rate of employment amongst adults of working age with a long-term condition.\n\nPurpose\n\nThis indicator measures the extent to which people with long-term conditions are able to live as normal a life as possible by looking at their levels of employment.\n\nCurrent version updated: Feb-17\n\nNext version due: May-17",
+      "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01748",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01748&mode=documentation&top=yes",
@@ -1191,8 +1191,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.2_I00707_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.2_I00707_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.2_I00707_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -1229,8 +1229,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Unplanned hospitalisation for chronic ambulatory care sensitive conditions (NHSOF 2.3.i)",
-      "description" : "This indicator measures how many people with specific long-term conditions, which should not normally require hospitalisation, are admitted to hospital in an emergency. These conditions include, for example, diabetes, epilepsy and high blood pressure.\n\nPurpose\n\nThis outcome is concerned with how successfully the NHS manages to reduce emergency admissions for all long-term conditions where optimum management can be achieved in the community.\n\nCurrent version updated: Feb-16\n\nNext version due: Feb-17",
-      "modified" : "2016-02",
+      "description" : "This indicator measures how many people with specific long-term conditions, which should not normally require hospitalisation, are admitted to hospital in an emergency. These conditions include, for example, diabetes, epilepsy and high blood pressure.\n\nPurpose\n\nThis outcome is concerned with how successfully the NHS manages to reduce emergency admissions for all long-term conditions where optimum management can be achieved in the community.\n\nCurrent version updated: Feb-17\n\nNext version due: Feb-18",
+      "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01749",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01749&mode=documentation&top=yes",
@@ -1259,8 +1259,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.3.i_I00708_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.3.i_I00708_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.3.i_I00708_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -1297,8 +1297,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Unplanned hospitalisation for asthma, diabetes and epilepsy in under 19s (NHSOF 2.3.ii)",
-      "description" : "This indicator measures how many young people (aged 0-18 inclusive) who have asthma, diabetes or epilepsy are admitted to hospital in an emergency.\n\nPurpose\n\nThis outcome is concerned with how successfully the NHS manages to reduce avoidable emergency admissions for children with asthma, diabetes or epilepsy. These three conditions were chosen as they account for around 94 per cent of emergency admissions for children (under 19s) with long-term conditions.\n\nCurrent version updated: Feb-16\n\nNext version due: Feb-17",
-      "modified" : "2016-02",
+      "description" : "This indicator measures how many young people (aged 0-18 inclusive) who have asthma, diabetes or epilepsy are admitted to hospital in an emergency.\n\nPurpose\n\nThis outcome is concerned with how successfully the NHS manages to reduce avoidable emergency admissions for children with asthma, diabetes or epilepsy. These three conditions were chosen as they account for around 94 per cent of emergency admissions for children (under 19s) with long-term conditions.\n\nCurrent version updated: Feb-17\n\nNext version due: Feb-18",
+      "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01750",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01750&mode=documentation&top=yes",
@@ -1327,8 +1327,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.3.ii_I00671_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.3.ii_I00671_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.3.ii_I00671_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -1365,8 +1365,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Health-related quality of life for carers (NHSOF 2.4)",
-      "description" : "This indicator measures health-related quality of life for people who identify themselves as helping or supporting family members, friends, neighbours or others with their long-term physical or mental illness/disability or because of problems related to old age.\n\nPurpose\n\nThis indicator seeks to capture how successfully the NHS is supporting carers to live as normal a life as possible. This indicator helps people understand whether health-related quality of life for carers is improving over time.\n\nCurrent version updated: Sep-15\n\nNext version due: Aug-16",
-      "modified" : "2015-09",
+      "description" : "This indicator measures health-related quality of life for people who identify themselves as helping or supporting family members, friends, neighbours or others with their long-term physical or mental illness/disability or because of problems related to old age.\n\nPurpose\n\nThis indicator seeks to capture how successfully the NHS is supporting carers to live as normal a life as possible. This indicator helps people understand whether health-related quality of life for carers is improving over time.\n\nCurrent version updated: Sep-16\n\nNext version due: Aug-17",
+      "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01751",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01751&mode=documentation&top=yes",
@@ -1395,8 +1395,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.4_I00709_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.4_I00709_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.4_I00709_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -1433,8 +1433,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Employment of people with mental illness (formerly indicator 2.5) (NHSOF 2.5.i)",
-      "description" : "The percentage difference between the rate of employment in the general population of working age (16-64) and the rate of employment amongst adults of working age with a mental illness.\n\nPurpose\n\nThis indicator measures the extent to which people with mental illness are able to live as normal a life as possible by looking at their levels of employment. This indicator is to ensure that mental illness is not excluded due to an overriding focus on physical health.\n\nCurrent version updated: May-16\n\nNext version due: Aug-16",
-      "modified" : "2016-05",
+      "description" : "The percentage difference between the rate of employment in the general population of working age (16-64) and the rate of employment amongst adults of working age with a mental illness.\n\nPurpose\n\nThis indicator measures the extent to which people with mental illness are able to live as normal a life as possible by looking at their levels of employment. This indicator is to ensure that mental illness is not excluded due to an overriding focus on physical health.\n\nCurrent version updated: Feb-17\n\nNext version due: May-17",
+      "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01752",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01752&mode=documentation&top=yes",
@@ -1463,8 +1463,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.5.i_I00710_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.5.i_I00710_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.5.i_I00710_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -1501,7 +1501,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Estimated diagnosis rate for people with dementia (NHSOF 2.6.i)",
-      "description" : "This indicator measures the number of people that have been diagnosed with dementia as a proportion of the number who are estimated to have the condition.\n\nPurpose\n\nThis indicator aims to capture the quality of life of people with dementia. It measures the extent of diagnosis for people with dementia by estimating the proportion of the population that has been diagnosed with the disease.\n\nCurrent version updated: Feb-16\n\nNext version due: Feb-17",
+      "description" : "This indicator measures the number of people that have been diagnosed with dementia as a proportion of the number who are estimated to have the condition.\n\nPurpose\n\nThis indicator aims to capture the quality of life of people with dementia. It measures the extent of diagnosis for people with dementia by estimating the proportion of the population that has been diagnosed with the disease.\n\nCurrent version updated: Feb-16\n\nNext version due: To be confirmed",
       "modified" : "2016-02",
       "identifier" : "HSCIC-Indicator-Portal-P01754",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -1569,8 +1569,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Health-related quality of life for people with three or more long-term conditions (NHSOF 2.7)",
-      "description" : "This indicator measures the health-related quality of life for people who identify themselves as having three or more long-term conditions.\n\nPurpose\n\nThis indicator measures how successfully the NHS is supporting people with multiple long-term conditions to live as normal a life as possible. This indicator helps people understand whether health-related quality of life is improving over time for the population with multiple long-term conditions.\n\nCurrent version updated: May-16\n\nNext version due: Aug-16",
-      "modified" : "2016-05",
+      "description" : "This indicator measures the health-related quality of life for people who identify themselves as having three or more long-term conditions.\n\nPurpose\n\nThis indicator measures how successfully the NHS is supporting people with multiple long-term conditions to live as normal a life as possible. This indicator helps people understand whether health-related quality of life is improving over time for the population with multiple long-term conditions.\n\nCurrent version updated: Sep-16\n\nNext version due: Aug-17",
+      "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01756",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01756&mode=documentation&top=yes",
@@ -1599,8 +1599,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.7_I02010_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.7_I02010_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.7_I02010_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -1637,8 +1637,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Emergency admissions for acute conditions that should not usually require hospital admission (NHSOF 3a)",
-      "description" : "The indicator measures the number of emergency admissions to hospital in England for acute conditions such as ear/nose/throat infections, kidney/urinary tract infections and angina, among others, that could potentially have been avoided if the patient had been better managed in primary care.\n\nPurpose\n\nThis indicator aims to measure the reduction in emergency admissions for conditions that should usually be managed outside hospital.  Where an individual has been admitted for one of these conditions, it may indicate that they have deteriorated more than should have been allowed by the adequate provision of healthcare in primary care or as a hospital outpatient.\n\nCurrent version updated: Feb-16\n\nNext version due: Feb-17",
-      "modified" : "2016-02",
+      "description" : "The indicator measures the number of emergency admissions to hospital in England for acute conditions such as ear/nose/throat infections, kidney/urinary tract infections and angina, among others, that could potentially have been avoided if the patient had been better managed in primary care.\n\nPurpose\n\nThis indicator aims to measure the reduction in emergency admissions for conditions that should usually be managed outside hospital.  Where an individual has been admitted for one of these conditions, it may indicate that they have deteriorated more than should have been allowed by the adequate provision of healthcare in primary care or as a hospital outpatient.\n\nCurrent version updated: Feb-17\n\nNext version due: Feb-18",
+      "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01757",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01757&mode=documentation&top=yes",
@@ -1667,8 +1667,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3a_I00711_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3a_I00711_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3a_I00711_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -1773,8 +1773,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Emergency admissions for children with lower respiratory tract infections (LRTIs) (NHSOF 3.2)",
-      "description" : "This indicator measures the number of emergency admissions to hospital of children with selected types of lower respiratory tract infections (bronchiolitis, bronchopneumonia and pneumonia).\n\nPurpose\n\nThis indicator is concerned with how successfully the NHS manages to reduce avoidable emergency admissions for children with lower respiratory tract infections (LRTIs).\n\nCurrent version updated: Feb-16\n\nNext version due: Feb-17",
-      "modified" : "2016-02",
+      "description" : "This indicator measures the number of emergency admissions to hospital of children with selected types of lower respiratory tract infections (bronchiolitis, bronchopneumonia and pneumonia).\n\nPurpose\n\nThis indicator is concerned with how successfully the NHS manages to reduce avoidable emergency admissions for children with lower respiratory tract infections (LRTIs).\n\nCurrent version updated: Feb-17\n\nNext version due: Feb-18",
+      "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01762",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01762&mode=documentation&top=yes",
@@ -1803,8 +1803,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.2_I00714_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.2_I00714_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.2_I00714_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -1841,8 +1841,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : " Hip fracture: Proportion of patients recovering to their previous levels of mobility / walking ability at 30 days (NHSOF 3.5.i)",
-      "description" : "The proportion of patients, expressed as a percentage, with a hip fracture recovering to their previous levels of mobility at 30 days.\n\nPurpose\n\nThis indicator aims to measure how effectively people recover their mobility following a hip fracture.\n\nCurrent version updated: Nov-15\n\nNext version due: To be confirmed",
-      "modified" : "2015-11",
+      "description" : "The proportion of patients, expressed as a percentage, with a hip fracture recovering to their previous levels of mobility at 30 days.\n\nPurpose\n\nThis indicator aims to measure how effectively people recover their mobility following a hip fracture.\n\nCurrent version updated: Nov-16\n\nNext version due: No further updates",
+      "modified" : "2016-11",
       "identifier" : "HSCIC-Indicator-Portal-P01765",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01765&mode=documentation&top=yes",
@@ -1871,8 +1871,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.5.i_I00717_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.5.i_I00717_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.5.i_I00717_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -1909,8 +1909,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Hip fracture: Proportion of patients recovering to their previous levels of mobility / walking ability at 120 days (NHSOF 3.5.ii)",
-      "description" : "The proportion of patients, expressed as a percentage, with a hip fracture recovering to their previous levels of mobility at 120 days.\n\nPurpose\n\nThis indicator aims to measure how effectively people recover their mobility following a hip fracture.\n\nCurrent version updated: Nov-15\n\nNext version due: Nov-16",
-      "modified" : "2015-11",
+      "description" : "The proportion of patients, expressed as a percentage, with a hip fracture recovering to their previous levels of mobility at 120 days.\n\nPurpose\n\nThis indicator aims to measure how effectively people recover their mobility following a hip fracture.\n\nCurrent version updated: Nov-16\n\nNext version due: Nov-17",
+      "modified" : "2016-11",
       "identifier" : "HSCIC-Indicator-Portal-P01766",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01766&mode=documentation&top=yes",
@@ -1939,8 +1939,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.5.ii_I00718_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.5.ii_I00718_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.5.ii_I00718_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -1977,8 +1977,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Proportion of older people (65 and over) who were still at home 91 days after discharge from hospital into reablement/rehabilitation services (NHSOF 3.6.i)",
-      "description" : "The proportion of older people (aged 65 and over), expressed as a percentage, who, after a period of reablement/rehabilitation, maintain their independence by remaining or returning to their home or previous residence 91 days after leaving hospital.\n\nPurpose\n\nThis indicator measures the benefit to individuals from reablement, intermediate care and rehabilitation following a hospital episode, by determining whether an individual remains living at home 91 days following discharge. This is seen as a key outcome for many people using reablement services.\n\nCurrent version updated: Nov-15\n\nNext version due: Nov-16",
-      "modified" : "2015-11",
+      "description" : "The proportion of older people (aged 65 and over), expressed as a percentage, who, after a period of reablement/rehabilitation, maintain their independence by remaining or returning to their home or previous residence 91 days after leaving hospital.\n\nPurpose\n\nThis indicator measures the benefit to individuals from reablement, intermediate care and rehabilitation following a hospital episode, by determining whether an individual remains living at home 91 days following discharge. This is seen as a key outcome for many people using reablement services.\n\nCurrent version updated: Nov-16\n\nNext version due: Nov-17",
+      "modified" : "2016-11",
       "identifier" : "HSCIC-Indicator-Portal-P01767",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01767&mode=documentation&top=yes",
@@ -2007,8 +2007,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.6.i_I00719_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.6.i_I00719_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.6.i_I00719_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -2045,8 +2045,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Proportion of older people (65 and over) who were offered rehabilitation following discharge from acute or community hospital (NHSOF 3.6.ii)",
-      "description" : "The proportion of older people (aged 65 and over), expressed as a percentage, who are offered reablement services when they leave hospital.\n\nPurpose\n\nThis indicator measures the benefit to individuals from reablement, intermediate care and rehabilitation following a hospital episode, by determining how many individuals are offered rehabilitation services.\n\nCurrent version updated: Nov-15\n\nNext version due: Nov-16",
-      "modified" : "2015-11",
+      "description" : "The proportion of older people (aged 65 and over), expressed as a percentage, who are offered reablement services when they leave hospital.\n\nPurpose\n\nThis indicator measures the benefit to individuals from reablement, intermediate care and rehabilitation following a hospital episode, by determining how many individuals are offered rehabilitation services.\n\nCurrent version updated: Nov-16\n\nNext version due: Nov-17",
+      "modified" : "2016-11",
       "identifier" : "HSCIC-Indicator-Portal-P01768",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01768&mode=documentation&top=yes",
@@ -2075,8 +2075,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.6.ii_I00745_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.6.ii_I00745_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.6.ii_I00745_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -2113,8 +2113,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Tooth extractions due to decay for children admitted as inpatients to hospital, aged 10 years and under (NHSOF 3.7.ii)",
-      "description" : "The crude rate of the number of finished consultant episodes (FCEs) where a tooth extraction was performed on a child aged 10 years or under at the start of the episode of care, due to tooth decay, per 100,000 resident population.\n\nPurpose\n\nThis indicator measures tooth extractions in young patients, it is believed that the majority of cases could be avoided with better dental care and dentist intervention.\n\nCurrent version updated: Feb-16\n\nNext version due: Feb-17",
-      "modified" : "2016-02",
+      "description" : "The crude rate of the number of finished consultant episodes (FCEs) where a tooth extraction was performed on a child aged 10 years or under at the start of the episode of care, due to tooth decay, per 100,000 resident population.\n\nPurpose\n\nThis indicator measures tooth extractions in young patients, it is believed that the majority of cases could be avoided with better dental care and dentist intervention.\n\nCurrent version updated: Feb-17\n\nNext version due: Feb-18",
+      "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01770",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01770&mode=documentation&top=yes",
@@ -2143,8 +2143,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.7.ii_I02014_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.7.ii_I02014_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.7.ii_I02014_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -2181,8 +2181,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Patient experience of GP services (NHSOF 4a.i)",
-      "description" : "This indicator measures the weighted percentage of people who report their overall experience of GP services as \u2018fairly good\u2019 or \u2018very good\u2019.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of their GP. The vast majority of the population visit their GP each year and often it is the experience people have of primary care that determines their overall view of the NHS.\n\nCurrent version updated: Sep-15\n\nNext version due: Aug-16",
-      "modified" : "2015-09",
+      "description" : "This indicator measures the weighted percentage of people who report their overall experience of GP services as \u2018fairly good\u2019 or \u2018very good\u2019.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of their GP. The vast majority of the population visit their GP each year and often it is the experience people have of primary care that determines their overall view of the NHS.\n\nCurrent version updated: Sep-16\n\nNext version due: Aug-17",
+      "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01771",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01771&mode=documentation&top=yes",
@@ -2211,8 +2211,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4a.i_I00739_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4a.i_I00739_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4a.i_I00739_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -2249,7 +2249,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Patient experience of GP out-of-hours services (NHSOF 4a.ii)",
-      "description" : "This indicator measures the weighted percentage of people who report their overall experience of GP out-of-hours services as \u2018fairly good\u2019 or \u2018very good\u2019.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of GP out-of-hours services.\n\nCurrent version updated: Sep-15\n\nNext version due: Aug-16",
+      "description" : "This indicator measures the weighted percentage of people who report their overall experience of GP out-of-hours services as \u2018fairly good\u2019 or \u2018very good\u2019.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of GP out-of-hours services.\n\nCurrent version updated: Sep-15\n\nNext version due: To be confirmed",
       "modified" : "2015-09",
       "identifier" : "HSCIC-Indicator-Portal-P01772",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -2317,8 +2317,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Patient experience of dental services (NHSOF 4a.iii)",
-      "description" : "This indicator measures the weighted percentage of people who report their overall experience of NHS dental services as \u2018fairly good\u2019 or \u2018very good\u2019.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of NHS dental services.\n\nCurrent version updated: Sep-15\n\nNext version due: Aug-16",
-      "modified" : "2015-09",
+      "description" : "This indicator measures the weighted percentage of people who report their overall experience of NHS dental services as \u2018fairly good\u2019 or \u2018very good\u2019.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of NHS dental services.\n\nCurrent version updated: Sep-16\n\nNext version due: Aug-17",
+      "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01773",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01773&mode=documentation&top=yes",
@@ -2347,8 +2347,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4a.iii_I00741_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4a.iii_I00741_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4a.iii_I00741_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -2385,8 +2385,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Patient experience of hospital care (NHSOF 4b)",
-      "description" : "Patient experience measured by scoring the results of a selection of questions from the National Inpatient Survey looking at a range of elements of hospital care.\n\nPurpose\n\nThis indicator aims to capture the experience of patients who have received medical treatment in hospital.\n\nCurrent version updated: Aug-15\n\nNext version due: Aug-16",
-      "modified" : "2015-08",
+      "description" : "Patient experience measured by scoring the results of a selection of questions from the National Inpatient Survey looking at a range of elements of hospital care.\n\nPurpose\n\nThis indicator aims to capture the experience of patients who have received medical treatment in hospital.\n\nCurrent version updated: Aug-16\n\nNext version due: Aug-17",
+      "modified" : "2016-08",
       "identifier" : "HSCIC-Indicator-Portal-P01774",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01774&mode=documentation&top=yes",
@@ -2415,8 +2415,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4b_I00683_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4b_I00683_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4b_I00683_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -2521,8 +2521,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Responsiveness to inpatients\u2019 personal needs (NHSOF 4.2)",
-      "description" : "Patient experience measured by scoring the results of a selection of questions from the National Inpatient Survey focussing on the responsiveness to personal needs.\n\nPurpose\n\nConsultation feedback indicated that personalisation and service responsiveness are important issues for inpatients. This indicator aims to capture inpatients\u2019 experience of this.\n\nCurrent version updated: Aug-15\n\nNext version due: Aug-16",
-      "modified" : "2015-08",
+      "description" : "Patient experience measured by scoring the results of a selection of questions from the National Inpatient Survey focussing on the responsiveness to personal needs.\n\nPurpose\n\nConsultation feedback indicated that personalisation and service responsiveness are important issues for inpatients. This indicator aims to capture inpatients\u2019 experience of this.\n\nCurrent version updated: Aug-16\n\nNext version due: Aug-17",
+      "modified" : "2016-08",
       "identifier" : "HSCIC-Indicator-Portal-P01779",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01779&mode=documentation&top=yes",
@@ -2551,8 +2551,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.2_I00685_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.2_I00685_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.2_I00685_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -2589,7 +2589,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Patient experience of A&E services (NHSOF 4.3)",
-      "description" : "Patient experience measured by scoring the results of a selection of questions from the National Accident and Emergency (A&amp;E) Department Survey.\n\nPurpose\n\nThis indicator aims to capture the experience of patients who have used A&amp;E services.\n\nCurrent version updated: Feb-15\n\nNext version due: To be confirmed",
+      "description" : "Patient experience measured by scoring the results of a selection of questions from the National Accident and Emergency (A&amp;E) Department Survey.\n\nPurpose\n\nThis indicator aims to capture the experience of patients who have used A&amp;E services.\n\nCurrent version updated: Feb-15\n\nNext version due: Aug-17",
       "modified" : "2015-02",
       "identifier" : "HSCIC-Indicator-Portal-P01780",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -2657,8 +2657,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Access to GP services (NHSOF 4.4.i)",
-      "description" : "This indicator measures the weighted percentage of people who report their experience of making a GP appointment as \u2018fairly good\u2019 or \u2018very good\u2019.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of accessing GP services.\n\nCurrent version updated: Sep-15\n\nNext version due: Aug-16",
-      "modified" : "2015-09",
+      "description" : "This indicator measures the weighted percentage of people who report their experience of making a GP appointment as \u2018fairly good\u2019 or \u2018very good\u2019.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of accessing GP services.\n\nCurrent version updated: Sep-16\n\nNext version due: Aug-17",
+      "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01781",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01781&mode=documentation&top=yes",
@@ -2687,8 +2687,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.4.i_I00687_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.4.i_I00687_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.4.i_I00687_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -2725,8 +2725,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Access to NHS dental services (NHSOF 4.4.ii)",
-      "description" : "This indicator measures the weighted percentage of people who reported that they were successful in getting an NHS dental appointment when they tried in the last two years.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of accessing NHS dental services.\n\nCurrent version updated: Sep-15\n\nNext version due: Aug-16",
-      "modified" : "2015-09",
+      "description" : "This indicator measures the weighted percentage of people who reported that they were successful in getting an NHS dental appointment when they tried in the last two years.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of accessing NHS dental services.\n\nCurrent version updated: Sep-16\n\nNext version due: Aug-17",
+      "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01782",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01782&mode=documentation&top=yes",
@@ -2755,8 +2755,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.4.ii_I00688_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.4.ii_I00688_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.4.ii_I00688_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -2793,7 +2793,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Women\u2019s experience of maternity services (NHSOF 4.5)",
-      "description" : "Patient experience of maternity services measured by scoring the results of a selection of questions from the National Maternity Services Survey.\n\nPurpose\n\nThis indicator aims to capture the experience of patients who have used maternity services.\n\nCurrent version updated: Feb-16\n\nNext version due: To be confirmed",
+      "description" : "Patient experience of maternity services measured by scoring the results of a selection of questions from the National Maternity Services Survey.\n\nPurpose\n\nThis indicator aims to capture the experience of patients who have used maternity services.\n\nCurrent version updated: Feb-16\n\nNext version due: Feb-18",
       "modified" : "2016-02",
       "identifier" : "HSCIC-Indicator-Portal-P01783",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -2823,8 +2823,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.5_I00689_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.5_I00689_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.5_I00689_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -2997,8 +2997,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Deaths from venous thromboembolism (VTE) related events within 90 days post discharge from hospital (NHSOF 5.1)",
-      "description" : "The indicator measures the number of patients who have been admitted to hospital with any cause and die within 90 days of their last discharge from a VTE related event, expressed as a rate per 100,000 adult hospital admissions.\n\nPurpose\n\nThis indicator aims to measure the reduction in deaths from VTE related events by driving efforts to improve the prevention, detection and treatment of VTE before it causes death.\n\nCurrent version updated: Feb-16\n\nNext version due: Feb-17",
-      "modified" : "2016-02",
+      "description" : "The indicator measures the number of patients who have been admitted to hospital with any cause and die within 90 days of their last discharge from a VTE related event, expressed as a rate per 100,000 adult hospital admissions.\n\nPurpose\n\nThis indicator aims to measure the reduction in deaths from VTE related events by driving efforts to improve the prevention, detection and treatment of VTE before it causes death.\n\nCurrent version updated: Feb-17\n\nNext version due: Feb-18",
+      "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01790",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01790&mode=documentation&top=yes",
@@ -3027,8 +3027,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.1_I00675_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.1_I00675_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.1_I00675_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -3065,13 +3065,13 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Incidence of healthcare-associated infection - MRSA (NHSOF 5.2.i)",
-      "description" : "The number of Methicillin-resistant Staphylococcus aureus (MRSA) bloodstream infections reported to Public Health England (PHE).\n\nPurpose\n\nThis indicator aims to measure the progress in reducing the incidence of avoidable harm, specifically healthcare-associated MRSA infections.\n\nCurrent version updated: Aug-15\n\nNext version due: Aug-16",
-      "modified" : "2015-08",
+      "description" : "The number of Meticillin-resistant Staphylococcus aureus (MRSA) bloodstream infections reported to Public Health England (PHE).\n\nPurpose\n\nThis indicator aims to measure the progress in reducing the incidence of avoidable harm, specifically healthcare-associated MRSA infections.\n\nCurrent version updated: Aug-16\n\nNext version due: Aug-17",
+      "modified" : "2016-08",
       "identifier" : "HSCIC-Indicator-Portal-P01791",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01791&mode=documentation&top=yes",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
-                  "Methicillin-resistant Staphylococcus aureus"
+                  "meticillin-resistant staphylococcus aureus"
                   ,"MRSA"
                   ,"patient safety"
                   
@@ -3095,8 +3095,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.2.i_I00676_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.2.i_I00676_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.2.i_I00676_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -3133,8 +3133,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Incidence of healthcare-associated infection - C. difficile (NHSOF 5.2.ii)",
-      "description" : "The number of Clostridium difficile infections reported to Public Health England (PHE), in patients aged two years or older.\n\nPurpose\n\nThis indicator aims to measure the progress in reducing the incidence of avoidable harm, specifically healthcare-associated C. difficile infections.\n\nCurrent version updated: Aug-15\n\nNext version due: Aug-16",
-      "modified" : "2015-08",
+      "description" : "The number of Clostridium difficile infections reported to Public Health England (PHE), in patients aged two years or older.\n\nPurpose\n\nThis indicator aims to measure the progress in reducing the incidence of avoidable harm, specifically healthcare-associated C. difficile infections.\n\nCurrent version updated: Aug-16\n\nNext version due: Aug-17",
+      "modified" : "2016-08",
       "identifier" : "HSCIC-Indicator-Portal-P01792",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01792&mode=documentation&top=yes",
@@ -3163,8 +3163,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.2.ii_I00677_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.2.ii_I00677_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.2.ii_I00677_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -3269,8 +3269,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Patient safety incidents reported (formerly indicators 5a, 5b and 5.4) (NHSOF 5.6)",
-      "description" : "The number of patient safety incidents reported to the National Reporting and Learning System (NRLS) by provider organisations, per 100,000 population.\n\nA patient safety incident is defined as \u2018any unintended or unexpected incident(s) that could have, or did, lead to harm for one or more person(s) receiving NHS funded healthcare\u2019.\n\nPurpose\n\nThis indicator aims to measure the number of reported patient safety incidents across NHS care settings. The aim is for incidence reporting to increase as the culture of reporting all incidents spreads more widely across the NHS. The ultimate goal is that the number of reported incidents remains steady or decreases, as the habit of reporting incidents becomes routine and these are learnt from.\n\nCurrent version updated: May-16\n\nNext version due: Nov-16",
-      "modified" : "2016-05",
+      "description" : "The number of patient safety incidents reported to the National Reporting and Learning System (NRLS) by provider organisations, per 100,000 population.\n\nA patient safety incident is defined as \u2018any unintended or unexpected incident(s) that could have, or did, lead to harm for one or more person(s) receiving NHS funded healthcare\u2019.\n\nPurpose\n\nThis indicator aims to measure the number of reported patient safety incidents across NHS care settings. The aim is for incidence reporting to increase as the culture of reporting all incidents spreads more widely across the NHS. The ultimate goal is that the number of reported incidents remains steady or decreases, as the habit of reporting incidents becomes routine and these are learnt from.\n\nCurrent version updated: Nov-16\n\nNext version due: May-17",
+      "modified" : "2016-11",
       "identifier" : "HSCIC-Indicator-Portal-P01796",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01796&mode=documentation&top=yes",
@@ -3299,8 +3299,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.6_I00672_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.6_I00672_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.6_I00672_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
