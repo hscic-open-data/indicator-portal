@@ -1,4 +1,4 @@
- [
+[
    {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
@@ -141,8 +141,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Life expectancy at 75 (NHSOF 1b)",
-      "description" : "The average number of additional years a man or woman aged 75 can be expected to live if they continue to live in the same place and the death rates in their area remain the same for the rest of their life.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent avoidable deaths in older people. This indicator captures all persons aged 75 and over.\n\nCurrent version updated: Feb-17\n\nNext version due: May-17",
-      "modified" : "2017-02",
+      "description" : "The average number of additional years a man or woman aged 75 can be expected to live if they continue to live in the same place and the death rates in their area remain the same for the rest of their life.\n\nPurpose\n\nTo ensure that the NHS is held to account for doing all that it can to prevent avoidable deaths in older people. This indicator captures all persons aged 75 and over.\n\nCurrent version updated: May-17\n\nNext version due: Feb-18",
+      "modified" : "2017-05",
       "identifier" : "HSCIC-Indicator-Portal-P01728",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01728&mode=documentation&top=yes",
@@ -209,8 +209,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Neonatal mortality and stillbirths (formerly indicator 1.6.ii) (NHSOF 1c)",
-      "description" : "The number of babies stillborn or dying before 28 days old per 1,000 live births and stillbirths.\n\nPurpose\n\nNeonatal mortality and stillbirths rates aim to reflect NHS care during pre-pregnancy, pregnancy, birth and immediately after birth.\n\nCurrent version updated: May-16\n\nNext version due: May-17",
-      "modified" : "2016-05",
+      "description" : "The number of babies stillborn or dying before 28 days old per 1,000 live births and stillbirths.\n\nPurpose\n\nNeonatal mortality and stillbirths rates aim to reflect NHS care during pre-pregnancy, pregnancy, birth and immediately after birth.\n\nCurrent version updated: May-17\n\nNext version due: May-18",
+      "modified" : "2017-05",
       "identifier" : "HSCIC-Indicator-Portal-P01729",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01729&mode=documentation&top=yes",
@@ -239,8 +239,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1c_I00667_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1c_I00667_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1c_I00667_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -889,8 +889,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Infant mortality (NHSOF 1.6.i)",
-      "description" : "Infant mortality is defined as the number of babies dying before the age of one for every 1,000 live births.\n\nPurpose\n\nInfant mortality is a measure of the longer term consequences of perinatal events and is particularly important for monitoring outcomes for high risk groups such as very preterm babies and growth restricted babies.\n\nCurrent version updated: May-16\n\nNext version due: May-17",
-      "modified" : "2016-05",
+      "description" : "Infant mortality is defined as the number of babies dying before the age of one for every 1,000 live births.\n\nPurpose\n\nInfant mortality is a measure of the longer term consequences of perinatal events and is particularly important for monitoring outcomes for high risk groups such as very preterm babies and growth restricted babies.\n\nCurrent version updated: May-17\n\nNext version due: May-18",
+      "modified" : "2017-05",
       "identifier" : "HSCIC-Indicator-Portal-P01743",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01743&mode=documentation&top=yes",
@@ -919,8 +919,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.6.i_I00666_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.6.i_I00666_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.6.i_I00666_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -957,8 +957,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Five-year survival from all cancers in children (formerly indicator 1.6.iii) (NHSOF 1.6.ii)",
-      "description" : "A measure of the proportion of children diagnosed with any type of cancer in a year who are still alive five years after diagnosis.\n\nPurpose\n\nThis indicator attempts to capture the success of the NHS in preventing children from dying once they have been diagnosed with any type of cancer.\n\nCurrent version updated: Feb-16\n\nNext version due: May-17",
-      "modified" : "2016-02",
+      "description" : "A measure of the proportion of children diagnosed with any type of cancer in a year who are still alive five years after diagnosis.\n\nPurpose\n\nThis indicator attempts to capture the success of the NHS in preventing children from dying once they have been diagnosed with any type of cancer.\n\nCurrent version updated: May-17\n\nNext version due: May-18",
+      "modified" : "2017-05",
       "identifier" : "HSCIC-Indicator-Portal-P01744",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01744&mode=documentation&top=yes",
@@ -987,8 +987,8 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.6.ii_I01999_D.xls",
-                  "title" : "Indicator data (.xls)",
+                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.6.ii_I01999_D.xlsx",
+                  "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
                   ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.6.ii_I01999_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
@@ -1161,8 +1161,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Employment of people with long-term conditions (NHSOF 2.2)",
-      "description" : "The percentage difference between the rate of employment in the general population of working age (16-64) and the rate of employment amongst adults of working age with a long-term condition.\n\nPurpose\n\nThis indicator measures the extent to which people with long-term conditions are able to live as normal a life as possible by looking at their levels of employment.\n\nCurrent version updated: Feb-17\n\nNext version due: May-17",
-      "modified" : "2017-02",
+      "description" : "The percentage difference between the rate of employment in the general population of working age (16-64) and the rate of employment amongst adults of working age with a long-term condition.\n\nPurpose\n\nThis indicator measures the extent to which people with long-term conditions are able to live as normal a life as possible by looking at their levels of employment.\n\nCurrent version updated: May-17\n\nNext version due: Aug-17",
+      "modified" : "2017-05",
       "identifier" : "HSCIC-Indicator-Portal-P01748",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01748&mode=documentation&top=yes",
@@ -1433,8 +1433,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Employment of people with mental illness (formerly indicator 2.5) (NHSOF 2.5.i)",
-      "description" : "The percentage difference between the rate of employment in the general population of working age (16-64) and the rate of employment amongst adults of working age with a mental illness.\n\nPurpose\n\nThis indicator measures the extent to which people with mental illness are able to live as normal a life as possible by looking at their levels of employment. This indicator is to ensure that mental illness is not excluded due to an overriding focus on physical health.\n\nCurrent version updated: Feb-17\n\nNext version due: May-17",
-      "modified" : "2017-02",
+      "description" : "The percentage difference between the rate of employment in the general population of working age (16-64) and the rate of employment amongst adults of working age with a mental illness.\n\nPurpose\n\nThis indicator measures the extent to which people with mental illness are able to live as normal a life as possible by looking at their levels of employment. This indicator is to ensure that mental illness is not excluded due to an overriding focus on physical health.\n\nCurrent version updated: May-17\n\nNext version due: Aug-17",
+      "modified" : "2017-05",
       "identifier" : "HSCIC-Indicator-Portal-P01752",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01752&mode=documentation&top=yes",
@@ -2861,7 +2861,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Bereaved carers' views on the quality of care in the last 3 months of life (NHSOF 4.6)",
-      "description" : "This indicator measures the experience of care for people at the end of their lives, based on the views of bereaved carers, from the National Bereavement Survey (VOICES).\n\nPurpose\n\nThis indicator aims to measure the quality of care experienced by bereaved relatives of people in the final three months of life.\n\nCurrent version updated: May-16\n\nNext version due: May-17",
+      "description" : "This indicator measures the experience of care for people at the end of their lives, based on the views of bereaved carers, from the National Bereavement Survey (VOICES).\n\nPurpose\n\nThis indicator aims to measure the quality of care experienced by bereaved relatives of people in the final three months of life.\n\nCurrent version updated: May-16\n\nNext version due: To be confirmed",
       "modified" : "2016-05",
       "identifier" : "HSCIC-Indicator-Portal-P01784",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -3269,8 +3269,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Patient safety incidents reported (formerly indicators 5a, 5b and 5.4) (NHSOF 5.6)",
-      "description" : "The number of patient safety incidents reported to the National Reporting and Learning System (NRLS) by provider organisations, per 100,000 population.\n\nA patient safety incident is defined as \u2018any unintended or unexpected incident(s) that could have, or did, lead to harm for one or more person(s) receiving NHS funded healthcare\u2019.\n\nPurpose\n\nThis indicator aims to measure the number of reported patient safety incidents across NHS care settings. The aim is for incidence reporting to increase as the culture of reporting all incidents spreads more widely across the NHS. The ultimate goal is that the number of reported incidents remains steady or decreases, as the habit of reporting incidents becomes routine and these are learnt from.\n\nCurrent version updated: Nov-16\n\nNext version due: May-17",
-      "modified" : "2016-11",
+      "description" : "The number of patient safety incidents reported to the National Reporting and Learning System (NRLS) by provider organisations, per 100,000 population.\n\nA patient safety incident is defined as \u2018any unintended or unexpected incident(s) that could have, or did, lead to harm for one or more person(s) receiving NHS funded healthcare\u2019.\n\nPurpose\n\nThis indicator aims to measure the number of reported patient safety incidents across NHS care settings. The aim is for incidence reporting to increase as the culture of reporting all incidents spreads more widely across the NHS. The ultimate goal is that the number of reported incidents remains steady or decreases, as the habit of reporting incidents becomes routine and these are learnt from.\n\nCurrent version updated: May-17\n\nNext version due: Nov-17",
+      "modified" : "2017-05",
       "identifier" : "HSCIC-Indicator-Portal-P01796",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01796&mode=documentation&top=yes",
@@ -3534,5 +3534,4 @@
                   
 
                   ]
-    }
-  ]
+    }  ]
