@@ -47,3 +47,16 @@ Google refine is useful for test and cell conversion, and the ability to apply s
 - Under the Undo / Redo menu, select Apply... and paste the appropriate recipe. Select Perform Operations to apply the steps.
 
 	- This changes the original format by compressing the records, and transforming various columns. There should now be one row per record
+	
+- The records are now ready to be exported. Under the Export menu (top right), select Templating... This section defines how the json output will be structured.
+
+	- Replace the Row Template with the appropriate template file
+	- Prefix should be **\[**
+	- Row Separator should be **,**
+	- Suffix should be **\]**
+
+- Click **Export** to create a json file. 
+
+- Finally, validate the file using https://jsonlint.com/
+
+
