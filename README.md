@@ -51,9 +51,9 @@ Google refine is useful for test and cell conversion, and the ability to apply s
 - The records are now ready to be exported. Under the Export menu (top right), select Templating... This section defines how the json output will be structured.
 
 	- Replace the Row Template with the appropriate template file
-	- Prefix should be **\[**
-	- Row Separator should be **,**
-	- Suffix should be **\]**
+	- Prefix should be **\[** (open square bracket)
+	- Row Separator should be **,** (comma)
+	- Suffix should be **\]** (close square bracket)
 
 - Click **Export** to create a json file. 
 
