@@ -12,25 +12,28 @@ This is acheived by the following steps:
 
 ## 1. Combine the xml schemas
 
-Utilise a combination of the portal indicator list (https://indicators.hscic.gov.uk/download/Indicator%20Portal%20indicators.xls) to get a list of the indicator IDs (eg. P02154 etc).
+- Utilise a combination of the portal indicator list (https://indicators.hscic.gov.uk/download/Indicator%20Portal%20indicators.xls) to get a list of the indicator IDs (eg. P02154 etc).
 
-Append ".xml" to each
+- Use Excel to append ".xml" to each and create a string as follows: "P02154.xml+P02155.xml+P02156.xml......." so that all the IDs for each domain are included.
 
-Create a string as follows: "P02154.xml+P02155.xml+P02156.xml......." so that all the IDs are included.
+- Use the command prompt (In windows explorer, shift+right click on te folder containing the xmls files, open command window here) to copy all of the xml files into one new, combined xml file. The synatx is:
 
-Use the command prompt to copy all of the xml files into on new, combined xml file:
+...copy P00001.xml+P00002.xml+.... P_NHSOF.xml
 
-In command prompt, the syntax is: copy P00001.xml+P00002.xml+.... P_OF.xml
-where P_OF.xml is the new file to be created (P_NHSOF.xml, P_CCGOIS.xml, P_POMI.xml etc)
+...where P_OF.xml is the new file to be created (P_NHSOF.xml, P_CCGOIS.xml, P_POMI.xml etc)
 
-This creates a concatenation of all the files, however this is not a valid xml file - there are 2 further transformations required:
+- This creates a concatenation of all the files, however this is not a valid xml file - there are 2 further transformations required:
 
-In a text editor (I prefer Notepad++):
+...In a text editor (I prefer Notepad++):
 1. find and replace all instances of 
 	\<?xml version="1.0" encoding="UTF-8" ?\> 
 	
 	with ""
 	
-This removes each individual header. However, a single header is required for the overall file, so **\<?xml version="1.0" encoding="UTF-8" ?\>\<portal\>** should be added back at the very start. (Note the addition of \<portal\>
+...This removes each individual header. However, a single header is required for the overall file, so **\<?xml version="1.0" encoding="UTF-8" ?\>\<portal\>** should be added back at the very start. (Note the addition of \<portal\>
 
 2. Add **\</portal\>** to the very end of the file
+
+- Finally, check that the new file is a valid xml using an xml validator (such as https://www.w3schools.com/xml/xml_validator.asp)
+
+- Save the file.
