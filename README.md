@@ -5,7 +5,7 @@ Each month, the portal is updated. DGU can harvest the metadata for these domain
 The indicator portal produces xml schemas for each indicator, so the general process is to convert the xml schemas into a json file capable of being read by DGU.
 This is acheived by the following steps:
 1. Combine the xml schemas for the individual indicators within each domain , so that there is one schema per domain
-2. Utilise Google Refine to convert this xml to a json file
+2. Utilise Google Refine to convert this xml to a json file, using the data.json format
 3. Save the json file to github
 4. Refresh the harvests within DGU.
 
@@ -83,4 +83,17 @@ The link should be updated with the latest data. To see the clean version of the
 
 The harvests are already set up:
 
-	
+	- https://data.gov.uk/harvest/hscic-pomi
+	- https://data.gov.uk/harvest/hscic-ccgois
+	- https://data.gov.uk/harvest/hscic-nhsof
+
+To refresh, it is simply a case of clicking **Refresh Source**. This tells DGU to go back to the json file and re-import the metadata. All previous indicators should be overwritten, with the DGU dataset links remaining the same.
+
+
+## 5. Support and Guidance
+
+If any errors occur, the data.gov.uk team provide support: https://data.gov.uk/contact
+
+Guidance on the harvest process is available on the DGU pages: 
+	- http://guidance.data.gov.uk/
+	- http://guidance.data.gov.uk/harvesting.html
