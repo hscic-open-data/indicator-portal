@@ -1,0 +1,158 @@
+   {  
+      "publisher": {
+            "name": "Health and Social Care Information Centre",
+            "mbox": "enquiries@hscic.gov.uk"
+      },
+      "title" : {{jsonize(cells["title2"].value)}},
+      "description" : {{jsonize(cells["definition"].value+"\n\nCurrent version updated: "+cells["modified"].value+"\n\nNext version due: "+cells["next_update"].value)}},
+      "modified" : {{jsonize(cells["modified_dt"].value)}},
+      "identifier" : {{jsonize(cells["identifier"].value)}},
+      "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "landingPage" : {{jsonize(cells["identifier_URI"].value)}},
+      "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
+                  {{jsonize(cells["keyword 1"].value)}}
+                  {{if(isNotNull(cells["keyword 2"]),","+jsonize(cells["keyword 2"].value),"")}}
+                  {{if(isNotNull(cells["keyword 3"]),","+jsonize(cells["keyword 3"].value),"")}}
+                  {{if(isNotNull(cells["keyword 4"]),","+jsonize(cells["keyword 4"].value),"")}}
+                  {{if(isNotNull(cells["keyword 5"]),","+jsonize(cells["keyword 5"].value),"")}}
+                  {{if(isNotNull(cells["keyword 6"]),","+jsonize(cells["keyword 6"].value),"")}}
+                  {{if(isNotNull(cells["keyword 7"]),","+jsonize(cells["keyword 7"].value),"")}}
+                  {{if(isNotNull(cells["keyword 8"]),","+jsonize(cells["keyword 8"].value),"")}}
+                  {{if(isNotNull(cells["keyword 9"]),","+jsonize(cells["keyword 9"].value),"")}}
+                  {{if(isNotNull(cells["keyword 10"]),","+jsonize(cells["keyword 10"].value),"")}}
+                  {{if(isNotNull(cells["keyword 11"]),","+jsonize(cells["keyword 11"].value),"")}}
+                  {{if(isNotNull(cells["keyword 12"]),","+jsonize(cells["keyword 12"].value),"")}}
+                  {{if(isNotNull(cells["keyword 13"]),","+jsonize(cells["keyword 13"].value),"")}}
+                  {{if(isNotNull(cells["keyword 14"]),","+jsonize(cells["keyword 14"].value),"")}}
+                  {{if(isNotNull(cells["keyword 15"]),","+jsonize(cells["keyword 15"].value),"")}}
+                  {{if(isNotNull(cells["keyword 16"]),","+jsonize(cells["keyword 16"].value),"")}}
+                  {{if(isNotNull(cells["keyword 17"]),","+jsonize(cells["keyword 17"].value),"")}}
+                  {{if(isNotNull(cells["keyword 18"]),","+jsonize(cells["keyword 18"].value),"")}}
+                  {{if(isNotNull(cells["keyword 19"]),","+jsonize(cells["keyword 19"].value),"")}}
+                  {{if(isNotNull(cells["keyword 20"]),","+jsonize(cells["keyword 20"].value),"")}}
+                  {{if(isNotNull(cells["keyword 21"]),","+jsonize(cells["keyword 21"].value),"")}}
+                  ],
+      "distribution" : [
+                  {
+                  "downloadURL" : {{jsonize(cells["resource_file 1"].value)}},
+                  "title" : {{jsonize(cells["file_title 1"].value)}},
+                  "format" :{{jsonize(cells["format 1"].value)}} 
+                  }
+                  {{if(isNotNull(cells["resource_file 2"]),
+                  ",{\"downloadURL\" : " + jsonize(cells["resource_file 2"].value)
+                  +", \"title\" : " + jsonize(cells["file_title 2"].value)
+                  +", \"format\" : " + jsonize(cells["format 2"].value)
+                  + cells["bracket"].value
+                  ,"")}}
+                  {{if(isNotNull(cells["resource_file 3"]),
+                  ",{\"downloadURL\" : " + jsonize(cells["resource_file 3"].value)
+                  +", \"title\" : " + jsonize(cells["file_title 3"].value)
+                  +", \"format\" : " + jsonize(cells["format 3"].value)
+                  + cells["bracket"].value
+                  ,"")}}
+                  {{if(isNotNull(cells["resource_file 4"]),
+                  ",{\"downloadURL\" : " + jsonize(cells["resource_file 4"].value)
+                  +", \"title\" : " + jsonize(cells["file_title 4"].value)
+                  +", \"format\" : " + jsonize(cells["format 4"].value)
+                  + cells["bracket"].value
+                  ,"")}}
+                  {{if(isNotNull(cells["resource_file 5"]),
+                  ",{\"downloadURL\" : " + jsonize(cells["resource_file 5"].value)
+                  +", \"title\" : " + jsonize(cells["file_title 5"].value)
+                  +", \"format\" : " + jsonize(cells["format 5"].value)
+                  + cells["bracket"].value
+                  ,"")}}
+                  {{if(isNotNull(cells["resource_file 6"]),
+                  ",{\"downloadURL\" : " + jsonize(cells["resource_file 6"].value)
+                  +", \"title\" : " + jsonize(cells["file_title 6"].value)
+                  +", \"format\" : " + jsonize(cells["format 6"].value)
+                  + cells["bracket"].value
+                  ,"")}}
+                  {{if(isNotNull(cells["resource_file 7"]),
+                  ",{\"downloadURL\" : " + jsonize(cells["resource_file 7"].value)
+                  +", \"title\" : " + jsonize(cells["file_title 7"].value)
+                  +", \"format\" : " + jsonize(cells["format 7"].value)
+                  + cells["bracket"].value
+                  ,"")}}
+                  {{if(isNotNull(cells["resource_file 8"]),
+                  ",{\"downloadURL\" : " + jsonize(cells["resource_file 8"].value)
+                  +", \"title\" : " + jsonize(cells["file_title 8"].value)
+                  +", \"format\" : " + jsonize(cells["format 8"].value)
+                  + cells["bracket"].value
+                  ,"")}}
+                  {{if(isNotNull(cells["resource_file 9"]),
+                  ",{\"downloadURL\" : " + jsonize(cells["resource_file 9"].value)
+                  +", \"title\" : " + jsonize(cells["file_title 9"].value)
+                  +", \"format\" : " + jsonize(cells["format 9"].value)
+                  + cells["bracket"].value
+                  ,"")}}
+                  {{if(isNotNull(cells["resource_file 10"]),
+                  ",{\"downloadURL\" : " + jsonize(cells["resource_file 10"].value)
+                  +", \"title\" : " + jsonize(cells["file_title 10"].value)
+                  +", \"format\" : " + jsonize(cells["format 10"].value)
+                  + cells["bracket"].value
+                  ,"")}}
+                  ],
+      "references" : [
+                  {
+                  "url" : {{jsonize(cells["resource_ref 1"].value)}},
+                  "title" : {{jsonize(cells["ref_title 1"].value)}},
+                  "format" :{{jsonize(cells["ref_format 1"].value)}} 
+                  }
+                  {{if(isNotNull(cells["resource_ref 2"]),
+                  ",{\"url\" : " + jsonize(cells["resource_ref 2"].value)
+                  +", \"title\" : " + jsonize(cells["ref_title 2"].value)
+                  +", \"format\" : " + jsonize(cells["ref_format 2"].value)
+                  + cells["bracket"].value
+                  ,"")}}
+                  {{if(isNotNull(cells["resource_ref 3"]),
+                  ",{\"url\" : " + jsonize(cells["resource_ref 3"].value)
+                  +", \"title\" : " + jsonize(cells["ref_title 3"].value)
+                  +", \"format\" : " + jsonize(cells["ref_format 3"].value)
+                  + cells["bracket"].value
+                  ,"")}}
+                  {{if(isNotNull(cells["resource_ref 4"]),
+                  ",{\"url\" : " + jsonize(cells["resource_ref 4"].value)
+                  +", \"title\" : " + jsonize(cells["ref_title 4"].value)
+                  +", \"format\" : " + jsonize(cells["ref_format 4"].value)
+                  + cells["bracket"].value
+                  ,"")}}
+                  {{if(isNotNull(cells["resource_ref 5"]),
+                  ",{\"url\" : " + jsonize(cells["resource_ref 5"].value)
+                  +", \"title\" : " + jsonize(cells["ref_title 5"].value)
+                  +", \"format\" : " + jsonize(cells["ref_format 5"].value)
+                  + cells["bracket"].value
+                  ,"")}}
+                  {{if(isNotNull(cells["resource_ref 6"]),
+                  ",{\"url\" : " + jsonize(cells["resource_ref 6"].value)
+                  +", \"title\" : " + jsonize(cells["ref_title 6"].value)
+                  +", \"format\" : " + jsonize(cells["ref_format 6"].value)
+                  + cells["bracket"].value
+                  ,"")}}
+                  {{if(isNotNull(cells["resource_ref 7"]),
+                  ",{\"url\" : " + jsonize(cells["resource_ref 7"].value)
+                  +", \"title\" : " + jsonize(cells["ref_title 7"].value)
+                  +", \"format\" : " + jsonize(cells["ref_format 7"].value)
+                  + cells["bracket"].value
+                  ,"")}}
+                  {{if(isNotNull(cells["resource_ref 8"]),
+                  ",{\"url\" : " + jsonize(cells["resource_ref 8"].value)
+                  +", \"title\" : " + jsonize(cells["ref_title 8"].value)
+                  +", \"format\" : " + jsonize(cells["ref_format 8"].value)
+                  + cells["bracket"].value
+                  ,"")}}
+                  {{if(isNotNull(cells["resource_ref 9"]),
+                  ",{\"url\" : " + jsonize(cells["resource_ref 9"].value)
+                  +", \"title\" : " + jsonize(cells["ref_title 9"].value)
+                  +", \"format\" : " + jsonize(cells["ref_format 9"].value)
+                  + cells["bracket"].value
+                  ,"")}}
+                  {{if(isNotNull(cells["resource_ref 10"]),
+                  ",{\"url\" : " + jsonize(cells["resource_ref 10"].value)
+                  +", \"title\" : " + jsonize(cells["ref_title 10"].value)
+                  +", \"format\" : " + jsonize(cells["ref_format 10"].value)
+                  + cells["bracket"].value
+                  ,"")}}
+
+                  ]
+    }
