@@ -82,7 +82,6 @@ The link should be updated with the latest data. To see the clean version of the
 ## 4. Refreshing the DGU harvest
 
 The harvests are already set up:
-
 	- https://data.gov.uk/harvest/hscic-pomi
 	- https://data.gov.uk/harvest/hscic-ccgois
 	- https://data.gov.uk/harvest/hscic-nhsof
