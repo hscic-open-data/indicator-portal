@@ -18,13 +18,13 @@ This is acheived by the following steps:
 
 - Use the command prompt (In windows explorer, shift+right click on te folder containing the xmls files, open command window here) to copy all of the xml files into one new, combined xml file. The synatx is:
 
-...copy P00001.xml+P00002.xml+.... P_NHSOF.xml
+copy P00001.xml+P00002.xml+.... P_NHSOF.xml
 
-...where P_OF.xml is the new file to be created (P_NHSOF.xml, P_CCGOIS.xml, P_POMI.xml etc)
+where P_OF.xml is the new file to be created (P_NHSOF.xml, P_CCGOIS.xml, P_POMI.xml etc)
 
 - This creates a concatenation of all the files, however this is not a valid xml file - there are 2 further transformations required:
 
-...In a text editor (I prefer Notepad++):
+In a text editor (I prefer Notepad++):
 1. find and replace all instances of 
 	\<?xml version="1.0" encoding="UTF-8" ?\> 
 	
