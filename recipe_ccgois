@@ -1,0 +1,494 @@
+[
+  {
+    "op": "core/column-rename",
+    "description": "Rename column portal - codeBook - id to id",
+    "oldColumnName": "portal - codeBook - id",
+    "newColumnName": "id"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column portal - codeBook - stdyDscr - citation - titlStmt - titl to title",
+    "oldColumnName": "portal - codeBook - stdyDscr - citation - titlStmt - titl",
+    "newColumnName": "title"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column portal - codeBook - stdyDscr - citation - notes to definition",
+    "oldColumnName": "portal - codeBook - stdyDscr - citation - notes",
+    "newColumnName": "definition"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column portal - codeBook - stdyDscr - stdyInfo - subject - keyword to keyword",
+    "oldColumnName": "portal - codeBook - stdyDscr - stdyInfo - subject - keyword",
+    "newColumnName": "keyword"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column portal - codeBook - stdyDscr - othrStdyMat - relMat - citation - holdings - URI to resource",
+    "oldColumnName": "portal - codeBook - stdyDscr - othrStdyMat - relMat - citation - holdings - URI",
+    "newColumnName": "resource"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column portal - codeBook - stdyDscr - othrStdyMat - relMat - citation - titlStmt - titl to restitle",
+    "oldColumnName": "portal - codeBook - stdyDscr - othrStdyMat - relMat - citation - titlStmt - titl",
+    "newColumnName": "restitle"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column portal - codeBook - stdyDscr - citation - verStmt - version to modified",
+    "oldColumnName": "portal - codeBook - stdyDscr - citation - verStmt - version",
+    "newColumnName": "modified"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column portal - codeBook - stdyDscr - citation - serStmt - serName to next_update",
+    "oldColumnName": "portal - codeBook - stdyDscr - citation - serStmt - serName",
+    "newColumnName": "next_update"
+  },
+  {
+    "op": "core/column-rename",
+    "description": "Rename column portal - codeBook - stdyDscr - stdyInfo - abstract to purpose",
+    "oldColumnName": "portal - codeBook - stdyDscr - stdyInfo - abstract",
+    "newColumnName": "purpose"
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column restitle to position 0",
+    "columnName": "restitle",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column resource to position 0",
+    "columnName": "resource",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column keyword to position 0",
+    "columnName": "keyword",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column definition to position 0",
+    "columnName": "definition",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column title to position 0",
+    "columnName": "title",
+    "index": 0
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column id to position 0",
+    "columnName": "id",
+    "index": 0
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column resource_file at index 5 based on column resource using expression grel:if(substring(value,lastIndexOf(value,\".\"))==\".xls\",value,\nif(substring(value,lastIndexOf(value,\".\"))==\".xlsx\",value,\nif(substring(value,lastIndexOf(value,\".\"))==\".csv\",value,null)))",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "newColumnName": "resource_file",
+    "columnInsertIndex": 5,
+    "baseColumnName": "resource",
+    "expression": "grel:if(substring(value,lastIndexOf(value,\".\"))==\".xls\",value,\nif(substring(value,lastIndexOf(value,\".\"))==\".xlsx\",value,\nif(substring(value,lastIndexOf(value,\".\"))==\".csv\",value,null)))",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column format at index 5 based on column resource using expression grel:if(substring(value,lastIndexOf(value,\".\"))==\".xls\",\"application/vnd.ms-excel\",\nif(substring(value,lastIndexOf(value,\".\"))==\".xlsx\",\"application/vnd.ms-excel\",\nif(substring(value,lastIndexOf(value,\".\"))==\".csv\",\"text/csv\",null)))",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "newColumnName": "format",
+    "columnInsertIndex": 5,
+    "baseColumnName": "resource",
+    "expression": "grel:if(substring(value,lastIndexOf(value,\".\"))==\".xls\",\"application/vnd.ms-excel\",\nif(substring(value,lastIndexOf(value,\".\"))==\".xlsx\",\"application/vnd.ms-excel\",\nif(substring(value,lastIndexOf(value,\".\"))==\".csv\",\"text/csv\",null)))",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column file_title at index 5 based on column resource using expression grel:if(substring(value,lastIndexOf(value,\".\"))==\".xls\",cells[\"restitle\"].value,\nif(substring(value,lastIndexOf(value,\".\"))==\".xlsx\",cells[\"restitle\"].value,\nif(substring(value,lastIndexOf(value,\".\"))==\".csv\",cells[\"restitle\"].value,null)))",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "newColumnName": "file_title",
+    "columnInsertIndex": 5,
+    "baseColumnName": "resource",
+    "expression": "grel:if(substring(value,lastIndexOf(value,\".\"))==\".xls\",cells[\"restitle\"].value,\nif(substring(value,lastIndexOf(value,\".\"))==\".xlsx\",cells[\"restitle\"].value,\nif(substring(value,lastIndexOf(value,\".\"))==\".csv\",cells[\"restitle\"].value,null)))",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column resource_ref at index 5 based on column resource using expression grel:if(substring(value,lastIndexOf(value,\".\"))!=\".xls\",\nif(substring(value,lastIndexOf(value,\".\"))!=\".xlsx\",\nif(substring(value,lastIndexOf(value,\".\"))!=\".csv\",value,null)\n,null),null)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "newColumnName": "resource_ref",
+    "columnInsertIndex": 5,
+    "baseColumnName": "resource",
+    "expression": "grel:if(substring(value,lastIndexOf(value,\".\"))!=\".xls\",\nif(substring(value,lastIndexOf(value,\".\"))!=\".xlsx\",\nif(substring(value,lastIndexOf(value,\".\"))!=\".csv\",value,null)\n,null),null)",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column ref_format at index 6 based on column resource_ref using expression grel:if(\nsubstring(value,lastIndexOf(value,\".\"))==\".pdf\",\"application/pdf\",\nif(\nsubstring(value,lastIndexOf(value,\".\"))==\".doc\",\"application/vnd.ms-word\",\n\"text/html\"\n))",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "ref_format",
+    "columnInsertIndex": 6,
+    "baseColumnName": "resource_ref",
+    "expression": "grel:if(\nsubstring(value,lastIndexOf(value,\".\"))==\".pdf\",\"application/pdf\",\nif(\nsubstring(value,lastIndexOf(value,\".\"))==\".doc\",\"application/vnd.ms-word\",\n\"text/html\"\n))",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column ref_title at index 7 based on column resource using expression grel:if(substring(value,lastIndexOf(value,\".\"))!=\".xls\",\nif(substring(value,lastIndexOf(value,\".\"))!=\".xlsx\",\nif(substring(value,lastIndexOf(value,\".\"))!=\".csv\",\ncells[\"restitle\"].value,null),null),null)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "newColumnName": "ref_title",
+    "columnInsertIndex": 7,
+    "baseColumnName": "resource",
+    "expression": "grel:if(substring(value,lastIndexOf(value,\".\"))!=\".xls\",\nif(substring(value,lastIndexOf(value,\".\"))!=\".xlsx\",\nif(substring(value,lastIndexOf(value,\".\"))!=\".csv\",\ncells[\"restitle\"].value,null),null),null)",
+    "onError": "set-to-blank"
+  }, 
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column resource_file using expression grel:if(substring(value,0,4)==\"http\",value,\"https://indicators.hscic.gov.uk\"+value)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "resource_file",
+    "expression": "grel:if(substring(value,0,4)==\"http\",value,\"https://indicators.hscic.gov.uk\"+value)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column resource_ref using expression grel:if(substring(value,0,4)==\"http\",value,\"https://indicators.hscic.gov.uk\"+value)",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "resource_ref",
+    "expression": "grel:if(substring(value,0,4)==\"http\",value,\"https://indicators.hscic.gov.uk\"+value)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "description": "Join multi-valued cells in column keyword",
+    "columnName": "keyword",
+    "keyColumnName": "id",
+    "separator": "~"
+  },
+  {
+    "op": "core/column-split",
+    "description": "Split column keyword by separator",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "keyword",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": "~",
+    "regex": false,
+    "maxColumns": 0
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "description": "Join multi-valued cells in column resource",
+    "columnName": "resource",
+    "keyColumnName": "id",
+    "separator": "~"
+  },
+  {
+    "op": "core/column-split",
+    "description": "Split column resource by separator",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "resource",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": "~",
+    "regex": false,
+    "maxColumns": 0
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "description": "Join multi-valued cells in column resource_file",
+    "columnName": "resource_file",
+    "keyColumnName": "id",
+    "separator": "~"
+  },
+  {
+    "op": "core/column-split",
+    "description": "Split column resource_file by separator",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "resource_file",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": "~",
+    "regex": false,
+    "maxColumns": 0
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "description": "Join multi-valued cells in column resource_ref",
+    "columnName": "resource_ref",
+    "keyColumnName": "id",
+    "separator": "~"
+  },
+  {
+    "op": "core/column-split",
+    "description": "Split column resource_ref by separator",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "resource_ref",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": "~",
+    "regex": false,
+    "maxColumns": 0
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "description": "Join multi-valued cells in column format",
+    "columnName": "format",
+    "keyColumnName": "id",
+    "separator": "~"
+  },
+  {
+    "op": "core/column-split",
+    "description": "Split column format by separator",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "format",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": "~",
+    "regex": false,
+    "maxColumns": 0
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "description": "Join multi-valued cells in column res_type",
+    "columnName": "res_type",
+    "keyColumnName": "id",
+    "separator": "~"
+  },
+  {
+    "op": "core/column-split",
+    "description": "Split column res_type by separator",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "res_type",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": "~",
+    "regex": false,
+    "maxColumns": 0
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "description": "Join multi-valued cells in column restitle",
+    "columnName": "restitle",
+    "keyColumnName": "id",
+    "separator": "~"
+  },
+  {
+    "op": "core/column-split",
+    "description": "Split column restitle by separator",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "restitle",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": "~",
+    "regex": false,
+    "maxColumns": 0
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "description": "Join multi-valued cells in column file_title",
+    "columnName": "file_title",
+    "keyColumnName": "id",
+    "separator": "~"
+  },
+  {
+    "op": "core/column-split",
+    "description": "Split column file_title by separator",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "file_title",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": "~",
+    "regex": false,
+    "maxColumns": 0
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "description": "Join multi-valued cells in column ref_title",
+    "columnName": "ref_title",
+    "keyColumnName": "id",
+    "separator": "~"
+  },
+  {
+    "op": "core/column-split",
+    "description": "Split column ref_title by separator",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "ref_title",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": "~",
+    "regex": false,
+    "maxColumns": 0
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "description": "Join multi-valued cells in column ref_format",
+    "columnName": "ref_format",
+    "keyColumnName": "id",
+    "separator": "~"
+  },
+  {
+    "op": "core/column-split",
+    "description": "Split column ref_format by separator",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "ref_format",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": "~",
+    "regex": false,
+    "maxColumns": 0
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column bracket at index 1 based on column portal - codeBook - version using expression grel:\"}\"",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "newColumnName": "bracket",
+    "columnInsertIndex": 1,
+    "baseColumnName": "portal - codeBook - version",
+    "expression": "grel:\"}\"",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column title2 at index 2 based on column title using expression grel:substring(value,indexOf(value,\" \")+1)+\" (CCGOIS \"+substring(value,0,indexOf(value,\" \"))+\")\"",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "title2",
+    "columnInsertIndex": 2,
+    "baseColumnName": "title",
+    "expression": "grel:substring(value,indexOf(value,\" \")+1)+\" (CCGOIS \"+substring(value,0,indexOf(value,\" \"))+\")\"",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column identifier_URI at index 1 based on column id using expression grel:\"https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2F\"+value+\"&mode=documentation&top=yes\"",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "newColumnName": "identifier_URI",
+    "columnInsertIndex": 1,
+    "baseColumnName": "id",
+    "expression": "grel:\"https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2F\"+value+\"&mode=documentation&top=yes\"",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column identifier at index 1 based on column id using expression grel:\"HSCIC-Indicator-Portal-\"+value",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "identifier",
+    "columnInsertIndex": 1,
+    "baseColumnName": "id",
+    "expression": "grel:\"HSCIC-Indicator-Portal-\"+value",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column next_update_dt at index 1 based on column next_update using expression grel:value.toDate('MMM-yy').toString('yyyy-MM')",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "newColumnName": "next_update_dt",
+    "columnInsertIndex": 1,
+    "baseColumnName": "next_update",
+    "expression": "grel:value.toDate('MMM-yy').toString('yyyy-MM')",
+    "onError": "keep-original"
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column modified_dt at index 1 based on column next_update using expression grel:value.toDate('MMM-yy').toString('yyyy-MM')",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "newColumnName": "modified_dt",
+    "columnInsertIndex": 1,
+    "baseColumnName": "modified",
+    "expression": "grel:value.toDate('MMM-yy').toString('yyyy-MM')",
+    "onError": "keep-original"
+  }
+]
