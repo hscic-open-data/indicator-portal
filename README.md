@@ -83,9 +83,9 @@ The link should be updated with the latest data. To see the clean version of the
 
 The harvests are already set up:
 
-	* https://data.gov.uk/harvest/hscic-pomi
-	* https://data.gov.uk/harvest/hscic-ccgois
-	* https://data.gov.uk/harvest/hscic-nhsof
+https://data.gov.uk/harvest/hscic-pomi
+https://data.gov.uk/harvest/hscic-ccgois
+https://data.gov.uk/harvest/hscic-nhsof
 
 To refresh, it is simply a case of clicking **Refresh Source**. This tells DGU to go back to the json file and re-import the metadata. All previous indicators should be overwritten, with the DGU dataset links remaining the same.
 
@@ -96,5 +96,5 @@ If any errors occur, the data.gov.uk team provide support: https://data.gov.uk/c
 
 Guidance on the harvest process is available on the DGU pages: 
 
-	- http://guidance.data.gov.uk/
-	- http://guidance.data.gov.uk/harvesting.html
+http://guidance.data.gov.uk/
+http://guidance.data.gov.uk/harvesting.html
