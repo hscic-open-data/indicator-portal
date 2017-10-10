@@ -34,3 +34,11 @@ This is acheived by the following steps:
 - Finally, check that the new file is a valid xml using an xml validator (such as https://www.w3schools.com/xml/xml_validator.asp)
 
 - Save the file.
+
+
+## 2. Convert to a json file (using Google Refine)
+
+Google refine is useful for test and cell conversion, and the ability to apply saved steps (recipes). The xml schema can be opened in Excel as a tabular representation, however nested elements (items in lists) make the file difficult to work with.
+
+- In Google Refine, create a new project. Import the combined xml file and hit Next to proceed. On the next screen, click on the first level (**\<portal\>**) to ensure that the entire file is loaded. Then click Create Project.
+
