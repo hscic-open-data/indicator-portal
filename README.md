@@ -24,13 +24,13 @@ where P_OF.xml is the new file to be created (P_NHSOF.xml, P_CCGOIS.xml, P_POMI.
 
 - This creates a concatenation of all the files, however this is not a valid xml file - there are 2 further transformations required:
 
-In a text editor (I prefer Notepad++):
+	In a text editor (I prefer Notepad++):
 1. find and replace all instances of 
 	\<?xml version="1.0" encoding="UTF-8" ?\> 
 	
 	with ""
 	
-...This removes each individual header. However, a single header is required for the overall file, so **\<?xml version="1.0" encoding="UTF-8" ?\>\<portal\>** should be added back at the very start. (Note the addition of \<portal\>
+This removes each individual header. However, a single header is required for the overall file, so **\<?xml version="1.0" encoding="UTF-8" ?\>\<portal\>** should be added back at the very start. (Note the addition of \<portal\>)
 
 2. Add **\</portal\>** to the very end of the file
 
