@@ -60,3 +60,27 @@ Google refine is useful for test and cell conversion, and the ability to apply s
 - Finally, validate the file using https://jsonlint.com/
 
 
+## 3. Saving the new josn file to Github
+
+The new json file needs to be saved to github (so that the DGU can read it).
+
+- sign in to github and find the Indicator Portal project (https://github.com/hscic-open-data/indicator-portal)
+
+- open the appropriate harvest source file:
+	- portal-ccgois.json
+	- portal-nhsof.json
+	- portal-pomi.json
+
+- click on the pen icon to edit the file
+
+- replace the entire contents with the text from the new josn file created in step 2.
+
+- click Commit to save changes.
+
+The link should be updated with the latest data. To see the clean version of the file, select the **Raw** tab - this the file without the github page furniture, and is the version that DGU reads.
+
+## 4. Refreshing the DGU harvest
+
+The harvests are already set up:
+
+	
