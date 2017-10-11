@@ -428,7 +428,7 @@
   },
   {
     "op": "core/column-addition",
-    "description": "Create column identifier_URI at index 1 based on column id using expression grel:\"https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2F\"+value+\"&mode=documentation&top=yes\"",
+    "description": "Create column identifier_URI at index 1 based on column id using expression grel:\"https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2F\"+value+\"&mode=documentation&top=yes\"",
     "engineConfig": {
       "facets": [],
       "mode": "record-based"
@@ -436,7 +436,7 @@
     "newColumnName": "identifier_URI",
     "columnInsertIndex": 1,
     "baseColumnName": "id",
-    "expression": "grel:\"https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2F\"+value+\"&mode=documentation&top=yes\"",
+    "expression": "grel:\"https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2F\"+value+\"&mode=documentation&top=yes\"",
     "onError": "set-to-blank"
   },
   {
