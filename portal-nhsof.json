@@ -1,4 +1,4 @@
-[
+ [
    {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
@@ -821,7 +821,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Excess under 75 mortality rate in adults with serious mental illness (formerly indicator 1.5) (NHSOF 1.5.i)",
-      "description" : "A measure of the extent to which adults with a serious mental illness die younger than adults in the general population.\n\nPurpose\n\nTo measure premature mortality in adults diagnosed with serious mental illness.\n\nCurrent version updated: Nov-16\n\nNext version due: Nov-17",
+      "description" : "A measure of the extent to which adults with a serious mental illness die younger than adults in the general population.\n\nPurpose\n\nTo measure premature mortality in adults diagnosed with serious mental illness.\n\nCurrent version updated: Nov-16\n\nNext version due: To be confirmed",
       "modified" : "2016-11",
       "identifier" : "HSCIC-Indicator-Portal-P01740",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -1025,8 +1025,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Health-related quality of life for people with long-term conditions (NHSOF 2)",
-      "description" : "This indicator measures the health-related quality of life for people who identify themselves as having one or more long-term conditions.\n\nPurpose\n\nThis indicator measures how successfully the NHS is supporting people with long-term conditions to live as normal a life as possible. This indicator helps people understand whether health-related quality of life is improving over time for the population with long-term conditions.\n\nCurrent version updated: Sep-16\n\nNext version due: Aug-17",
-      "modified" : "2016-09",
+      "description" : "This indicator measures the health-related quality of life for people who identify themselves as having one or more long-term conditions.\n\nPurpose\n\nThis indicator measures how successfully the NHS is supporting people with long-term conditions to live as normal a life as possible. This indicator helps people understand whether health-related quality of life is improving over time for the population with long-term conditions.\n\nCurrent version updated: Sep-17\n\nNext version due: Aug-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01746",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01746&mode=documentation&top=yes",
@@ -1093,8 +1093,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Proportion of people feeling supported to manage their condition (NHSOF 2.1)",
-      "description" : "This indicator measures the degree to which people with health conditions that are expected to last for a significant period of time feel they have had sufficient support from relevant services and organisations to manage their condition.\n\nPurpose\n\nThis indicator measures the proportion of people who feel supported to manage their long-term condition.\n\nCurrent version updated: Sep-16\n\nNext version due: Aug-17",
-      "modified" : "2016-09",
+      "description" : "This indicator measures the degree to which people with health conditions that are expected to last for a significant period of time feel they have had sufficient support from relevant services and organisations to manage their condition.\n\nPurpose\n\nThis indicator measures the proportion of people who feel supported to manage their long-term condition.\n\nCurrent version updated: Sep-17\n\nNext version due: Aug-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01747",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01747&mode=documentation&top=yes",
@@ -1161,8 +1161,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Employment of people with long-term conditions (NHSOF 2.2)",
-      "description" : "The percentage difference between the rate of employment in the general population of working age (16-64) and the rate of employment amongst adults of working age with a long-term condition.\n\nPurpose\n\nThis indicator measures the extent to which people with long-term conditions are able to live as normal a life as possible by looking at their levels of employment.\n\nCurrent version updated: May-17\n\nNext version due: Aug-17",
-      "modified" : "2017-05",
+      "description" : "The percentage point difference between the rate of employment in the general population of working age (16-64) and the rate of employment amongst adults of working age with a long-term condition.\n\nPurpose\n\nThis indicator measures the extent to which people with long-term conditions are able to live as normal a life as possible by looking at their levels of employment.\n\nCurrent version updated: Aug-17\n\nNext version due: Nov-17",
+      "modified" : "2017-08",
       "identifier" : "HSCIC-Indicator-Portal-P01748",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01748&mode=documentation&top=yes",
@@ -1365,8 +1365,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Health-related quality of life for carers (NHSOF 2.4)",
-      "description" : "This indicator measures health-related quality of life for people who identify themselves as helping or supporting family members, friends, neighbours or others with their long-term physical or mental illness/disability or because of problems related to old age.\n\nPurpose\n\nThis indicator seeks to capture how successfully the NHS is supporting carers to live as normal a life as possible. This indicator helps people understand whether health-related quality of life for carers is improving over time.\n\nCurrent version updated: Sep-16\n\nNext version due: Aug-17",
-      "modified" : "2016-09",
+      "description" : "This indicator measures health-related quality of life for people who identify themselves as helping or supporting family members, friends, neighbours or others with their long-term physical or mental illness/disability or because of problems related to old age.\n\nPurpose\n\nThis indicator seeks to capture how successfully the NHS is supporting carers to live as normal a life as possible. This indicator helps people understand whether health-related quality of life for carers is improving over time.\n\nCurrent version updated: Sep-17\n\nNext version due: Aug-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01751",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01751&mode=documentation&top=yes",
@@ -1433,8 +1433,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Employment of people with mental illness (formerly indicator 2.5) (NHSOF 2.5.i)",
-      "description" : "The percentage difference between the rate of employment in the general population of working age (16-64) and the rate of employment amongst adults of working age with a mental illness.\n\nPurpose\n\nThis indicator measures the extent to which people with mental illness are able to live as normal a life as possible by looking at their levels of employment. This indicator is to ensure that mental illness is not excluded due to an overriding focus on physical health.\n\nCurrent version updated: May-17\n\nNext version due: Aug-17",
-      "modified" : "2017-05",
+      "description" : "The percentage point difference between the rate of employment in the general population of working age (16-64) and the rate of employment amongst adults of working age with a mental illness.\n\nPurpose\n\nThis indicator measures the extent to which people with mental illness are able to live as normal a life as possible by looking at their levels of employment. This indicator is to ensure that mental illness is not excluded due to an overriding focus on physical health.\n\nCurrent version updated: Aug-17\n\nNext version due: Nov-17",
+      "modified" : "2017-08",
       "identifier" : "HSCIC-Indicator-Portal-P01752",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01752&mode=documentation&top=yes",
@@ -1569,8 +1569,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Health-related quality of life for people with three or more long-term conditions (NHSOF 2.7)",
-      "description" : "This indicator measures the health-related quality of life for people who identify themselves as having three or more long-term conditions.\n\nPurpose\n\nThis indicator measures how successfully the NHS is supporting people with multiple long-term conditions to live as normal a life as possible. This indicator helps people understand whether health-related quality of life is improving over time for the population with multiple long-term conditions.\n\nCurrent version updated: Sep-16\n\nNext version due: Aug-17",
-      "modified" : "2016-09",
+      "description" : "This indicator measures the health-related quality of life for people who identify themselves as having three or more long-term conditions.\n\nPurpose\n\nThis indicator measures how successfully the NHS is supporting people with multiple long-term conditions to live as normal a life as possible. This indicator helps people understand whether health-related quality of life is improving over time for the population with multiple long-term conditions.\n\nCurrent version updated: Sep-17\n\nNext version due: Aug-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01756",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01756&mode=documentation&top=yes",
@@ -2181,8 +2181,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Patient experience of GP services (NHSOF 4a.i)",
-      "description" : "This indicator measures the weighted percentage of people who report their overall experience of GP services as \u2018fairly good\u2019 or \u2018very good\u2019.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of their GP. The vast majority of the population visit their GP each year and often it is the experience people have of primary care that determines their overall view of the NHS.\n\nCurrent version updated: Sep-16\n\nNext version due: Aug-17",
-      "modified" : "2016-09",
+      "description" : "This indicator measures the weighted percentage of people who report their overall experience of GP services as \u2018fairly good\u2019 or \u2018very good\u2019.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of their GP. The vast majority of the population visit their GP each year and often it is the experience people have of primary care that determines their overall view of the NHS.\n\nCurrent version updated: Sep-17\n\nNext version due: Aug-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01771",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01771&mode=documentation&top=yes",
@@ -2317,8 +2317,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Patient experience of dental services (NHSOF 4a.iii)",
-      "description" : "This indicator measures the weighted percentage of people who report their overall experience of NHS dental services as \u2018fairly good\u2019 or \u2018very good\u2019.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of NHS dental services.\n\nCurrent version updated: Sep-16\n\nNext version due: Aug-17",
-      "modified" : "2016-09",
+      "description" : "This indicator measures the weighted percentage of people who report their overall experience of NHS dental services as \u2018fairly good\u2019 or \u2018very good\u2019.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of NHS dental services.\n\nCurrent version updated: Sep-17\n\nNext version due: Aug-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01773",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01773&mode=documentation&top=yes",
@@ -2385,8 +2385,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Patient experience of hospital care (NHSOF 4b)",
-      "description" : "Patient experience measured by scoring the results of a selection of questions from the National Inpatient Survey looking at a range of elements of hospital care.\n\nPurpose\n\nThis indicator aims to capture the experience of patients who have received medical treatment in hospital.\n\nCurrent version updated: Aug-16\n\nNext version due: Aug-17",
-      "modified" : "2016-08",
+      "description" : "Patient experience measured by scoring the results of a selection of questions from the National Inpatient Survey looking at a range of elements of hospital care.\n\nPurpose\n\nThis indicator aims to capture the experience of patients who have received medical treatment in hospital.\n\nCurrent version updated: Aug-17\n\nNext version due: Aug-18",
+      "modified" : "2017-08",
       "identifier" : "HSCIC-Indicator-Portal-P01774",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01774&mode=documentation&top=yes",
@@ -2521,8 +2521,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Responsiveness to inpatients\u2019 personal needs (NHSOF 4.2)",
-      "description" : "Patient experience measured by scoring the results of a selection of questions from the National Inpatient Survey focussing on the responsiveness to personal needs.\n\nPurpose\n\nConsultation feedback indicated that personalisation and service responsiveness are important issues for inpatients. This indicator aims to capture inpatients\u2019 experience of this.\n\nCurrent version updated: Aug-16\n\nNext version due: Aug-17",
-      "modified" : "2016-08",
+      "description" : "Patient experience measured by scoring the results of a selection of questions from the National Inpatient Survey focussing on the responsiveness to personal needs.\n\nPurpose\n\nConsultation feedback indicated that personalisation and service responsiveness are important issues for inpatients. This indicator aims to capture inpatients\u2019 experience of this.\n\nCurrent version updated: Aug-17\n\nNext version due: Aug-18",
+      "modified" : "2017-08",
       "identifier" : "HSCIC-Indicator-Portal-P01779",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01779&mode=documentation&top=yes",
@@ -2657,8 +2657,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Access to GP services (NHSOF 4.4.i)",
-      "description" : "This indicator measures the weighted percentage of people who report their experience of making a GP appointment as \u2018fairly good\u2019 or \u2018very good\u2019.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of accessing GP services.\n\nCurrent version updated: Sep-16\n\nNext version due: Aug-17",
-      "modified" : "2016-09",
+      "description" : "This indicator measures the weighted percentage of people who report their experience of making a GP appointment as \u2018fairly good\u2019 or \u2018very good\u2019.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of accessing GP services.\n\nCurrent version updated: Sep-17\n\nNext version due: Aug-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01781",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01781&mode=documentation&top=yes",
@@ -2725,8 +2725,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Access to NHS dental services (NHSOF 4.4.ii)",
-      "description" : "This indicator measures the weighted percentage of people who reported that they were successful in getting an NHS dental appointment when they tried in the last two years.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of accessing NHS dental services.\n\nCurrent version updated: Sep-16\n\nNext version due: Aug-17",
-      "modified" : "2016-09",
+      "description" : "This indicator measures the weighted percentage of people who reported that they were successful in getting an NHS dental appointment when they tried in the last two years.\n\nPurpose\n\nThis indicator aims to capture the experience of patients of accessing NHS dental services.\n\nCurrent version updated: Sep-17\n\nNext version due: Aug-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01782",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01782&mode=documentation&top=yes",
@@ -3065,8 +3065,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Incidence of healthcare-associated infection - MRSA (NHSOF 5.2.i)",
-      "description" : "The number of Meticillin-resistant Staphylococcus aureus (MRSA) bloodstream infections reported to Public Health England (PHE).\n\nPurpose\n\nThis indicator aims to measure the progress in reducing the incidence of avoidable harm, specifically healthcare-associated MRSA infections.\n\nCurrent version updated: Aug-16\n\nNext version due: Aug-17",
-      "modified" : "2016-08",
+      "description" : "The number of Meticillin-resistant Staphylococcus aureus (MRSA) bloodstream infections reported to Public Health England (PHE).\n\nPurpose\n\nThis indicator aims to measure the progress in reducing the incidence of avoidable harm, specifically healthcare-associated MRSA infections.\n\nCurrent version updated: Aug-17\n\nNext version due: Aug-18",
+      "modified" : "2017-08",
       "identifier" : "HSCIC-Indicator-Portal-P01791",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01791&mode=documentation&top=yes",
@@ -3133,8 +3133,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Incidence of healthcare-associated infection - C. difficile (NHSOF 5.2.ii)",
-      "description" : "The number of Clostridium difficile infections reported to Public Health England (PHE), in patients aged two years or older.\n\nPurpose\n\nThis indicator aims to measure the progress in reducing the incidence of avoidable harm, specifically healthcare-associated C. difficile infections.\n\nCurrent version updated: Aug-16\n\nNext version due: Aug-17",
-      "modified" : "2016-08",
+      "description" : "The number of Clostridium difficile infections reported to Public Health England (PHE), in patients aged two years or older.\n\nPurpose\n\nThis indicator aims to measure the progress in reducing the incidence of avoidable harm, specifically healthcare-associated C. difficile infections.\n\nCurrent version updated: Aug-17\n\nNext version due: Aug-18",
+      "modified" : "2017-08",
       "identifier" : "HSCIC-Indicator-Portal-P01792",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01792&mode=documentation&top=yes",
@@ -3534,4 +3534,5 @@
                   
 
                   ]
-    }  ]
+    }
+  ]
