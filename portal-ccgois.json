@@ -9,7 +9,7 @@
       "modified" : "2015-09",
       "identifier" : "HSCIC-Indicator-Portal-P01800",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01800&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01800&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "amenable"
                   ,"death"
@@ -77,7 +77,7 @@
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01801",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01801&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01801&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "cardiovascular"
                   ,"circulatory system diseases"
@@ -145,7 +145,7 @@
       "modified" : "2016-12",
       "identifier" : "HSCIC-Indicator-Portal-P01802",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01802&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01802&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "CABG"
                   ,"cardiac"
@@ -213,7 +213,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01803",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01803&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01803&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "kidney disease"
                   ,"myocardial infarction"
@@ -281,7 +281,7 @@
       "modified" : "2017-03",
       "identifier" : "HSCIC-Indicator-Portal-P01804",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01804&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01804&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "death"
                   ,"deaths"
@@ -349,7 +349,7 @@
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01805",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01805&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01805&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "death"
                   ,"deaths"
@@ -417,7 +417,7 @@
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01806",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01806&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01806&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "death"
                   ,"deaths"
@@ -485,7 +485,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01807",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01807&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01807&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "acute condition"
                   ,"admissions"
@@ -553,7 +553,7 @@
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01808",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01808&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01808&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "cancer"
                   ,"death"
@@ -621,7 +621,7 @@
       "modified" : "2017-03",
       "identifier" : "HSCIC-Indicator-Portal-P01809",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01809&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01809&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "cancer"
                   ,"death"
@@ -689,7 +689,7 @@
       "modified" : "2014-06",
       "identifier" : "HSCIC-Indicator-Portal-P01810",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01810&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01810&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "bowel cancer"
                   ,"breast cancer"
@@ -757,7 +757,7 @@
       "modified" : "2016-03",
       "identifier" : "HSCIC-Indicator-Portal-P01811",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01811&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01811&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "general practitioner"
                   ,"GP"
@@ -825,7 +825,7 @@
       "modified" : "2015-12",
       "identifier" : "HSCIC-Indicator-Portal-P01812",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01812&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01812&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "antenatal"
                   ,"ante-natal"
@@ -893,7 +893,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01813",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01813&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01813&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "delivery"
                   ,"smoking"
@@ -961,7 +961,7 @@
       "modified" : "2015-12",
       "identifier" : "HSCIC-Indicator-Portal-P01814",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01814&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01814&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "breast fed"
                   ,"breast feeding"
@@ -1029,7 +1029,7 @@
       "modified" : "2017-06",
       "identifier" : "HSCIC-Indicator-Portal-P01816",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01816&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01816&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "cancer"
                   ,"cancer diagnosis"
@@ -1097,7 +1097,7 @@
       "modified" : "2017-06",
       "identifier" : "HSCIC-Indicator-Portal-P01817",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01817&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01817&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "cancer"
                   ,"cancer diagnosis"
@@ -1165,7 +1165,7 @@
       "modified" : "2017-06",
       "identifier" : "HSCIC-Indicator-Portal-P01818",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01818&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01818&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "lung cancer"
                   ,"stage"
@@ -1233,7 +1233,7 @@
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01819",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01819&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01819&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "breast cancer"
                   ,"death"
@@ -1301,7 +1301,7 @@
       "modified" : "2017-03",
       "identifier" : "HSCIC-Indicator-Portal-P01820",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01820&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01820&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "admission"
                   ,"death"
@@ -1369,7 +1369,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01821",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01821&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01821&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "admissions"
                   ,"episodes"
@@ -1437,7 +1437,7 @@
       "modified" : "2016-03",
       "identifier" : "HSCIC-Indicator-Portal-P01822",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01822&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01822&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "general practitioner"
                   ,"GP"
@@ -1505,7 +1505,7 @@
       "modified" : "2016-12",
       "identifier" : "HSCIC-Indicator-Portal-P01823",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01823&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01823&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "CABG"
                   ,"cardiac"
@@ -1573,7 +1573,7 @@
       "modified" : "2017-06",
       "identifier" : "HSCIC-Indicator-Portal-P01824",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01824&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01824&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "neonatal"
                   ,"neonatal deaths"
@@ -1641,7 +1641,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01827",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01827&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01827&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "health-related quality"
                   ,"health-related quality of life"
@@ -1709,7 +1709,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01828",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01828&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01828&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "long term condition"
                   ,"long-term"
@@ -1777,7 +1777,7 @@
       "modified" : "2016-03",
       "identifier" : "HSCIC-Indicator-Portal-P01829",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01829&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01829&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "COPD"
                   ,"Dyspnoea"
@@ -1845,7 +1845,7 @@
       "modified" : "2017-03",
       "identifier" : "HSCIC-Indicator-Portal-P01830",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01830&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01830&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "care"
                   ,"care processes"
@@ -1913,7 +1913,7 @@
       "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01831",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01831&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01831&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "diabetes"
                   ,"education"
@@ -1981,7 +1981,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01832",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01832&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01832&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "admissions"
                   ,"hospital admissions"
@@ -2049,7 +2049,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01833",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01833&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01833&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "admissions"
                   ,"hospital admissions"
@@ -2117,7 +2117,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01834",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01834&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01834&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "amputation"
                   ,"diabetes"
@@ -2185,7 +2185,7 @@
       "modified" : "2015-09",
       "identifier" : "HSCIC-Indicator-Portal-P01835",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01835&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01835&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "BME"
                   ,"community mental health"
@@ -2253,7 +2253,7 @@
       "modified" : "2016-12",
       "identifier" : "HSCIC-Indicator-Portal-P01836",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01836&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01836&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "black and minority ethnic"
                   ,"BME"
@@ -2321,7 +2321,7 @@
       "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01837",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01837&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01837&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "change"
                   ,"IAPT"
@@ -2389,7 +2389,7 @@
       "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01838",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01838&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01838&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "change"
                   ,"IAPT"
@@ -2457,7 +2457,7 @@
       "modified" : "TBC",
       "identifier" : "HSCIC-Indicator-Portal-P01839",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01839&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01839&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "change"
                   ,"deterioration"
@@ -2525,7 +2525,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01842",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01842&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01842&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "health-related quality"
                   ,"health-related quality of life"
@@ -2593,7 +2593,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01843",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01843&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01843&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "health-related quality"
                   ,"health-related quality of life"
@@ -2661,7 +2661,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01844",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01844&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01844&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "acute condition"
                   ,"admissions"
@@ -2729,7 +2729,7 @@
       "modified" : "2014-03",
       "identifier" : "HSCIC-Indicator-Portal-P01845",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01845&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01845&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "acute condition"
                   ,"admissions"
@@ -2797,7 +2797,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01846",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01846&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01846&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "groin hernia"
                   ,"hip replacement"
@@ -2865,7 +2865,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01850",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01850&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01850&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "acute condition"
                   ,"admissions"
@@ -2933,7 +2933,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01851",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01851&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01851&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "acute stroke"
                   ,"stroke"
@@ -3001,7 +3001,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01852",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01852&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01852&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "acute stroke"
                   ,"stroke"
@@ -3069,7 +3069,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01853",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01853&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01853&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "acute stroke"
                   ,"care plan"
@@ -3137,7 +3137,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01854",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01854&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01854&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "acute stroke"
                   ,"follow-up"
@@ -3205,7 +3205,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01855",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01855&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01855&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "acute stroke"
                   ,"stroke"
@@ -3273,7 +3273,7 @@
       "modified" : "2016-12",
       "identifier" : "HSCIC-Indicator-Portal-P01856",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01856&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01856&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "hip fracture"
                   ,"hip-fracture"
@@ -3341,7 +3341,7 @@
       "modified" : "2016-12",
       "identifier" : "HSCIC-Indicator-Portal-P01857",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01857&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01857&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "hip fracture"
                   ,"hip-fracture"
@@ -3409,7 +3409,7 @@
       "modified" : "2016-12",
       "identifier" : "HSCIC-Indicator-Portal-P01858",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01858&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01858&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "hip fracture"
                   ,"hip-fracture"
@@ -3477,7 +3477,7 @@
       "modified" : "2016-12",
       "identifier" : "HSCIC-Indicator-Portal-P01859",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01859&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01859&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "hip fracture"
                   ,"hip-fracture"
@@ -3545,7 +3545,7 @@
       "modified" : "2016-12",
       "identifier" : "HSCIC-Indicator-Portal-P01860",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01860&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01860&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "assessment"
                   ,"hip fracture"
@@ -3613,7 +3613,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01861",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01861&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01861&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "admissions"
                   ,"alcohol"
@@ -3681,7 +3681,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01862",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01862&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01862&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "alcohol"
                   ,"alcohol-specific"
@@ -3749,7 +3749,7 @@
       "modified" : "2016-03",
       "identifier" : "HSCIC-Indicator-Portal-P01863",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01863&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01863&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "admissions"
                   ,"hospital admissions"
@@ -3817,7 +3817,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01864",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01864&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01864&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "employment"
                   ,"mental health"
@@ -3885,7 +3885,7 @@
       "modified" : "2015-09",
       "identifier" : "HSCIC-Indicator-Portal-P01866",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01866&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01866&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "general practice"
                   ,"GP"
@@ -3953,7 +3953,7 @@
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01867",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01867&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01867&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "inpatients"
                   ,"patient experience"
@@ -4021,7 +4021,7 @@
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01870",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01870&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01870&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "inpatients"
                   ,"patient experience"
@@ -4089,7 +4089,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01875",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01875&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01875&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "incidents"
                   ,"patient safety"
@@ -4157,7 +4157,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01877",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01877&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01877&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "infection"
                   ,"Methicillin"
@@ -4225,7 +4225,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01878",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01878&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01878&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "C. difficile"
                   ,"Clostridium difficile"
@@ -4293,7 +4293,7 @@
       "modified" : "2017-06",
       "identifier" : "HSCIC-Indicator-Portal-P02170",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP02170&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP02170&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "babies"
                   ,"birth"
@@ -4361,7 +4361,7 @@
       "modified" : "2016-12",
       "identifier" : "HSCIC-Indicator-Portal-P02171",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP02171&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP02171&mode=documentation&top=yes",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "best practice"
                   ,"best practice tariff"
