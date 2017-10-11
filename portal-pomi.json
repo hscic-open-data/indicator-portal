@@ -9,7 +9,7 @@
       "modified" : "2017-06",
       "identifier" : "HSCIC-Indicator-Portal-P02154",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP02154&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP02154&mode=documentation&top=yes",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "Book Appointments"
                   ,"Cancel Appointments"
@@ -73,7 +73,7 @@
       "modified" : "2017-06",
       "identifier" : "HSCIC-Indicator-Portal-P02155",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP02155&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP02155&mode=documentation&top=yes",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "GP Prescription"
                   ,"GP System Functionality"
@@ -137,7 +137,7 @@
       "modified" : "2016-04",
       "identifier" : "HSCIC-Indicator-Portal-P02156",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP02156&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP02156&mode=documentation&top=yes",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "GP Letters"
                   ,"Information Technology"
@@ -201,7 +201,7 @@
       "modified" : "2016-04",
       "identifier" : "HSCIC-Indicator-Portal-P02157",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP02157&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP02157&mode=documentation&top=yes",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "GP System Functionality"
                   ,"GP Test Results"
@@ -265,7 +265,7 @@
       "modified" : "2017-06",
       "identifier" : "HSCIC-Indicator-Portal-P02172",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP02172&mode=documentation&top=yes",
+      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP02172&mode=documentation&top=yes",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "Coded Records"
                   ,"Detailed Coded Records"
