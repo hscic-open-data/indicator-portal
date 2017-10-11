@@ -1,4 +1,4 @@
- [
+[
    {  
       "publisher": {
             "name": "Health and Social Care Information Centre",
@@ -73,7 +73,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Under 75 mortality from cardiovascular disease (CCGOIS 1.2)",
-      "description" : "Directly age and sex standardised mortality rate from cardiovascular disease for people aged under 75 in the respective calendar year per 100,000 registered patients.\n\nCurrent version updated: Sep-16\n\nNext version due: Sep-17",
+      "description" : "Directly age and sex standardised mortality rate from cardiovascular disease for people aged under 75 in the respective calendar year per 100,000 registered patients.\n\nCurrent version updated: Sep-16\n\nNext version due: Dec-17",
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01801",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -149,11 +149,11 @@
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "CABG"
                   ,"cardiac"
+                  ,"completion"
                   ,"coronary artery bypass graft"
                   ,"coronary heart disease"
                   ,"heart failure"
                   ,"NACR"
-                  ,"ompletion"
                   ,"PCI"
                   ,"percutaneous coronary intervention"
                   ,"rehabilitation"
@@ -209,8 +209,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Myocardial infarction, stroke and stage 5 chronic kidney disease in people with diabetes (CCGOIS 1.4)",
-      "description" : "Indirectly age and sex standardised ratio for myocardial infarction, stroke and stage 5 chronic kidney disease in people with diabetes.\n\nCurrent version updated: Mar-15\n\nNext version due: Sep-17",
-      "modified" : "2015-03",
+      "description" : "Indirectly age and sex standardised ratio for myocardial infarction, stroke and stage 5 chronic kidney disease in people with diabetes.\n\nCurrent version updated: Sep-17\n\nNext version due: Sep-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01803",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01803&mode=documentation&top=yes",
@@ -345,7 +345,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Under 75 mortality from respiratory disease (CCGOIS 1.6)",
-      "description" : "Directly age and sex standardised mortality rate from respiratory disease for people aged under 75 in the respective calendar year per 100,000 registered patients.\n\nCurrent version updated: Sep-16\n\nNext version due: Sep-17",
+      "description" : "Directly age and sex standardised mortality rate from respiratory disease for people aged under 75 in the respective calendar year per 100,000 registered patients.\n\nCurrent version updated: Sep-16\n\nNext version due: Dec-17",
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01805",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -413,7 +413,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Under 75 mortality from liver disease (CCGOIS 1.7)",
-      "description" : "Directly age and sex standardised mortality rate from liver disease for people aged under 75 in the respective calendar year per 100,000 registered patients.\n\nCurrent version updated: Sep-16\n\nNext version due: Sep-17",
+      "description" : "Directly age and sex standardised mortality rate from liver disease for people aged under 75 in the respective calendar year per 100,000 registered patients.\n\nCurrent version updated: Sep-16\n\nNext version due: Dec-17",
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01806",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -481,8 +481,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Emergency admissions for alcohol related liver disease (CCGOIS 1.8)",
-      "description" : "Directly age and sex standardised rate of emergency admissions for alcohol related liver disease in adults aged 19 years and older, per 100,000 registered patients, 95% confidence intervals.\n\nCurrent version updated: Jun-17\n\nNext version due: Sep-17",
-      "modified" : "2017-06",
+      "description" : "Directly age and sex standardised rate of emergency admissions for alcohol related liver disease in adults aged 19 years and older, per 100,000 registered patients, 95% confidence intervals.\n\nCurrent version updated: Sep-17\n\nNext version due: Dec-17",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01807",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01807&mode=documentation&top=yes",
@@ -549,7 +549,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Under 75 mortality from cancer (CCGOIS 1.9)",
-      "description" : "Directly age and sex standardised mortality rate from cancer for people aged under 75 in the respective calendar year per 100,000 registered patients.\n\nCurrent version updated: Sep-16\n\nNext version due: Sep-17",
+      "description" : "Directly age and sex standardised mortality rate from cancer for people aged under 75 in the respective calendar year per 100,000 registered patients.\n\nCurrent version updated: Sep-16\n\nNext version due: Dec-17",
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01808",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -889,8 +889,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Maternal smoking at delivery (CCGOIS 1.14)",
-      "description" : "The percentage of women who were smokers at the time of delivery, out of the number of maternities, 95% confidence intervals.\n\nCurrent version updated: Jun-17\n\nNext version due: Sep-17",
-      "modified" : "2017-06",
+      "description" : "The percentage of women who were smokers at the time of delivery, out of the number of maternities, 95% confidence intervals.\n\nCurrent version updated: Sep-17\n\nNext version due: Dec-17",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01813",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01813&mode=documentation&top=yes",
@@ -1229,7 +1229,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Mortality from breast cancer in females (CCGOIS 1.20)",
-      "description" : "Directly age standardised mortality rate from breast cancer for females in the respective time period per 100,000 registered female patients.\n\nThe following indicator includes a change of methodology for the pooled years directly standardised rate.\n\nFull details of these changes can be found here: http://www.hscic.gov.uk/pubs/methchanges\n\nCurrent version updated: Sep-16\n\nNext version due: Sep-17",
+      "description" : "Directly age standardised mortality rate from breast cancer for females in the respective time period per 100,000 registered female patients.\n\nThe following indicator includes a change of methodology for the pooled years directly standardised rate.\n\nFull details of these changes can be found here: http://www.hscic.gov.uk/pubs/methchanges\n\nCurrent version updated: Sep-16\n\nNext version due: Dec-17",
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01819",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -1365,8 +1365,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Hip fracture: incidence (CCGOIS 1.22)",
-      "description" : "Directly age and sex standardised emergency admission rate for hip fracture in those aged 60 years and over, per 100,000 registered patients, 95% confidence intervals.\n\nCurrent version updated: Jun-17\n\nNext version due: Sep-17",
-      "modified" : "2017-06",
+      "description" : "Directly age and sex standardised emergency admission rate for hip fracture in those aged 60 years and over, per 100,000 registered patients, 95% confidence intervals.\n\nCurrent version updated: Sep-17\n\nNext version due: Dec-17",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01821",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01821&mode=documentation&top=yes",
@@ -1637,8 +1637,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Health-related quality of life for people with long-term conditions (CCGOIS 2.1)",
-      "description" : "Average adjusted health status (EQ-5D™) score for individuals reporting that they have a long-term condition, based on responses to a question from the GP Patient Survey.\n\nCurrent version updated: Sep-16\n\nNext version due: Sep-17",
-      "modified" : "2016-09",
+      "description" : "Average adjusted health status (EQ-5D™) score for individuals reporting that they have a long-term condition, based on responses to a question from the GP Patient Survey.\n\nCurrent version updated: Sep-17\n\nNext version due: Sep-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01827",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01827&mode=documentation&top=yes",
@@ -1705,8 +1705,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Proportion of people who are feeling supported to manage their condition (CCGOIS 2.2)",
-      "description" : "Proportion of people feeling supported to manage their long-term conditions, based on responses to one question from the GP Patient Survey.\n\nCurrent version updated: Sep-16\n\nNext version due: Sep-17",
-      "modified" : "2016-09",
+      "description" : "Proportion of people feeling supported to manage their long-term conditions, based on responses to one question from the GP Patient Survey.\n\nCurrent version updated: Sep-17\n\nNext version due: Sep-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01828",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01828&mode=documentation&top=yes",
@@ -1977,8 +1977,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Unplanned hospitalisation for chronic ambulatory care sensitive conditions (CCGOIS 2.6)",
-      "description" : "Directly age and sex standardised admission rate for unplanned hospitalisation for chronic ambulatory care sensitive conditions per 100,000 registered patients, 95% confidence intervals (CI)\n\nCurrent version updated: Jun-17\n\nNext version due: Sep-17",
-      "modified" : "2017-06",
+      "description" : "Directly age and sex standardised admission rate for unplanned hospitalisation for chronic ambulatory care sensitive conditions per 100,000 registered patients, 95% confidence intervals (CI)\n\nCurrent version updated: Sep-17\n\nNext version due: Dec-17",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01832",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01832&mode=documentation&top=yes",
@@ -2045,8 +2045,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Unplanned hospitalisation for asthma, diabetes and epilepsy in under 19s (CCGOIS 2.7)",
-      "description" : "Directly age and sex standardised admission rate for unplanned hospitalisation for asthma, diabetes and epilepsy in under 19s per 100,000 registered patients, 95% confidence intervals (CI)\n\nCurrent version updated: Jun-17\n\nNext version due: Sep-17",
-      "modified" : "2017-06",
+      "description" : "Directly age and sex standardised admission rate for unplanned hospitalisation for asthma, diabetes and epilepsy in under 19s per 100,000 registered patients, 95% confidence intervals (CI)\n\nCurrent version updated: Sep-17\n\nNext version due: Dec-17",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01833",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01833&mode=documentation&top=yes",
@@ -2113,8 +2113,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Complications associated with diabetes (CCGOIS 2.8)",
-      "description" : "Indirectly age and sex standardised ratio of complications associated with diabetes including emergency admissions for diabetic ketoacidosis and lower limb amputation, in people with diabetes.\n\nCurrent version updated: Mar-15\n\nNext version due: Sep-17",
-      "modified" : "2015-03",
+      "description" : "Indirectly age and sex standardised ratio of complications associated with diabetes including emergency admissions for diabetic ketoacidosis and lower limb amputation, in people with diabetes.\n\nCurrent version updated: Sep-17\n\nNext version due: Sep-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01834",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01834&mode=documentation&top=yes",
@@ -2181,7 +2181,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Access to community mental health services by people from Black and Minority Ethnic (BME) groups (CCGOIS 2.9)",
-      "description" : "Access to community mental health services by BME groups, crude rates per 100,000 population.\n\nCurrent version updated: Sep-15\n\nNext version due: TBC",
+      "description" : "Access to community mental health services by BME groups, crude rates per 100,000 population.\n\nCurrent version updated: Sep-15\n\nNext version due: Sep-17",
       "modified" : "2015-09",
       "identifier" : "HSCIC-Indicator-Portal-P01835",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -2249,7 +2249,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Access to psychological therapies services by people from black and minority ethnic (BME) groups (CCGOIS 2.10)",
-      "description" : "Access to psychological therapies services by people from BME groups, crude rates per 100,000 population\n\nCurrent version updated: Dec-16\n\nNext version due: TBC",
+      "description" : "Access to psychological therapies services by people from BME groups, crude rates per 100,000 population\n\nCurrent version updated: Dec-16\n\nNext version due: Dec-17",
       "modified" : "2016-12",
       "identifier" : "HSCIC-Indicator-Portal-P01836",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -2521,8 +2521,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Health-related quality of life for carers, aged 18 and above (CCGOIS 2.15)",
-      "description" : "Average adjusted health status (EQ-5D™) score for individuals reporting that they are carers, aged 18 and above, based on responses to a question from the GP Patient Survey.\n\nCurrent version updated: Sep-16\n\nNext version due: Sep-17",
-      "modified" : "2016-09",
+      "description" : "Average adjusted health status (EQ-5D™) score for individuals reporting that they are carers, aged 18 and above, based on responses to a question from the GP Patient Survey.\n\nCurrent version updated: Sep-17\n\nNext version due: Sep-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01842",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01842&mode=documentation&top=yes",
@@ -2589,8 +2589,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Health-related quality of life for people with a long-term mental health condition (CCGOIS 2.16)",
-      "description" : "Average adjusted health status (EQ-5D™) score for individuals reporting that they have a long-term mental health condition, based on responses to a question from the GP Patient Survey.\n\nCurrent version updated: Sep-16\n\nNext version due: Sep-17",
-      "modified" : "2016-09",
+      "description" : "Average adjusted health status (EQ-5D™) score for individuals reporting that they have a long-term mental health condition, based on responses to a question from the GP Patient Survey.\n\nCurrent version updated: Sep-17\n\nNext version due: Sep-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01843",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01843&mode=documentation&top=yes",
@@ -2657,8 +2657,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Emergency admissions for acute conditions that should not usually require hospital admission (CCGOIS 3.1)",
-      "description" : "Directly age and sex standardised admission rate for emergency admissions for acute conditions that should not usually require hospital admission per 100,000 registered patients, 95% confidence intervals (CI).\n\nCurrent version updated: Jun-17\n\nNext version due: Sep-17",
-      "modified" : "2017-06",
+      "description" : "Directly age and sex standardised admission rate for emergency admissions for acute conditions that should not usually require hospital admission per 100,000 registered patients, 95% confidence intervals (CI).\n\nCurrent version updated: Sep-17\n\nNext version due: Dec-17",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01844",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01844&mode=documentation&top=yes",
@@ -2793,8 +2793,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Patient reported outcome measures (PROMs) for elective procedures (CCGOIS 3.3)",
-      "description" : "Patients' reported improvement in health status following elective procedures, currently covering groin hernia, hip replacement, knee replacement and varicose veins. The PROMs indicator is reported separately for the four conditions.\n\nAs of September 2015 the data file now includes both primary and revision figures for hip and knee replacements from 2012/13 onwards. The ordering of the columns has also been updated, in order to be consistent with other indicators, this will affect those automatically linking to data in the CSV file.\n\nCurrent version updated: Sep-16\n\nNext version due: Sep-17",
-      "modified" : "2016-09",
+      "description" : "Patients' reported improvement in health status following elective procedures, currently covering groin hernia, hip replacement, knee replacement and varicose veins. The PROMs indicator is reported separately for the four conditions.\n\nAs of September 2015 the data file now includes both primary and revision figures for hip and knee replacements from 2012/13 onwards. The ordering of the columns has also been updated, in order to be consistent with other indicators, this will affect those automatically linking to data in the CSV file.\n\nCurrent version updated: Sep-17\n\nNext version due: Sep-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01846",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01846&mode=documentation&top=yes",
@@ -2861,8 +2861,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Emergency admissions for children with lower respiratory tract infections (CCGOIS 3.4)",
-      "description" : "Directly age and sex standardised admission rate for emergency admissions for children aged 18 years and under with lower respiratory tract infections per 100,000 registered patients, 95% confidence intervals (CI).\n\nCurrent version updated: Jun-17\n\nNext version due: Sep-17",
-      "modified" : "2017-06",
+      "description" : "Directly age and sex standardised admission rate for emergency admissions for children aged 18 years and under with lower respiratory tract infections per 100,000 registered patients, 95% confidence intervals (CI).\n\nCurrent version updated: Sep-17\n\nNext version due: Dec-17",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01850",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01850&mode=documentation&top=yes",
@@ -2929,8 +2929,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "People who have had a stroke who are admitted to an acute stroke unit within 4 hours of arrival to hospital (CCGOIS 3.5)",
-      "description" : "Percentage of people with stroke admitted to an acute stroke unit within 4 hours of arrival to hospital.\n\nCurrent version updated: Sep-16\n\nNext version due: Sep-17",
-      "modified" : "2016-09",
+      "description" : "Percentage of people with stroke admitted to an acute stroke unit within 4 hours of arrival to hospital.\n\nCurrent version updated: Sep-17\n\nNext version due: Sep-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01851",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01851&mode=documentation&top=yes",
@@ -2997,8 +2997,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "People who have had an acute stroke who receive thrombolysis (CCGOIS 3.6)",
-      "description" : "The percentage of people who have had an acute stroke that receive thrombolysis.\n\nCurrent version updated: Sep-16\n\nNext version due: Sep-17",
-      "modified" : "2016-09",
+      "description" : "The percentage of people who have had an acute stroke that receive thrombolysis.\n\nCurrent version updated: Sep-17\n\nNext version due: Sep-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01852",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01852&mode=documentation&top=yes",
@@ -3065,8 +3065,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "People with stroke who are discharged from hospital with a joint health and social care plan (CCGOIS 3.7)",
-      "description" : "The percentage of people with stroke discharged from hospital with a joint health and social care plan.\n\nCurrent version updated: Sep-16\n\nNext version due: Sep-17",
-      "modified" : "2016-09",
+      "description" : "The percentage of people with stroke discharged from hospital with a joint health and social care plan.\n\nCurrent version updated: Sep-17\n\nNext version due: Sep-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01853",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01853&mode=documentation&top=yes",
@@ -3133,8 +3133,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "People who have a follow-up assessment between 4 and 8 months after initial admission for stroke (CCGOIS 3.8)",
-      "description" : "The percentage of people who have a follow-up assessment between 4 and 8 months after initial admission for stroke.\n\nCurrent version updated: Sep-16\n\nNext version due: Sep-17",
-      "modified" : "2016-09",
+      "description" : "The percentage of people who have a follow-up assessment between 4 and 8 months after initial admission for stroke.\n\nCurrent version updated: Sep-17\n\nNext version due: Sep-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01854",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01854&mode=documentation&top=yes",
@@ -3201,8 +3201,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "People who have had an acute stroke who spend 90% or more of their stay on a stroke unit (CCGOIS 3.9)",
-      "description" : "Of the people who have had an acute stroke, the percentage that spend 90% or more of their hospital inpatient stay on a stroke unit.\n\nCurrent version updated: Sep-16\n\nNext version due: Sep-17",
-      "modified" : "2016-09",
+      "description" : "Of the people who have had an acute stroke, the percentage that spend 90% or more of their hospital inpatient stay on a stroke unit.\n\nCurrent version updated: Sep-17\n\nNext version due: Sep-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01855",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01855&mode=documentation&top=yes",
@@ -3609,8 +3609,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Alcohol-specific hospital admissions (CCGOIS 3.14)",
-      "description" : "Directly age and sex standardised admission rate for alcohol-specific conditions per 100,000 registered patients, 95% confidence intervals.\n\nCurrent version updated: Jun-17\n\nNext version due: Sep-17",
-      "modified" : "2017-06",
+      "description" : "Directly age and sex standardised admission rate for alcohol-specific conditions per 100,000 registered patients, 95% confidence intervals.\n\nCurrent version updated: Sep-17\n\nNext version due: Dec-17",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01861",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01861&mode=documentation&top=yes",
@@ -3677,8 +3677,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Emergency alcohol-specific readmission to any hospital within 30 days of discharge following an alcohol-specific admission (CCGOIS 3.15)",
-      "description" : "Indirectly age and sex standardised ratio of emergency readmissions with a primary diagnosis or an external cause code of an alcohol-specific condition within 30 days of a previous discharge following an alcohol-specific admission, with 95% confidence intervals (CI).\n\nCurrent version updated: Jun-17\n\nNext version due: Sep-17",
-      "modified" : "2017-06",
+      "description" : "Indirectly age and sex standardised ratio of emergency readmissions with a primary diagnosis or an external cause code of an alcohol-specific condition within 30 days of a previous discharge following an alcohol-specific admission, with 95% confidence intervals (CI).\n\nCurrent version updated: Sep-17\n\nNext version due: Dec-17",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01862",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01862&mode=documentation&top=yes",
@@ -3745,7 +3745,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Unplanned readmissions to mental health services within 30 days of a mental health inpatient discharge in people aged 17 and over (CCGOIS 3.16)",
-      "description" : "Indirectly age and sex standardised ratio of unplanned readmissions to a mental health service within 30 days of a discharge from a mental health inpatient service in people aged 17 and over.\n\nCurrent version updated: Mar-16\n\nNext version due: Sep-17",
+      "description" : "Indirectly age and sex standardised ratio of unplanned readmissions to a mental health service within 30 days of a discharge from a mental health inpatient service in people aged 17 and over.\n\nCurrent version updated: Mar-16\n\nNext version due: TBC",
       "modified" : "2016-03",
       "identifier" : "HSCIC-Indicator-Portal-P01863",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -3813,8 +3813,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Percentage of adults in contact with secondary mental health services in employment (CCGOIS 3.17)",
-      "description" : "Proportion of adults receiving NHS funded community mental health, learning disabilities or autism services who are in employment, expressed as a percentage, 95% confidence intervals (CI).\n\nCurrent version updated: Jun-17\n\nNext version due: Sep-17",
-      "modified" : "2017-06",
+      "description" : "Proportion of adults receiving NHS funded community mental health, learning disabilities or autism services who are in employment, expressed as a percentage, 95% confidence intervals (CI).\n\nCurrent version updated: Sep-17\n\nNext version due: Dec-17",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01864",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01864&mode=documentation&top=yes",
@@ -3949,7 +3949,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Patient experience of hospital care (CCGOIS 4.2)",
-      "description" : "Patient experience of hospital care measured by scoring the results of a selection of questions from the National Inpatient Survey looking at a range of elements of hospital care.\n\nCurrent version updated: Sep-16\n\nNext version due: Sep-17",
+      "description" : "Patient experience of hospital care measured by scoring the results of a selection of questions from the National Inpatient Survey looking at a range of elements of hospital care.\n\nCurrent version updated: Sep-16\n\nNext version due: Dec-17",
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01867",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -4017,7 +4017,7 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Responsiveness to Inpatients' personal needs (CCGOIS 4.5)",
-      "description" : "Patient experience measured by scoring the results of a selection of questions from the National Inpatient Survey focussing on the responsiveness to personal needs.\n\nCurrent version updated: Sep-16\n\nNext version due: Sep-17",
+      "description" : "Patient experience measured by scoring the results of a selection of questions from the National Inpatient Survey focussing on the responsiveness to personal needs.\n\nCurrent version updated: Sep-16\n\nNext version due: Dec-17",
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01870",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
@@ -4085,8 +4085,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Patient safety incidents (CCGOIS 5.1)",
-      "description" : "For each of a CCG\u2019s five main providers, this indicator shows the rate of Patient Safety incidents per 1,000 total provider bed days.\n\nCurrent version updated: Mar-17\n\nNext version due: Sep-17",
-      "modified" : "2017-03",
+      "description" : "For each of a CCG\u2019s five main providers, this indicator shows the rate of Patient Safety incidents per 1,000 total provider bed days.\n\nCurrent version updated: Sep-17\n\nNext version due: Mar-18",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01875",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01875&mode=documentation&top=yes",
@@ -4153,8 +4153,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Incidence of Healthcare Associated Infection (HCAI) \u2013 Meticillin-resistant Staphylococcus aureus (MRSA) (CCGOIS 5.3)",
-      "description" : "The number of MRSA bloodstream infections reported per CCG.\n\nCurrent version updated: Jun-17\n\nNext version due: Sep-17",
-      "modified" : "2017-06",
+      "description" : "The number of MRSA bloodstream infections reported per CCG.\n\nCurrent version updated: Sep-17\n\nNext version due: Dec-17",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01877",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01877&mode=documentation&top=yes",
@@ -4221,8 +4221,8 @@
             "mbox": "enquiries@hscic.gov.uk"
       },
       "title" : "Incidence of Healthcare Associated Infection (HCAI) \u2013 C. difficile (CCGOIS 5.4)",
-      "description" : "The number of C. difficile infections reported, in people aged two and over, per CCG.\n\nCurrent version updated: Jun-17\n\nNext version due: Sep-17",
-      "modified" : "2017-06",
+      "description" : "The number of C. difficile infections reported, in people aged two and over, per CCG.\n\nCurrent version updated: Sep-17\n\nNext version due: Dec-17",
+      "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01878",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=https%3A%2F%2F192.168.228.51%3A443%2Fobj%2FfStudy%2FP01878&mode=documentation&top=yes",
