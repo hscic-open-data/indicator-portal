@@ -9,7 +9,7 @@
       "modified" : "2016-02",
       "identifier" : "HSCIC-Indicator-Portal-P01726",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01726&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "amenable"
                   ,"death"
@@ -35,11 +35,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1a.i_I01954_D.xls",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xls)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1a.i_I01954_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -51,11 +51,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1a.i_I01954_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -77,7 +77,7 @@
       "modified" : "2015-11",
       "identifier" : "HSCIC-Indicator-Portal-P01727",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01727&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "amenable"
                   ,"death"
@@ -103,11 +103,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1a.ii_I00807_D.xls",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xls)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1a.ii_I00807_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -119,11 +119,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1a.ii_I00807_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -145,7 +145,7 @@
       "modified" : "2017-05",
       "identifier" : "HSCIC-Indicator-Portal-P01728",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01728&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "death"
                   ,"deaths"
@@ -171,11 +171,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1b_I00655_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1b_I00655_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -187,11 +187,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1b_I00655_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -213,7 +213,7 @@
       "modified" : "2017-05",
       "identifier" : "HSCIC-Indicator-Portal-P01729",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01729&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "child health"
                   ,"death"
@@ -239,11 +239,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1c_I00667_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1c_I00667_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -255,11 +255,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1c_I00667_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -281,7 +281,7 @@
       "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01730",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01730&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "circulatory system diseases"
                   ,"death"
@@ -307,11 +307,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.1_I00656_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.1_I00656_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -323,11 +323,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.1_I00656_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -349,7 +349,7 @@
       "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01731",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01731&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "death"
                   ,"deaths"
@@ -375,11 +375,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.2_I00657_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.2_I00657_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -391,11 +391,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.2_I00657_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -417,7 +417,7 @@
       "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01732",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01732&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "death"
                   ,"deaths"
@@ -443,11 +443,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.3_I00658_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.3_I00658_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -459,11 +459,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.3_I00658_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -485,7 +485,7 @@
       "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01733",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01733&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "cancer"
                   ,"death"
@@ -511,11 +511,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.4_I00730_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.4_I00730_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -527,11 +527,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.4_I00730_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -553,7 +553,7 @@
       "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01734",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01734&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "cancer"
                   ,"death"
@@ -579,11 +579,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.4.i_I01995_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.4.i_I01995_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -595,11 +595,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.4.i_I01995_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -621,7 +621,7 @@
       "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01735",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01735&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "cancer"
                   ,"death"
@@ -647,11 +647,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.4.ii_I01996_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.4.ii_I01996_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -663,11 +663,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.4.ii_I01996_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -689,7 +689,7 @@
       "modified" : "2014-02",
       "identifier" : "HSCIC-Indicator-Portal-P01736",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01736&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "bowel cancer"
                   ,"breast cancer"
@@ -715,12 +715,12 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.4.iii_I01997_D.xls",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xls)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.4.iii_I01997_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/One-year cancer survival (old)_D.xls", "title" : "Indicator data - previous methodology (.xls)", "format" : "application/vnd.ms-excel"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data - previous methodology (.xls)", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -731,11 +731,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.4.iii_I01997_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -757,7 +757,7 @@
       "modified" : "2014-05",
       "identifier" : "HSCIC-Indicator-Portal-P01737",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01737&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "bowel cancer"
                   ,"breast cancer"
@@ -783,12 +783,12 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.4.iv_I01998_D.xls",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xls)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.4.iv_I01998_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/Five-year cancer survival (old)_D.xls", "title" : "Indicator data - previous methodology (.xls)", "format" : "application/vnd.ms-excel"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data - previous methodology (.xls)", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -799,11 +799,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.4.iv_I01998_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -825,7 +825,7 @@
       "modified" : "2016-11",
       "identifier" : "HSCIC-Indicator-Portal-P01740",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01740&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "community mental health services"
                   ,"death"
@@ -851,11 +851,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.5.i_I00665_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.5.i_I00665_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -867,12 +867,12 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.5.i_I00665_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.5.i_I00665_LS.pdf", "title" : "Mental health and mortality data linkage specification", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Mental health and mortality data linkage specification", "format" : "application/pdf"}
                   
                   
                   
@@ -893,7 +893,7 @@
       "modified" : "2017-05",
       "identifier" : "HSCIC-Indicator-Portal-P01743",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01743&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "child health"
                   ,"death"
@@ -919,11 +919,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.6.i_I00666_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.6.i_I00666_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -935,11 +935,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.6.i_I00666_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -961,7 +961,7 @@
       "modified" : "2017-05",
       "identifier" : "HSCIC-Indicator-Portal-P01744",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01744&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "cancer"
                   ,"child health"
@@ -987,11 +987,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.6.ii_I01999_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1.6.ii_I01999_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1003,11 +1003,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_1_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1.6.ii_I01999_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1029,7 +1029,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01746",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01746&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "long-standing"
                   ,"longstanding condition"
@@ -1055,11 +1055,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2_I00705_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2_I00705_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1071,11 +1071,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_2_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_2_I00705_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1097,7 +1097,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01747",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01747&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "long-standing"
                   ,"longstanding condition"
@@ -1123,11 +1123,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.1_I00706_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.1_I00706_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1139,11 +1139,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_2_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_2.1_I00706_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1165,7 +1165,7 @@
       "modified" : "2017-08",
       "identifier" : "HSCIC-Indicator-Portal-P01748",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01748&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "long-standing"
                   ,"longstanding condition"
@@ -1191,11 +1191,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.2_I00707_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.2_I00707_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1207,11 +1207,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_2_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_2.2_I00707_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1233,7 +1233,7 @@
       "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01749",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01749&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "admissions"
                   ,"hospital admission"
@@ -1259,11 +1259,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.3.i_I00708_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.3.i_I00708_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1275,11 +1275,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_2_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_2.3.i_I00708_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1301,7 +1301,7 @@
       "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01750",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01750&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "admissions"
                   ,"asthma"
@@ -1327,11 +1327,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.3.ii_I00671_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.3.ii_I00671_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1343,11 +1343,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_2_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_2.3.ii_I00671_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1369,7 +1369,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01751",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01751&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "long-standing"
                   ,"longstanding condition"
@@ -1395,11 +1395,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.4_I00709_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.4_I00709_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1411,11 +1411,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_2_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_2.4_I00709_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1437,7 +1437,7 @@
       "modified" : "2017-08",
       "identifier" : "HSCIC-Indicator-Portal-P01752",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01752&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "long-standing"
                   ,"longstanding condition"
@@ -1463,11 +1463,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.5.i_I00710_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.5.i_I00710_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1479,11 +1479,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_2_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_2.5.i_I00710_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1505,7 +1505,7 @@
       "modified" : "2016-02",
       "identifier" : "HSCIC-Indicator-Portal-P01754",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01754&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "dementia"
                   ,"long-standing"
@@ -1531,11 +1531,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.6.i_I00744_D.xls",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xls)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.6.i_I00744_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1547,11 +1547,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_2_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_2.6.i_I00744_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1573,7 +1573,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01756",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01756&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "long-standing"
                   ,"longstanding condition"
@@ -1599,11 +1599,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.7_I02010_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_2.7_I02010_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1615,11 +1615,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_2_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_2.7_I02010_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1641,7 +1641,7 @@
       "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01757",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01757&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "acute condition"
                   ,"admissions"
@@ -1667,11 +1667,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3a_I00711_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3a_I00711_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1683,11 +1683,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_3_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_3a_I00711_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1709,7 +1709,7 @@
       "modified" : "2014-02",
       "identifier" : "HSCIC-Indicator-Portal-P01758",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01758&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "hospital admissions"
                   ,"hospital care"
@@ -1735,11 +1735,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3b_I00712_D.xls",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xls)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3b_I00712_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1751,11 +1751,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_3_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_3b_I00712_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1777,7 +1777,7 @@
       "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01762",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01762&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "admissions"
                   ,"child health"
@@ -1803,11 +1803,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.2_I00714_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.2_I00714_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1819,11 +1819,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_3_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_3.2_I00714_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1845,7 +1845,7 @@
       "modified" : "2016-11",
       "identifier" : "HSCIC-Indicator-Portal-P01765",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01765&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "hip fracture"
                   ,"hip-fracture"
@@ -1871,11 +1871,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.5.i_I00717_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.5.i_I00717_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1887,11 +1887,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_3_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_3.5.i_I00717_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1913,7 +1913,7 @@
       "modified" : "2016-11",
       "identifier" : "HSCIC-Indicator-Portal-P01766",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01766&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "hip fracture"
                   ,"hip-fracture"
@@ -1939,11 +1939,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.5.ii_I00718_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.5.ii_I00718_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1955,11 +1955,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_3_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_3.5.ii_I00718_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1981,7 +1981,7 @@
       "modified" : "2016-11",
       "identifier" : "HSCIC-Indicator-Portal-P01767",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01767&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "independence"
                   ,"recovery"
@@ -2007,11 +2007,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.6.i_I00719_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.6.i_I00719_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2023,11 +2023,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_3_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_3.6.i_I00719_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2075,11 +2075,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.6.ii_I00745_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.6.ii_I00745_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2091,11 +2091,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_3_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_3.6.ii_I00745_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2117,7 +2117,7 @@
       "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01770",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01770&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "admissions"
                   ,"children"
@@ -2143,11 +2143,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.7.ii_I02014_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.7.ii_I02014_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2159,11 +2159,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_3_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_3.7.ii_I02014_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2185,7 +2185,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01771",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01771&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "general practice"
                   ,"GP"
@@ -2211,11 +2211,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4a.i_I00739_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4a.i_I00739_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2227,11 +2227,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4a.i_I00739_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2253,7 +2253,7 @@
       "modified" : "2015-09",
       "identifier" : "HSCIC-Indicator-Portal-P01772",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01772&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "general practice"
                   ,"GP"
@@ -2279,11 +2279,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4a.ii_I00740_D.xls",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xls)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4a.ii_I00740_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2295,11 +2295,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4a.ii_I00740_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2321,7 +2321,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01773",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01773&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "dental"
                   ,"dentist"
@@ -2347,11 +2347,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4a.iii_I00741_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4a.iii_I00741_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2363,11 +2363,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4a.iii_I00741_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2389,7 +2389,7 @@
       "modified" : "2017-08",
       "identifier" : "HSCIC-Indicator-Portal-P01774",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01774&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "hospital care"
                   ,"patient experience"
@@ -2415,11 +2415,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4b_I00683_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4b_I00683_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2431,11 +2431,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4b_I00683_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2457,7 +2457,7 @@
       "modified" : "2012-03",
       "identifier" : "HSCIC-Indicator-Portal-P01778",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01778&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "outpatients"
                   ,"patient experience"
@@ -2483,11 +2483,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.1_I00684_D.xls",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xls)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.1_I00684_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2499,11 +2499,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4.1_I00684_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2525,7 +2525,7 @@
       "modified" : "2017-08",
       "identifier" : "HSCIC-Indicator-Portal-P01779",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01779&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "inpatients"
                   ,"patient experience"
@@ -2551,11 +2551,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.2_I00685_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.2_I00685_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2567,11 +2567,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4.2_I00685_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2593,7 +2593,7 @@
       "modified" : "2015-02",
       "identifier" : "HSCIC-Indicator-Portal-P01780",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01780&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "A&E"
                   ,"accident and emergency"
@@ -2619,11 +2619,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.3_I00686_D.xls",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xls)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.3_I00686_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2635,11 +2635,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4.3_I00686_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2661,7 +2661,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01781",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01781&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "access"
                   ,"appointment"
@@ -2687,11 +2687,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.4.i_I00687_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.4.i_I00687_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2703,11 +2703,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4.4.i_I00687_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2729,7 +2729,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01782",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01782&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "access"
                   ,"appointment"
@@ -2755,11 +2755,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.4.ii_I00688_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.4.ii_I00688_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2771,11 +2771,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4.4.ii_I00688_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2797,7 +2797,7 @@
       "modified" : "2016-02",
       "identifier" : "HSCIC-Indicator-Portal-P01783",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01783&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "antenatal care"
                   ,"maternity services"
@@ -2823,11 +2823,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.5_I00689_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.5_I00689_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2839,11 +2839,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4.5_I00689_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2865,7 +2865,7 @@
       "modified" : "2016-05",
       "identifier" : "HSCIC-Indicator-Portal-P01784",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01784&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "bereaved carers"
                   ,"bereavement"
@@ -2891,11 +2891,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.6_I00690_D.xls",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xls)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.6_I00690_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2907,11 +2907,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4.6_I00690_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2933,7 +2933,7 @@
       "modified" : "2013-12",
       "identifier" : "HSCIC-Indicator-Portal-P01785",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01785&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "community mental health services"
                   ,"healthcare"
@@ -2959,11 +2959,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.7_I00691_D.xls",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xls)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_4.7_I00691_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2975,11 +2975,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_4_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_4.7_I00691_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3001,7 +3001,7 @@
       "modified" : "2017-02",
       "identifier" : "HSCIC-Indicator-Portal-P01790",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01790&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "patient safety"
                   ,"venous thromboembolism"
@@ -3027,11 +3027,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.1_I00675_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.1_I00675_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3043,11 +3043,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_5_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_5.1_I00675_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3069,7 +3069,7 @@
       "modified" : "2017-08",
       "identifier" : "HSCIC-Indicator-Portal-P01791",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01791&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "meticillin-resistant staphylococcus aureus"
                   ,"MRSA"
@@ -3095,11 +3095,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.2.i_I00676_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.2.i_I00676_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3111,11 +3111,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_5_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_5.2.i_I00676_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3137,7 +3137,7 @@
       "modified" : "2017-08",
       "identifier" : "HSCIC-Indicator-Portal-P01792",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01792&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "Clostridium difficile"
                   ,"patient safety"
@@ -3163,11 +3163,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.2.ii_I00677_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.2.ii_I00677_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3179,11 +3179,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_5_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_5.2.ii_I00677_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3205,7 +3205,7 @@
       "modified" : "2016-02",
       "identifier" : "HSCIC-Indicator-Portal-P01795",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01795&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "admissions"
                   ,"hospital admissions"
@@ -3231,11 +3231,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.5_I00680_D.xls",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xls)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.5_I00680_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3247,11 +3247,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_5_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_5.5_I00680_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3273,7 +3273,7 @@
       "modified" : "2017-05",
       "identifier" : "HSCIC-Indicator-Portal-P01796",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01796&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "patient safety"
                   
@@ -3299,11 +3299,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.6_I00672_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.6_I00672_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3315,11 +3315,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_Domain_5_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_5.6_I00672_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3341,7 +3341,7 @@
       "modified" : "2015-05",
       "identifier" : "HSCIC-Indicator-Portal-P01797",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01797&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "amenable"
                   ,"death"
@@ -3367,11 +3367,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1a_I00654_D_Retired.xls",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xls)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_1a_I00654_D_Retired.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3383,11 +3383,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1a_I00654_S_Retired.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_1a_I00654_Q_Retired.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3409,7 +3409,7 @@
       "modified" : "2014-11",
       "identifier" : "HSCIC-Indicator-Portal-P01798",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01798&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "patient experience"
                   ,"PROMS"
@@ -3435,11 +3435,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.1_I00713_D_Retired.xls",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xls)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_3.1_I00713_D_Retired.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3451,11 +3451,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_3.1_I00713_S_Retired.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_3.1_I00713_Q_Retired.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3477,7 +3477,7 @@
       "modified" : "2014-11",
       "identifier" : "HSCIC-Indicator-Portal-P01799",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01799&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
       "keyword" : ["health","NHS","healthcare","patients","clinical indicator",
                   "children"
                   ,"patient safety"
@@ -3503,11 +3503,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.6_I00681_D_Retired.xls",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator data (.xls)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Data/NHSOF_5.6_I00681_D_Retired.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3519,11 +3519,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_5.6_I00681_S_Retired.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Outcomes Framework/Specification/NHSOF_5.6_I00681_Q_Retired.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/nhs-outcomes-framework", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
