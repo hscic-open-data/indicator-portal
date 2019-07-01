@@ -9,7 +9,7 @@
       "modified" : "2015-09",
       "identifier" : "HSCIC-Indicator-Portal-P01800",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01800&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "amenable"
                   ,"death"
@@ -39,8 +39,8 @@
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.1_I00767_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.1_I00767_D_AT.xlsx", "title" : "Archived Area Team File (Jun-15).xlsx", "format" : "application/vnd.ms-excel"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Archived Area Team File (Jun-15).xlsx", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -51,11 +51,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.1_I00767_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.1_I00767_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -77,7 +77,7 @@
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01801",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01801&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "cardiovascular"
                   ,"circulatory system diseases"
@@ -107,8 +107,8 @@
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.2_I00754_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.2_I00754_D_AT.xls", "title" : "Archived Area Team File (Sep-14).xls", "format" : "application/vnd.ms-excel"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Archived Area Team File (Sep-14).xls", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -119,11 +119,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.2_I00754_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.2_I00754_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -145,7 +145,7 @@
       "modified" : "2016-12",
       "identifier" : "HSCIC-Indicator-Portal-P01802",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01802&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "CABG"
                   ,"cardiac"
@@ -171,11 +171,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.3_I00769_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.3_I00769_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -187,11 +187,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.3_I00769_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.3_I00769_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -213,7 +213,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01803",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01803&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "kidney disease"
                   ,"myocardial infarction"
@@ -239,11 +239,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.4_I00770_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.4_I00770_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -255,11 +255,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.4_I00770_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.4_I00770_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -281,7 +281,7 @@
       "modified" : "2017-03",
       "identifier" : "HSCIC-Indicator-Portal-P01804",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01804&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "death"
                   ,"deaths"
@@ -307,11 +307,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.5_I00771_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.5_I00771_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -323,11 +323,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.5_I00771_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.5_I00771_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -349,7 +349,7 @@
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01805",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01805&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "death"
                   ,"deaths"
@@ -375,12 +375,12 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.6_I00755_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.6_I00755_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.6_I00755_D_AT.xls", "title" : "Archived Area Team File (Sep-14).xls", "format" : "application/vnd.ms-excel"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Archived Area Team File (Sep-14).xls", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -391,11 +391,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.6_I00755_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.6_I00755_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -417,7 +417,7 @@
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01806",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01806&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "death"
                   ,"deaths"
@@ -443,12 +443,12 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.7_I00768_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.7_I00768_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.7_I00768_D_AT.xls", "title" : "Archived Area Team File (Sep-14).xls", "format" : "application/vnd.ms-excel"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Archived Area Team File (Sep-14).xls", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -459,11 +459,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.7_I00768_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.7_I00768_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -485,7 +485,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01807",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01807&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "acute condition"
                   ,"admissions"
@@ -511,12 +511,12 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.8_I00764_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.8_I00764_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.8_I00764_D_AT.xlsx", "title" : "Archived Area Team File (Mar-15).xlsx", "format" : "application/vnd.ms-excel"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Archived Area Team File (Mar-15).xlsx", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -527,11 +527,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.8_I00764_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.8_I00764_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -553,7 +553,7 @@
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01808",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01808&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "cancer"
                   ,"death"
@@ -579,12 +579,12 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.9_I00756_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.9_I00756_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.9_I00756_D_AT.xls", "title" : "Archived Area Team File (Sep-14).xls", "format" : "application/vnd.ms-excel"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Archived Area Team File (Sep-14).xls", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -595,11 +595,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.9_I00756_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.9_I00756_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -621,7 +621,7 @@
       "modified" : "2017-03",
       "identifier" : "HSCIC-Indicator-Portal-P01809",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01809&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "cancer"
                   ,"death"
@@ -647,12 +647,12 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.10_I00773_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.10_I00773_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.10_I00773_D_AT.xlsx", "title" : "Archived Area Team File (Jun-14).xlsx", "format" : "application/vnd.ms-excel"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Archived Area Team File (Jun-14).xlsx", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -663,11 +663,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.10_I00773_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.10_I00773_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -689,7 +689,7 @@
       "modified" : "2014-06",
       "identifier" : "HSCIC-Indicator-Portal-P01810",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01810&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "bowel cancer"
                   ,"breast cancer"
@@ -715,11 +715,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.11_I00775_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.11_I00775_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -731,11 +731,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.11_I00775_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.11_I00775_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -757,7 +757,7 @@
       "modified" : "2016-03",
       "identifier" : "HSCIC-Indicator-Portal-P01811",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01811&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "general practitioner"
                   ,"GP"
@@ -783,11 +783,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.12_I00777_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.12_I00777_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -799,11 +799,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.12_I00777_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.12_I00777_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -825,7 +825,7 @@
       "modified" : "2015-12",
       "identifier" : "HSCIC-Indicator-Portal-P01812",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01812&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "antenatal"
                   ,"ante-natal"
@@ -851,11 +851,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.13_I00778_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.13_I00778_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -867,11 +867,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.13_I00778_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.13_I00778_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -893,7 +893,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01813",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01813&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "delivery"
                   ,"smoking"
@@ -919,11 +919,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.14_I00779_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.14_I00779_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -935,11 +935,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.14_I00779_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.14_I00779_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -961,7 +961,7 @@
       "modified" : "2015-12",
       "identifier" : "HSCIC-Indicator-Portal-P01814",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01814&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "breast fed"
                   ,"breast feeding"
@@ -987,11 +987,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.15_I00780_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.15_I00780_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1003,11 +1003,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.15_I00780_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.15_I00780_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1029,7 +1029,7 @@
       "modified" : "2017-06",
       "identifier" : "HSCIC-Indicator-Portal-P01816",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01816&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "cancer"
                   ,"cancer diagnosis"
@@ -1055,11 +1055,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.17_I01968_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.17_I01968_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1071,11 +1071,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.17_I01968_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.17_I01968_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1097,7 +1097,7 @@
       "modified" : "2017-06",
       "identifier" : "HSCIC-Indicator-Portal-P01817",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01817&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "cancer"
                   ,"cancer diagnosis"
@@ -1123,11 +1123,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.18_I01969_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.18_I01969_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1139,11 +1139,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.18_I01969_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.18_I01969_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1165,7 +1165,7 @@
       "modified" : "2017-06",
       "identifier" : "HSCIC-Indicator-Portal-P01818",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01818&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "lung cancer"
                   ,"stage"
@@ -1191,12 +1191,12 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.19_I01970_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.19_I01970_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/Archive_CCG_1.19_I01970_D_NLCA.xlsx", "title" : "Archive National Lung Cancer Audit file", "format" : "application/vnd.ms-excel"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Archive National Lung Cancer Audit file", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -1207,11 +1207,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.19_I01970_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.19_I01970_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1233,7 +1233,7 @@
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01819",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01819&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "breast cancer"
                   ,"death"
@@ -1259,12 +1259,12 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.20_I01971_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.20_I01971_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.20_I01971_D_AT.xls", "title" : "Archived Area Team File (Sep-14).xls", "format" : "application/vnd.ms-excel"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Archived Area Team File (Sep-14).xls", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -1275,11 +1275,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.20_I01971_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.20_I01971_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1301,7 +1301,7 @@
       "modified" : "2017-03",
       "identifier" : "HSCIC-Indicator-Portal-P01820",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01820&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "admission"
                   ,"death"
@@ -1327,11 +1327,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.21_I01972_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.21_I01972_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1343,11 +1343,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.21_I01972_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.21_I01972_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1369,7 +1369,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01821",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01821&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "admissions"
                   ,"episodes"
@@ -1395,11 +1395,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.22_I01973_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.22_I01973_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1411,11 +1411,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.22_I01973_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.22_I01973_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1437,7 +1437,7 @@
       "modified" : "2016-03",
       "identifier" : "HSCIC-Indicator-Portal-P01822",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01822&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "general practitioner"
                   ,"GP"
@@ -1463,11 +1463,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.23_I01974_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.23_I01974_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1479,11 +1479,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.23_I01974_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.23_I01974_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1505,7 +1505,7 @@
       "modified" : "2016-12",
       "identifier" : "HSCIC-Indicator-Portal-P01823",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01823&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "CABG"
                   ,"cardiac"
@@ -1531,11 +1531,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.24_I02022_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.24_I02022_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1547,11 +1547,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.24_I02022_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.24_I02022_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1573,7 +1573,7 @@
       "modified" : "2017-06",
       "identifier" : "HSCIC-Indicator-Portal-P01824",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01824&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "neonatal"
                   ,"neonatal deaths"
@@ -1599,11 +1599,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.25_I02023_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.25_I02023_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1615,11 +1615,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.25_I02023_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.25_I02023_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1641,7 +1641,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01827",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01827&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "health-related quality"
                   ,"health-related quality of life"
@@ -1667,12 +1667,12 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.1_I00781_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.1_I00781_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.1_I00781_D_AT.xls", "title" : "Archived Area Team File (Dec-14).xls", "format" : "application/vnd.ms-excel"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Archived Area Team File (Dec-14).xls", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -1683,11 +1683,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.1_I00781_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.1_I00781_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1709,7 +1709,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01828",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01828&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "long term condition"
                   ,"long-term"
@@ -1735,12 +1735,12 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.2_I00782_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.2_I00782_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.2_I00782_D_AT.xls", "title" : "Archived Area Team File (Dec-14).xls", "format" : "application/vnd.ms-excel"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Archived Area Team File (Dec-14).xls", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -1751,11 +1751,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.2_I00782_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.2_I00782_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1777,7 +1777,7 @@
       "modified" : "2016-03",
       "identifier" : "HSCIC-Indicator-Portal-P01829",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01829&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "COPD"
                   ,"Dyspnoea"
@@ -1803,11 +1803,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.3_I00783_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.3_I00783_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1819,11 +1819,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.3_I00783_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.3_I00783_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1845,7 +1845,7 @@
       "modified" : "2017-03",
       "identifier" : "HSCIC-Indicator-Portal-P01830",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01830&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "care"
                   ,"care processes"
@@ -1871,11 +1871,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.4_I00784_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.4_I00784_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1887,11 +1887,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.4_I00784_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.4_I00784_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1913,7 +1913,7 @@
       "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01831",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01831&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "diabetes"
                   ,"education"
@@ -1939,11 +1939,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.5_I00785_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.5_I00785_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -1955,11 +1955,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.5_I00785_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.5_I00785_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -1981,7 +1981,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01832",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01832&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "admissions"
                   ,"hospital admissions"
@@ -2007,12 +2007,12 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.6_I00757_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.6_I00757_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.6_I00757_D_AT.xlsx", "title" : "Archived Area Team File (Mar-15).xlsx", "format" : "application/vnd.ms-excel"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Archived Area Team File (Mar-15).xlsx", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -2023,11 +2023,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.6_I00757_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.6_I00757_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2049,7 +2049,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01833",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01833&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "admissions"
                   ,"hospital admissions"
@@ -2075,12 +2075,12 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.7_I00758_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.7_I00758_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.7_I00758_D_AT.xlsx", "title" : "Archived Area Team File (Mar-15).xlsx", "format" : "application/vnd.ms-excel"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Archived Area Team File (Mar-15).xlsx", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -2091,11 +2091,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.7_I00758_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.7_I00758_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2117,7 +2117,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01834",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01834&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "amputation"
                   ,"diabetes"
@@ -2143,11 +2143,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.8_I00786_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.8_I00786_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2159,11 +2159,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.8_I00786_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.8_I00786_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2185,7 +2185,7 @@
       "modified" : "2015-09",
       "identifier" : "HSCIC-Indicator-Portal-P01835",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01835&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "BME"
                   ,"community mental health"
@@ -2211,11 +2211,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.9_I00787_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.9_I00787_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2227,11 +2227,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.9_I00787_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.9_I00787_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2253,7 +2253,7 @@
       "modified" : "2016-12",
       "identifier" : "HSCIC-Indicator-Portal-P01836",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01836&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "black and minority ethnic"
                   ,"BME"
@@ -2279,11 +2279,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.10_I00788_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.10_I00788_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2295,11 +2295,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.10_I00788_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.10_I00788_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2321,7 +2321,7 @@
       "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01837",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01837&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "change"
                   ,"IAPT"
@@ -2347,11 +2347,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.11a_I02025_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.11a_I02025_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2363,11 +2363,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.11a_I02025_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.11a_I02025_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2389,7 +2389,7 @@
       "modified" : "2016-06",
       "identifier" : "HSCIC-Indicator-Portal-P01838",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01838&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "change"
                   ,"IAPT"
@@ -2415,11 +2415,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.11b_I02026_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.11b_I02026_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2431,11 +2431,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.11b_I02026_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.11b_I02026_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2457,7 +2457,7 @@
       "modified" : "TBC",
       "identifier" : "HSCIC-Indicator-Portal-P01839",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01839&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "change"
                   ,"deterioration"
@@ -2483,11 +2483,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.11c_I02027_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.11c_I02027_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2499,11 +2499,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.11c_I02027_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.11c_I02027_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2525,7 +2525,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01842",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01842&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "health-related quality"
                   ,"health-related quality of life"
@@ -2551,12 +2551,12 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.15_I01961_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.15_I01961_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.15_I01961_D_AT.xls", "title" : "Archived Area Team File (Dec-14).xls", "format" : "application/vnd.ms-excel"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Archived Area Team File (Dec-14).xls", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -2567,11 +2567,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.15_I01961_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.15_I01961_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2593,7 +2593,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01843",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01843&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "health-related quality"
                   ,"health-related quality of life"
@@ -2619,12 +2619,12 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.16_I01976_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.16_I01976_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_2.16_I01976_D_AT.xls", "title" : "Archived Area Team File (Sep-14).xls", "format" : "application/vnd.ms-excel"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Archived Area Team File (Sep-14).xls", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -2635,11 +2635,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.16_I01976_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_2.16_I01976_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2661,7 +2661,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01844",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01844&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "acute condition"
                   ,"admissions"
@@ -2687,12 +2687,12 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.1_I00759_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.1_I00759_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.1_I00759_D_AT.xlsx", "title" : "Archived Area Team File (Mar-15).xlsx", "format" : "application/vnd.ms-excel"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Archived Area Team File (Mar-15).xlsx", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -2703,11 +2703,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.1_I00759_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.1_I00759_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2729,7 +2729,7 @@
       "modified" : "2014-03",
       "identifier" : "HSCIC-Indicator-Portal-P01845",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01845&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "acute condition"
                   ,"admissions"
@@ -2755,11 +2755,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.2_I00760_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.2_I00760_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2771,11 +2771,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.2_I00760_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.2_I00760_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2797,7 +2797,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01846",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01846&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "groin hernia"
                   ,"hip replacement"
@@ -2823,11 +2823,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.3_I00761_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.3_I00761_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2839,11 +2839,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.3_I00761_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.3_I00761_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2865,7 +2865,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01850",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01850&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "acute condition"
                   ,"admissions"
@@ -2891,12 +2891,12 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.4_I00762_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.4_I00762_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.4_I00762_D_AT.xlsx", "title" : "Archived Area Team File (Mar-15).xlsx", "format" : "application/vnd.ms-excel"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Archived Area Team File (Mar-15).xlsx", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -2907,11 +2907,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.4_I00762_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.4_I00762_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -2933,7 +2933,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01851",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01851&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "acute stroke"
                   ,"stroke"
@@ -2959,11 +2959,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.5_I00792_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.5_I00792_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -2975,11 +2975,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.5_I00792_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.5_I00792_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3001,7 +3001,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01852",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01852&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "acute stroke"
                   ,"stroke"
@@ -3027,11 +3027,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.6_I00793_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.6_I00793_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3043,11 +3043,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.6_I00793_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.6_I00793_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3069,7 +3069,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01853",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01853&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "acute stroke"
                   ,"care plan"
@@ -3095,11 +3095,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.7_I00794_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.7_I00794_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3111,11 +3111,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.7_I00794_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.7_I00794_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3137,7 +3137,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01854",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01854&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "acute stroke"
                   ,"follow-up"
@@ -3163,11 +3163,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.8_I00795_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.8_I00795_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3179,11 +3179,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.8_I00795_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.8_I00795_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3205,7 +3205,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01855",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01855&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "acute stroke"
                   ,"stroke"
@@ -3231,11 +3231,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.9_I01977_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.9_I01977_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3247,11 +3247,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.9_I01977_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.9_I01977_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3273,7 +3273,7 @@
       "modified" : "2016-12",
       "identifier" : "HSCIC-Indicator-Portal-P01856",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01856&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "hip fracture"
                   ,"hip-fracture"
@@ -3299,11 +3299,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.10.i_I01978_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.10.i_I01978_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3315,11 +3315,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.10.i_I01978_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.10.i_I01978_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3341,7 +3341,7 @@
       "modified" : "2016-12",
       "identifier" : "HSCIC-Indicator-Portal-P01857",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01857&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "hip fracture"
                   ,"hip-fracture"
@@ -3367,11 +3367,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.10.ii_I01979_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.10.ii_I01979_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3383,11 +3383,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.10.ii_I01979_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.10.ii_I01979_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3409,7 +3409,7 @@
       "modified" : "2016-12",
       "identifier" : "HSCIC-Indicator-Portal-P01858",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01858&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "hip fracture"
                   ,"hip-fracture"
@@ -3435,11 +3435,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.11_I01980_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.11_I01980_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3451,11 +3451,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.11_I01980_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.11_I01980_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3477,7 +3477,7 @@
       "modified" : "2016-12",
       "identifier" : "HSCIC-Indicator-Portal-P01859",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01859&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "hip fracture"
                   ,"hip-fracture"
@@ -3503,11 +3503,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.12_I01981_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.12_I01981_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3519,11 +3519,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.12_I01981_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.12_I01981_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3545,7 +3545,7 @@
       "modified" : "2016-12",
       "identifier" : "HSCIC-Indicator-Portal-P01860",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01860&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "assessment"
                   ,"hip fracture"
@@ -3571,11 +3571,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.13_I01982_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.13_I01982_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3587,11 +3587,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.13_I01982_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.13_I01982_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3613,7 +3613,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01861",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01861&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "admissions"
                   ,"alcohol"
@@ -3639,11 +3639,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.14_I01983_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.14_I01983_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3655,11 +3655,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.14_I01983_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.14_I01983_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3681,7 +3681,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01862",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01862&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "alcohol"
                   ,"alcohol-specific"
@@ -3707,11 +3707,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.15_I01984_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.15_I01984_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3723,11 +3723,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.15_I01984_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.15_I01984_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3749,7 +3749,7 @@
       "modified" : "2016-03",
       "identifier" : "HSCIC-Indicator-Portal-P01863",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01863&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "admissions"
                   ,"hospital admissions"
@@ -3775,11 +3775,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.16_I01985_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.16_I01985_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3791,11 +3791,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.16_I01985_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.16_I01985_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3817,7 +3817,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01864",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01864&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "employment"
                   ,"mental health"
@@ -3843,11 +3843,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.17_I01986_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.17_I01986_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3859,11 +3859,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.17_I01986_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.17_I01986_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3885,7 +3885,7 @@
       "modified" : "2015-09",
       "identifier" : "HSCIC-Indicator-Portal-P01866",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01866&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "general practice"
                   ,"GP"
@@ -3911,12 +3911,12 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_4.1_I00763_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_4.1_I00763_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_4.1_I00763_D_AT.xls", "title" : "Archived Area Team File (Dec-14).xls", "format" : "application/vnd.ms-excel"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Archived Area Team File (Dec-14).xls", "format" : "application/vnd.ms-excel"}
                   
                   
                   
@@ -3927,11 +3927,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_4.1_I00763_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_4.1_I00763_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -3953,7 +3953,7 @@
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01867",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01867&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "inpatients"
                   ,"patient experience"
@@ -3979,11 +3979,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_4.2_I02002_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_4.2_I02002_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -3995,11 +3995,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_4.2_I02002_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_4.2_I02002_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -4021,7 +4021,7 @@
       "modified" : "2016-09",
       "identifier" : "HSCIC-Indicator-Portal-P01870",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01870&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "inpatients"
                   ,"patient experience"
@@ -4047,11 +4047,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_4.5_I02003_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_4.5_I02003_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -4063,11 +4063,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_4.5_I02003_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_4.5_I02003_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -4089,7 +4089,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01875",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01875&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "incidents"
                   ,"patient safety"
@@ -4115,11 +4115,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_5.1_I00803_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_5.1_I00803_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -4131,11 +4131,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.1_I00803_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.1_I00803_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -4157,7 +4157,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01877",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01877&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "infection"
                   ,"Methicillin"
@@ -4183,11 +4183,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_5.3_I00805_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_5.3_I00805_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -4199,11 +4199,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.3_I00805_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.3_I00805_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -4225,7 +4225,7 @@
       "modified" : "2017-09",
       "identifier" : "HSCIC-Indicator-Portal-P01878",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP01878&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "C. difficile"
                   ,"Clostridium difficile"
@@ -4251,11 +4251,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_5.4_I00806_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_5.4_I00806_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -4267,11 +4267,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.4_I00806_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_5.4_I00806_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -4293,7 +4293,7 @@
       "modified" : "2017-06",
       "identifier" : "HSCIC-Indicator-Portal-P02170",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP02170&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "babies"
                   ,"birth"
@@ -4319,11 +4319,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.26_I02024_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_1.26_I02024_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -4335,11 +4335,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.26_I02024_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_1.26_I02024_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
@@ -4361,7 +4361,7 @@
       "modified" : "2016-12",
       "identifier" : "HSCIC-Indicator-Portal-P02171",
       "license" : "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-      "landingPage" : "https://indicators.hscic.gov.uk/webview/index.jsp?v=2&submode=ddi&study=http%3A%2F%2F192.168.229.22%3A80%2Fobj%2FfStudy%2FP02171&mode=documentation&top=yes",
+      "landingPage" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
       "keyword" : ["health","NHS","Clinical Commissioning Group","Clinical Indicator",
                   "best practice"
                   ,"best practice tariff"
@@ -4387,11 +4387,11 @@
                   ],
       "distribution" : [
                   {
-                  "downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.18_I02028_D.xlsx",
+                  "downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator data (.xlsx)",
                   "format" :"application/vnd.ms-excel" 
                   }
-                  ,{"downloadURL" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Data/CCG_3.18_I02028_D.csv", "title" : "Indicator data (.csv)", "format" : "text/csv"}
+                  ,{"downloadURL" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator data (.csv)", "format" : "text/csv"}
                   
                   
                   
@@ -4403,11 +4403,11 @@
                   ],
       "references" : [
                   {
-                  "url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.18_I02028_S.pdf",
+                  "url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set",
                   "title" : "Indicator specification",
                   "format" :"application/pdf" 
                   }
-                  ,{"url" : "https://indicators.hscic.gov.uk/download/Clinical Commissioning Group Indicators/Specification/CCG_3.18_I02028_Q.pdf", "title" : "Indicator quality statement", "format" : "application/pdf"}
+                  ,{"url" : "https://digital.nhs.uk/data-and-information/publications/clinical-indicators/ccg-outcomes-indicator-set", "title" : "Indicator quality statement", "format" : "application/pdf"}
                   
                   
                   
