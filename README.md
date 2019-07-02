@@ -83,11 +83,12 @@ The link should be updated with the latest data. To see the clean version of the
 
 The harvests are already set up:
 
-https://data.gov.uk/harvest/hscic-pomi
+https://ckan.publishing.service.gov.uk/harvest/admin/hscic-indicator-portal-pomi
 
-https://data.gov.uk/harvest/hscic-ccgois
+https://ckan.publishing.service.gov.uk/harvest/admin/hscic-indicator-portal-ccgois
 
-https://data.gov.uk/harvest/hscic-nhsof
+https://ckan.publishing.service.gov.uk/harvest/admin/hscic-indicator-portal-nhsof
+
 
 To refresh, it is simply a case of clicking **Refresh Source**. This tells DGU to go back to the json file and re-import the metadata. All previous indicators should be overwritten, with the DGU dataset links remaining the same.
 
